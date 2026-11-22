@@ -14,4 +14,4 @@ Use a repeatable, evidence-led research process.
 5. Separate verified facts, conflicts, and `NEEDS VERIFICATION` items.
 6. Require independent audit before reporting a claim as verified.
 
-Adapted from the Firecrawl research patterns. Use existing Copilot CLI tools or a configured official integration; do not install extra plugins.
+Use only local tools and public websites: DuckDuckGo browser search, Playwright MCP for browser navigation, and Python with BeautifulSoup for HTML extraction. Do not install extra plugins or API-based research services.

@@ -14,4 +14,4 @@ Inspect public official pages with browser automation.
 - Record final URLs, titles, update dates, and access dates.
 - Mark restricted or inaccessible information as `NEEDS VERIFICATION`.
 
-Use Microsoft Playwright MCP if explicitly configured. Playwright itself needs no API key, but Node/npm and MCP package availability are required. Do not add another browser provider.
+Use the local Microsoft Playwright MCP integration for browser navigation and inspection. It requires no API key or account credentials. Do not add remote browser services or any other browser provider.

@@ -5,12 +5,11 @@ description: Discover official Canadian university and government pages and rele
 
 # Web Search
 
-Search broadly for discovery, but establish authority only through primary sources.
+Use normal browser-based search with DuckDuckGo for discovery, and establish authority only through primary sources.
 
-- Search official university or government domains before secondary sources.
+- Search DuckDuckGo for official university or government domains before secondary sources.
 - Prefer program, faculty, graduate studies, admissions, calendar, IRCC, provincial, and territorial government pages.
 - Search exact program names with terms such as official, graduate calendar, admissions, coursework, thesis, project, IELTS, PGWP, and PNP.
-- Follow relevant results to original pages and save canonical URLs.
-- Record publication/update dates and access dates.
-
-Tavily integration is compatible only with a valid Tavily API key. Store it in an environment variable or MCP secret mechanism, never in project files. Do not add another search provider.
+- Open the DuckDuckGo results in a local browser and follow relevant results to original pages.
+- Do not use paid search APIs or services.
+- Save canonical URLs and record publication/update dates and access dates.
