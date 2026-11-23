@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: [stfx.ca](http://stfx.ca) and [mystfx.ca](http:/
 | How long is it? | 2 years |
 | Minimum grade | 70% |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 30 (sources conflict) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | May 30 |
+| Link to verify the deadline | [Official page](https://www.stfx.ca/programs-courses/programs/master-applied-computer-science) (NOT confirmed, email the university) |
 | Cost (CAD) | 8,615 (unverified) |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -75,7 +76,9 @@ Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the stated 70% min
 - Proof of funds, total program cost, work rules: Not verified (IRCC pages not read).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 30 (sources conflict) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: May 30**
+
+Verify here: [Official page](https://www.stfx.ca/programs-courses/programs/master-applied-computer-science) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

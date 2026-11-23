@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Acadia MSc CS](./1.%20MSc%20in%20Computer%20Science%20-%20Course-based%20or%20Project-based%20route/1.%20MSc%20in%20Computer%20Science%20-%20Course-based%20or%20Project-based%20route.md) | 16 months (course) / 2 years (project) | Nine prerequisite courses at 70%+ | 7.0 / 6.5 | No program date. General Fall rule Apr 1; Feb 1 for funding [verified 2026-11-24, year not shown] | 17,726 per year | Maybe / reach | Not yet  |
 

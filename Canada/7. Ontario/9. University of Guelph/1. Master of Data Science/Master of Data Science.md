@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [uoguelph.ca](http://uoguelph.ca) o
 | How long is it? | 12 months |
 | Minimum grade | 75% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 14 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 14 |
+| Link to verify the deadline | [Official page](https://www.uoguelph.ca/programs/master-of-data-science/) (from notes, not re-opened) |
 | Cost (CAD) | 46,305 per year |
 | My notes say | Maybe, leaning reject |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -83,7 +84,9 @@ BDT in brackets at 1 CAD = 88.69 BDT (Wise, undated snapshot, [source](https://w
 - Work rules (part-time during study, post-study): Not verified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 14 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 14**
+
+Verify here: [Official page](https://www.uoguelph.ca/programs/master-of-data-science/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

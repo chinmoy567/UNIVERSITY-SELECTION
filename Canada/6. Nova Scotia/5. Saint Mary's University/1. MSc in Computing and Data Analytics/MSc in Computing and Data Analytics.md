@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months (with paid work) |
 | Minimum grade | Not published |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 1, 2027 (documents May 31) [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | May 1, 2027 |
+| Link to verify the deadline | [Official page](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html) (from notes, not re-opened) |
 | Cost (CAD) | about 43,368 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -81,7 +82,9 @@ For applicants whose first language is not English and who have no degree taught
 - Scholarships: program page links to awards; no amounts found. Living cost estimate: not published (use proof of funds as a floor). Work rules: paid internship is part of the program; IRCC off-campus work limits not re-verified. Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 1, 2027 (documents May 31) [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: May 1, 2027**
+
+Verify here: [Official page](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

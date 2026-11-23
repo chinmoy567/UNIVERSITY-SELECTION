@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 1.5 to 2 years |
 | Minimum grade | 3.0/4.0 |
 | IELTS needed | 7.0 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 7 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Apr 7 |
+| Link to verify the deadline | [Official page](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/graduate-studies/degrees-and-programs/master-of-engineering.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 826 per credit |
 | My notes say | Shortlist / reach |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -79,7 +80,9 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 60% and 3.0 on the face
 - Work rules and co-op permit: Not checked.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 7 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Apr 7**
+
+Verify here: [Official page](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/graduate-studies/degrees-and-programs/master-of-engineering.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

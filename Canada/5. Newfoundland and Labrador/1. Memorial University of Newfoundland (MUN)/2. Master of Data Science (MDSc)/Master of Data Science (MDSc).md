@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = Memorial University (MUN) or Govern
 | How long is it? | 1 year |
 | Minimum grade | Second class |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15 |
+| Link to verify the deadline | [Official page](https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | about 26,936 |
 | My notes say | Shortlist / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -84,7 +85,9 @@ BDT rate: THIRD-PARTY quotes range 86 to 90.3 BDT per CAD ([Wise](https://wise.c
 - Scholarships/funding: [MUN science funding page](https://www.mun.ca/science/graduate-students/funding-and-scholarships/) (OFFICIAL, listed, not read in detail). Work rules: Not checked.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Jan 15**
+
+Verify here: [Official page](https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

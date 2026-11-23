@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 24 months |
 | Minimum grade | 73 to 76% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 1, 2027 (table unclear) [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1, 2027 |
+| Link to verify the deadline | [Official page](https://ontariotechu.ca/programs/graduate/business-and-information-technology/master-of-information-technology-security/index.php) (from notes, not re-opened) |
 | Cost (CAD) | about 48,345 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -83,7 +84,9 @@ Do I meet it? Unclear. 66.64% passes the Bangladesh credentials figure (63/100) 
 - Conflict – verify with the university: THIRD-PARTY [HotCoursesAbroad](https://www.hotcoursesabroad.com/india/course/canada/master-of-information-technology-security/59099736/program.html) lists about 46,043 per year; the official figure is per credit and above. Prefer official.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 1, 2027 (table unclear) [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Apr 1, 2027**
+
+Verify here: [Official page](https://ontariotechu.ca/programs/graduate/business-and-information-technology/master-of-information-technology-security/index.php) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

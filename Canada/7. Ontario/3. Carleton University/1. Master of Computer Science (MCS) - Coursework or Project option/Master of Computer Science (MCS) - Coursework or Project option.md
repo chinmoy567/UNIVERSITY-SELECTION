@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 years |
 | Minimum grade | Not found |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 20 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jan 20 |
+| Link to verify the deadline | [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (from notes, not re-opened) |
 | Cost (CAD) | 26,787 (Fall + Winter) |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -81,7 +82,9 @@ Source for all: [Carleton English requirements](https://graduate.carleton.ca/int
 - Scholarships: applicants are auto-considered for funding; amounts Not found ([FAQ](https://graduate.carleton.ca/application-faq/)). Non-thesis usually less funded, Unverified. Work rules: Unverified (not read from IRCC).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 20 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jan 20**
+
+Verify here: [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

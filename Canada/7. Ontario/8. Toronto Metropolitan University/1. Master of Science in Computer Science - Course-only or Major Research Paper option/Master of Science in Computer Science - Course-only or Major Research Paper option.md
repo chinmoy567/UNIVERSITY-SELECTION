@@ -7,7 +7,8 @@ Last checked: 2026-11-22. IMPORTANT: for Fall 2027 this program is listed as Int
 | How long is it? | about 2 years |
 | Minimum grade | 3.00/4.33 |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | International CLOSED [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Closed for international |
+| Link to verify the deadline | [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (from notes, not re-opened) |
 | Cost (CAD) | Not found |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -70,7 +71,9 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 63% and above 3.0/4 on 
 - Work rules: Not checked. Check IRCC off-campus work rules for study permit holders.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: International CLOSED [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Closed for international**
+
+Verify here: [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

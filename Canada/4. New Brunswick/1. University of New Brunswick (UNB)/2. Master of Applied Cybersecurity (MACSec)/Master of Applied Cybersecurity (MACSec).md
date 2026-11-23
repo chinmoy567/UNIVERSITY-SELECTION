@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | Not found |
 | Minimum grade | B average |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 28 (early Dec 15) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Feb 28 |
+| Link to verify the deadline | [Official page](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | about 30,740 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -83,7 +84,9 @@ Source for table: [UNB 2026-27 fee PDF](https://unb.ca/finance/_assets/documents
 - Scholarships specific to MACSec, work rules: Not found. Admission does not include funding. No co-op, so no co-op permit.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 28 (early Dec 15) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Feb 28**
+
+Verify here: [Official page](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Guelph Master of Data Science](./1.%20Master%20of%20Data%20Science/1.%20Master%20of%20Data%20Science.md) | 12 months | 75% | 6.5 | Feb 14 [from notes, not re-read] | 46,305 per year | Maybe, leaning reject | Not yet  |
 |  [Guelph Cybersecurity and Threat Intelligence](./2.%20Master%20of%20Cybersecurity%20and%20Threat%20Intelligence/2.%20Master%20of%20Cybersecurity%20and%20Threat%20Intelligence.md) | 12 months | 75% | 6.5 | Not confirmed (Feb 28 or Mar 31) [NOT confirmed] | Not summed | Maybe / reach | Not yet  |

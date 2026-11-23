@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Carleton MCS](./1.%20Master%20of%20Computer%20Science%20(MCS)%20-%20Coursework%20or%20Project%20option/1.%20Master%20of%20Computer%20Science%20(MCS)%20-%20Coursework%20or%20Project%20option.md) | 2 years | Not found | 6.5 / 6.0 | Jan 20 (Data Sci Jan 10) | 26,787 (Fall + Winter) | Maybe / reach | Not yet |
 |  [Carleton Networking Technology](./2.%20Master%20of%20Networking%20Technology/2.%20Master%20of%20Networking%20Technology.md) | 2 years | See Part A | 6.5 / 6.0 | Jan 15 [verified 2026-11-24, year not shown] | 33,478 (Fall + Winter) | Maybe / match | Yes 2026-11-24  |

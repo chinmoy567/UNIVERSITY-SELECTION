@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 73 to 76% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 1, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1, 2027 |
+| Link to verify the deadline | [Official page](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/faqs.php) (from notes, not re-opened) |
 | Cost (CAD) | about 50,966 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -84,7 +85,9 @@ Do I meet it? Unclear, leaning No. By percentage (66.64% vs 73-76%) it does not 
 - Conflict – verify with the university: Ontario Tech pages differ on whether a co-op work permit is needed (see [co-op permit page](https://international.ontariotechu.ca/international-student-services/after-you-arrive/immigration/working-in-canada/co-op-work-permit.php)). Not relevant unless a co-op is added. Whether a provincial attestation letter is required now: Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 1, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Apr 1, 2027**
+
+Verify here: [Official page](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/faqs.php) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

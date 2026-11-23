@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 70% (or 75% last 2 years) |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | No September intake found (Jan 2027 only in notes) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Not found |
+| Link to verify the deadline | [Official page](https://algomau.ca/academics/graduate-programs/master-of-computer-science-16mth/) (NOT confirmed, email the university) |
 | Cost (CAD) | 8,986 per semester |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -86,7 +87,9 @@ All from the [program page](https://algomau.ca/academics/graduate-programs/maste
 - Possible fee increase: Algoma budget news reports international master's increases from Jan 2027 ([news](https://algomau.ca/news/algoma-universitys-board-of-governors-approves-2026-27-operating-budget-fiscal-reality-for-a-sustainable-future/), OFFICIAL, search summary only). Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: No September intake found (Jan 2027 only in notes) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Not found**
+
+Verify here: [Official page](https://algomau.ca/academics/graduate-programs/master-of-computer-science-16mth/) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

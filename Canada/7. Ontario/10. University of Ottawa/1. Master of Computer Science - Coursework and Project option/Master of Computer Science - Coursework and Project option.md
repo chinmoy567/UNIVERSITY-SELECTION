@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: [uottawa.ca](http://uottawa.ca) returned HTTP 40
 | How long is it? | Not found |
 | Minimum grade | B (70%) |
 | IELTS needed | 6.5 (not program-specific) |
-| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (sources conflict; site blocked) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Not found |
+| Link to verify the deadline | [Official page](https://catalogue.uottawa.ca/en/graduate/master-computer-science/) (NOT confirmed, email the university) |
 | Cost (CAD) | about 19,440 (third party) |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -62,7 +63,9 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Total program cost, scholarships, work rules, co-op pay: Not found. Master's tuition is charged as full time when enrolled in 6 or more units (OFFICIAL snippet).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Not confirmed (sources conflict; site blocked) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Not found**
+
+Verify here: [Official page](https://catalogue.uottawa.ca/en/graduate/master-computer-science/) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

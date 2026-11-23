@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 12 months (hybrid) |
 | Minimum grade | 70% or B (conflict) |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jul 30 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jul 30 |
+| Link to verify the deadline | [Official page](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc) (from notes, not re-opened) |
 | Cost (CAD) | Not summed |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -78,7 +79,9 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the stated 70% minim
 - Program is self-funded; no program-specific scholarships found. General: [grschol@uoguelph.ca](mailto:grschol@uoguelph.ca). Work rules: Not found; program is not PGWP-eligible.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jul 30 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jul 30**
+
+Verify here: [Official page](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

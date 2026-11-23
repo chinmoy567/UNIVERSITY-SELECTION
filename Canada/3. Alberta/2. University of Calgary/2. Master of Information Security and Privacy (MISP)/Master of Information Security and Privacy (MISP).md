@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 12 months |
 | Minimum grade | 3.0/4.0 |
 | IELTS needed | 7.0 / 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Deadline for SEPTEMBER 2027 intake | Mar 1, 2027 |
+| Link to verify the deadline | [Official page](https://science.ucalgary.ca/future-students/professional-programs/application-information) (checked 2026-11-24) |
 | Cost (CAD) | about 44,441 tuition (own math) |
 | My notes say | Shortlist / reach |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -76,7 +77,9 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 3.00 if BAIUST is a 4.0
 - Scholarships: "Be the First Scholarship" up to 12,000 mentioned in a search summary, Unverified. [Financing grad school](https://grad.ucalgary.ca/future-students/fees-and-finances/financing-grad-school) (OFFICIAL, not checked in detail). Work rules: Not checked.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated]**
+**Deadline for the Fall (September) 2027 intake: Mar 1, 2027**
+
+Verify here: [Official page](https://science.ucalgary.ca/future-students/professional-programs/application-information) (checked 2026-11-24)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

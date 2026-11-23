@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Waterloo MEng ECE](./1.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering/1.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering.md) | 16 months | 75% | 6.5 | Feb 1, 2027 [from notes, not re-read] | about 73,656 | Rejected | Not yet  |
 |  [Waterloo MEng Systems Design](./2.%20Master%20of%20Engineering%20in%20Systems%20Design%20Engineering/2.%20Master%20of%20Engineering%20in%20Systems%20Design%20Engineering.md) | 16 months | 75% | 6.5 | Feb 1 [from notes, not re-read] | 17,400 per term | Maybe, leaning reject | Not yet  |

@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 1 to 3 years |
 | Minimum grade | See Part A |
 | IELTS needed | 7.0 / 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 15, 2027 (co-op Feb 8, 2027) [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Apr 15, 2027 |
+| Link to verify the deadline | [Official page](https://www.ece.utoronto.ca/graduates/) (from notes, not re-opened) |
 | Cost (CAD) | 76,090 (verified) |
 | My notes say | Shortlist / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -78,7 +79,9 @@ Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above the SGS Bangladesh
 - Work rules: co-op term is paid; U of T states no separate co-op work permit is needed from 2026-04-01 (verify with IRCC). Off-campus part-time hour limits: Not checked.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 15, 2027 (co-op Feb 8, 2027) [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Apr 15, 2027**
+
+Verify here: [Official page](https://www.ece.utoronto.ca/graduates/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

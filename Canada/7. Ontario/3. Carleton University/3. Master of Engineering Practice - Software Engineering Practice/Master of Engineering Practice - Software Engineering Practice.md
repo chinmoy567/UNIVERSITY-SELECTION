@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: graduate calendar ([calendar.carleton.ca](http:/
 | How long is it? | 2 years |
 | Minimum grade | B+ in major, B overall |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Jan 31 |
+| Link to verify the deadline | [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | about 54,035 (other page 61,725 to 66,500) |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -82,7 +83,9 @@ Fees below are the Fall 2025 / Winter 2026 schedule ([MEng EP fees](https://carl
 - Work rules: off campus up to 24 hours per week in term, unlimited in scheduled breaks, with a study permit that allows it ([IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html), OFFICIAL). Co-op work permit: Not retrieved.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 31 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Jan 31**
+
+Verify here: [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

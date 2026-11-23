@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Ontario Tech MEng Software](./1.%20Master%20of%20Engineering%20in%20Software%20Engineering/1.%20Master%20of%20Engineering%20in%20Software%20Engineering.md) | 16 months | B (3.0 on 4.3 scale) | 6.5 | Apr 1, 2027 [from notes, not re-read] | about 46,936 tuition | Maybe / reach | Not yet  |
 |  [Ontario Tech MEng ECE](./2.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering/2.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering.md) | 16 months | 73 to 76% | 6.5 | Apr 1, 2027 [from notes, not re-read] | about 50,966 | Maybe / reach | Not yet  |

@@ -7,7 +7,8 @@
 | How long is it? | about 2 years |
 | Minimum grade | Second class |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1 |
+| Link to verify the deadline | [Official page](https://www.mun.ca/become/graduate/programs/engineering.php) (from notes, not re-opened) |
 | Cost (CAD) | about 29,948 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -77,7 +78,9 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%, below 70%) may or may not count 
 - Scholarships/funding: Not found for course-based MASc. Work rules (part-time, co-op permit): Not found in this check.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 1 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Apr 1**
+
+Verify here: [Official page](https://www.mun.ca/become/graduate/programs/engineering.php) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

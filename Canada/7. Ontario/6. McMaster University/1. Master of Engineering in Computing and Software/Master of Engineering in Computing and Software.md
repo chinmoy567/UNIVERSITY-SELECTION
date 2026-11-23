@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: McMaster Graduate Calendar, registrar fee spread
 | How long is it? | 2 years (or 1 to 2) |
 | Minimum grade | B- (70 to 72%) |
 | IELTS needed | 6.5 / 5.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 28, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 28, 2027 |
+| Link to verify the deadline | [Official page](https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/) (from notes, not re-opened) |
 | Cost (CAD) | Not found |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -77,7 +78,9 @@ Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the 70-72% anticip
 - Total program cost: Not found (tuition missing).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 28, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 28, 2027**
+
+Verify here: [Official page](https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

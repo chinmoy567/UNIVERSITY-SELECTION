@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: [uwinnipeg.ca](http://uwinnipeg.ca) HTML pages r
 | How long is it? | 2 years |
 | Minimum grade | GPA 3.0 (scale unclear) |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 1 |
+| Link to verify the deadline | [Official page](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf) (from notes, not re-opened) |
 | Cost (CAD) | 16,269 tuition per year (2025-26) |
 | My notes say | Shortlist / match |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -76,7 +77,9 @@ Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above 3.0 and above 60/1
 - Study permit and biometrics fees, total program cost, scholarships and funding, work rules: Not found in this check (IRCC page: [study permit documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)). Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 1 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 1**
+
+Verify here: [Official page](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

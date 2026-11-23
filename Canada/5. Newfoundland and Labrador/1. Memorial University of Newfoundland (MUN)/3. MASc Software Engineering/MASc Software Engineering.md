@@ -7,7 +7,8 @@
 | How long is it? | 16 months |
 | Minimum grade | Second class |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1 |
+| Link to verify the deadline | [Official page](https://mun.ca/become/graduate/programs-and-courses/software-engineering/) (from notes, not re-opened) |
 | Cost (CAD) | at least 29,948 |
 | My notes say | Maybe / reach to match |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -81,7 +82,9 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%, not First Class) probably lands 
 - Scholarships and funding for this course-based program: Not found. Work rules (part-time off-campus hours, co-op permit): not checked on IRCC.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 1 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Apr 1**
+
+Verify here: [Official page](https://mun.ca/become/graduate/programs-and-courses/software-engineering/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

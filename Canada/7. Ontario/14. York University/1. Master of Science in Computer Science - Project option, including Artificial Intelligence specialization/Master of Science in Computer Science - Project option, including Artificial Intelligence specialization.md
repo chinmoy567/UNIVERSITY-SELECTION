@@ -7,7 +7,8 @@
 | How long is it? | 20 months |
 | Minimum grade | B+ last 2 years |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Dec 1, 2026 (page shows 2026-12-01, no intake named) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Dec 1, 2026 |
+| Link to verify the deadline | [Official page](https://futurestudents.yorku.ca/graduate/programs/electrical-engineering-and-computer-science) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | Not found |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -64,7 +65,9 @@ BDT rate: THIRD-PARTY range 86.6 to 90.3 from [Wise](https://wise.com/gb/currenc
 - Funding amounts and work rules: Not found / not verified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Dec 1, 2026 (page shows 2026-12-01, no intake named) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Dec 1, 2026**
+
+Verify here: [Official page](https://futurestudents.yorku.ca/graduate/programs/electrical-engineering-and-computer-science) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

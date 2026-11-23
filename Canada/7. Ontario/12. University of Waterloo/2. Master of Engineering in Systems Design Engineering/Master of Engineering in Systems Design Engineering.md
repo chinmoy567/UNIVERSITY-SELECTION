@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 75% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 1 |
+| Link to verify the deadline | [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/systems-design-engineering-master-engineering-meng) (from notes, not re-opened) |
 | Cost (CAD) | 17,400 per term |
 | My notes say | Maybe, leaning reject |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -77,7 +78,9 @@ Tuition unit resolved: both the [Fall 2026 table](https://uwaterloo.ca/finance/m
 - Scholarships: none internal for MEng coursework (FAQ OFFICIAL); external only. Work rules and co-op permit: Unverified (not checked on IRCC).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 1 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 1**
+
+Verify here: [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/systems-design-engineering-master-engineering-meng) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

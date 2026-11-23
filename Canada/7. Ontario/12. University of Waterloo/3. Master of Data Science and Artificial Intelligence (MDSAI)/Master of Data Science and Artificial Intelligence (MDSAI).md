@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 78% |
 | IELTS needed | 7.5 / 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15 |
+| Link to verify the deadline | [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-co-op-master-data) (from notes, not re-opened) |
 | Cost (CAD) | Not found |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -79,7 +80,9 @@ Do I meet it? No. CGPA 3.34 (about 66.64%) is below the 78% minimum, and the rea
 - Work rules: full-time students do paid co-op; part-time cannot work. Co-op work permit details: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jan 15**
+
+Verify here: [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-co-op-master-data) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

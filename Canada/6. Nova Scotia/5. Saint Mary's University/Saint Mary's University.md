@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Saint Mary's MSc Computing and Data Analytics](./1.%20MSc%20in%20Computing%20and%20Data%20Analytics/1.%20MSc%20in%20Computing%20and%20Data%20Analytics.md) | 16 months (with paid work) | Not published | 6.5 / 6.0 | May 1, 2027 (documents May 31) [from notes, not re-read] | about 43,368 | Maybe / reach | Not yet  |
 

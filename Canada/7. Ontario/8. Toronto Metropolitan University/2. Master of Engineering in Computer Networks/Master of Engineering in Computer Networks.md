@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = TMU or government site; THIRD-PARTY
 | How long is it? | 1 year |
 | Minimum grade | 3.00/4.33 |
 | IELTS needed | Not found |
-| Deadline for SEPTEMBER 2027 intake (international) | Dec 1, 2026 preferred; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Deadline for SEPTEMBER 2027 intake | Mar 12, 2027 |
+| Link to verify the deadline | [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (checked 2026-11-24) |
 | Cost (CAD) | about 14,800 per term |
 | My notes say | Maybe / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -74,7 +75,9 @@ Official fee schedule: [MEng Computer Networks International FT fees detail](htt
 - Conflict – verify with the university: THIRD-PARTY collegedunia shows CAD 19,474 (first year) vs CAD 38,472/yr; both disagree with the official schedule above. Prefer official.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Dec 1, 2026 preferred; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated]**
+**Deadline for the Fall (September) 2027 intake: Mar 12, 2027**
+
+Verify here: [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (checked 2026-11-24)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

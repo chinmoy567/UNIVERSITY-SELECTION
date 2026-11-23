@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 terms + project |
 | Minimum grade | Bangladesh: first class or 60% |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jan 31 |
+| Link to verify the deadline | [Official page](https://smithengineering.queensu.ca/ece/graduate/meng) (from notes, not re-opened) |
 | Cost (CAD) | about 32,588 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -83,7 +84,9 @@ Source for the fee table: [Queen's graduate tuition and fees, "Engineering and A
 - THIRD-PARTY cross-check: Collegedunia lists CA\$29,963 for a Queen's MEng (Chemical Engineering), consistent with the official tuition.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 31 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jan 31**
+
+Verify here: [Official page](https://smithengineering.queensu.ca/ece/graduate/meng) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

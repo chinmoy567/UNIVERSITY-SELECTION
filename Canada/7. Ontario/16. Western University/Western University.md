@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Western MEng Software](./1.%20Master%20of%20Engineering%20in%20Software%20Engineering/1.%20Master%20of%20Engineering%20in%20Software%20Engineering.md) | 1 year | 70% | 6.5 | Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated] | 17,172 per term | Maybe / reach | Not yet  |
 |  [Western MEng ECE](./2.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering/2.%20Master%20of%20Engineering%20in%20Electrical%20and%20Computer%20Engineering.md) | 1 year | 70% (last 2 years) | 6.5 / 6.0 | Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated] | 17,172 per term | Maybe / reach | Not yet  |

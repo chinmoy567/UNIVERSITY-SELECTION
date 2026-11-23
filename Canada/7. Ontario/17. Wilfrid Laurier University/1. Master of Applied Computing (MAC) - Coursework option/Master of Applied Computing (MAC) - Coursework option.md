@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | B+ |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 30, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | May 30, 2027 |
+| Link to verify the deadline | [Official page](https://www.wlu.ca/programs/science/graduate/applied-computing-mac/) (from notes, not re-opened) |
 | Cost (CAD) | about 29,076 per year |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -84,7 +85,9 @@ BDT rate: Wise mid-market converter, [source](https://wise.com/gb/currency-conve
 - Third-party tuition listings (IDP, ApplyBoard, CanAm, Mastersportal) differ; not used.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 30, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: May 30, 2027**
+
+Verify here: [Official page](https://www.wlu.ca/programs/science/graduate/applied-computing-mac/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

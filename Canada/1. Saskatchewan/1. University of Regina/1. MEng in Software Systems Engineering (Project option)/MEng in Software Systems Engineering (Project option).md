@@ -7,7 +7,8 @@
 | How long is it? | 2 years, 30 credits |
 | Minimum grade | 70% (exception: 75% in last 2 years) |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Jan 31 |
+| Link to verify the deadline | [Official page](https://www.uregina.ca/graduate-studies-research/future-students/how-to-apply.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 5,387 per full-time term; about 26,935 total |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -82,7 +83,9 @@ Source for the table: [Graduate tuition and fees schedule, Winter 2027](https://
 - Work rules: Not verified from IRCC in this check. Co-op requires a co-op work permit (Unverified).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 31 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Jan 31**
+
+Verify here: [Official page](https://www.uregina.ca/graduate-studies-research/future-students/how-to-apply.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 years |
 | Minimum grade | 3.0/4.0 |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1 |
+| Link to verify the deadline | [Official page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 41,487 to 53,933 (unverified) |
 | My notes say | Maybe / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -80,7 +81,9 @@ Tuition for new students: International $4,148.73 per 3-unit course, fee rate gr
 - Work rules (part-time work, internship permit): Not found on UCalgary pages. Living cost beyond the IRCC minimum: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Apr 1 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Apr 1**
+
+Verify here: [Official page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

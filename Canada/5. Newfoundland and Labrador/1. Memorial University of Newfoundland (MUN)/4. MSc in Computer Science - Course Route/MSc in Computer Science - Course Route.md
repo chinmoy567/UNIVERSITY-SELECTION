@@ -7,7 +7,8 @@
 | How long is it? | 16 months |
 | Minimum grade | 75% and CS degree |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Dec 1 (later until Mar 15, fewer seats) [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Dec 1 |
+| Link to verify the deadline | [Official page](https://www.mun.ca/computerscience/graduate-students/info-for-applicants/) (from notes, not re-opened) |
 | Cost (CAD) | about 7,800 per year |
 | My notes say | Rejected unless waived |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -81,7 +82,9 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university/government site; THIRD-P
 - Funding/scholarships: none for course route. Work rules and co-op work permit: Not verified (check [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html)).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Dec 1 (later until Mar 15, fewer seats) [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Dec 1**
+
+Verify here: [Official page](https://www.mun.ca/computerscience/graduate-students/info-for-applicants/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

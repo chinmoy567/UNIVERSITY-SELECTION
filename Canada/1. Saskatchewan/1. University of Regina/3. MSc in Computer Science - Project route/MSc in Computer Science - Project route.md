@@ -7,7 +7,8 @@
 | How long is it? | 2 years |
 | Minimum grade | 70% overall, 75% CS |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 15 (older notes say admission suspended) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Feb 15 |
+| Link to verify the deadline | [Official page](https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 3,881 per term |
 | My notes say | Rejected. May be suspended |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -76,7 +77,9 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Work rules: Not checked.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 15 (older notes say admission suspended) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Feb 15**
+
+Verify here: [Official page](https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

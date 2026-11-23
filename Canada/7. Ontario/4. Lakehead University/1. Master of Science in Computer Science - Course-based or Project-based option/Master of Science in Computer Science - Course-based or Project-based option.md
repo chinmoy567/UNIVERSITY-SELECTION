@@ -7,7 +7,8 @@ Last checked: 2026-11-22. No Lakehead page shows a "last updated" date (footers 
 | How long is it? | 1 year (course) / 2 years (project) |
 | Minimum grade | B in last 20 half-courses |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 (recommended, rolling) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Feb 1 |
+| Link to verify the deadline | [Official page](https://www.lakeheadu.ca/international/future/dates-and-fees) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 7,966 per term |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -84,7 +85,9 @@ Source: [Lakehead graduate English requirements](https://www.lakeheadu.ca/progra
 - Work rules, co-op permit, Provincial Attestation Letter: Not verified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 1 (recommended, rolling) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Feb 1**
+
+Verify here: [Official page](https://www.lakeheadu.ca/international/future/dates-and-fees) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

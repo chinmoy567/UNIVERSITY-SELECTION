@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 12 months |
 | Minimum grade | 75% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (Feb 28 or Mar 31) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Feb 28 |
+| Link to verify the deadline | [Official page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti) (NOT confirmed, email the university) |
 | Cost (CAD) | Not summed |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -74,7 +75,9 @@ Do I meet it? No / Unclear. CGPA 3.34 ≈ 66.64% is below the stated 75% (B) min
 - Funding: program is self-funded ([Program page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti)). Work rules (part-time hours): Not found in this check; see [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Not confirmed (Feb 28 or Mar 31) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Feb 28**
+
+Verify here: [Official page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

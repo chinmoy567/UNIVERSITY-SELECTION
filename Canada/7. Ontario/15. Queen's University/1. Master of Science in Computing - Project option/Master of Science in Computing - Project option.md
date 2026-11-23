@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = Queen's or Government of Canada pag
 | How long is it? | about 1 term for project |
 | Minimum grade | International need "A" (first class) |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15, 2027 |
+| Link to verify the deadline | [Official page](https://www.cs.queensu.ca/apply/graduate.php) (from notes, not re-opened) |
 | Cost (CAD) | 15,553 |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -90,7 +91,9 @@ Fee source: [Queen's graduate tuition](https://www.queensu.ca/registrar/tuition-
 - Total program cost: no official all-in figure; roughly 15,553 tuition and fees plus living costs.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jan 15, 2027**
+
+Verify here: [Official page](https://www.cs.queensu.ca/apply/graduate.php) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

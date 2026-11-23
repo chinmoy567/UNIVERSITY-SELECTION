@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 1 year |
 | Minimum grade | 70% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated] |
+| Deadline for SEPTEMBER 2027 intake | Jul 5, 2027 (last of 6 rounds; first Sep 7, 2026) |
+| Link to verify the deadline | [Official page](https://www.eng.uwo.ca/graduate/future-students/How-to-Apply-for-Admission/index.html) (checked 2026-11-24) |
 | Cost (CAD) | 17,172 per term |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -95,7 +96,9 @@ Per term, Fall 2026 schedule, row Engineering / Electrical and Computer Engineer
 - Estimated living cost (Western page) and health insurance for later terms: Not found; Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated]**
+**Deadline for the Fall (September) 2027 intake: Jul 5, 2027 (last of 6 rounds; first Sep 7, 2026)**
+
+Verify here: [Official page](https://www.eng.uwo.ca/graduate/future-students/How-to-Apply-for-Admission/index.html) (checked 2026-11-24)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

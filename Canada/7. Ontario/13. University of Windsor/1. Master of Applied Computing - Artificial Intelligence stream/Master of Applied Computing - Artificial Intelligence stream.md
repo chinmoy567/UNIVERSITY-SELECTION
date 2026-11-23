@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [uwindsor.ca](http://uwindsor.ca) /
 | How long is it? | 16 months |
 | Minimum grade | 70% (or 77% last 2 years) |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 15 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | May 15 |
+| Link to verify the deadline | [Official page](https://www.future.uwindsor.ca/program/master-of-applied-computing-mac-artificial-intelligence-stream/) (from notes, not re-opened) |
 | Cost (CAD) | See MAC |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -82,7 +83,9 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the 70% minimum and 
 - Textbooks: budget CAD 1,000+/yr (fees page). Living estimate, scholarships ([awards page](https://www.uwindsor.ca/graduate-studies/456/scholarships-and-awards), not read), work rules: Not found in this check.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 15 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: May 15**
+
+Verify here: [Official page](https://www.future.uwindsor.ca/program/master-of-applied-computing-mac-artificial-intelligence-stream/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

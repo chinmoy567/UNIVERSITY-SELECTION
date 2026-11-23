@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 3.0 (73 to 76%) |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 15, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | May 15, 2027 |
+| Link to verify the deadline | [Official page](https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/) (from notes, not re-opened) |
 | Cost (CAD) | about 35,195 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -79,7 +80,9 @@ Do I meet it? No on the stated minimum (CGPA 3.34 on the BAIUST scale is about 6
 - Estimated total program cost: about 35,200 tuition and fees plus living costs. Work rules (part-time, internship): Not found; check IRCC.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 15, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: May 15, 2027**
+
+Verify here: [Official page](https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

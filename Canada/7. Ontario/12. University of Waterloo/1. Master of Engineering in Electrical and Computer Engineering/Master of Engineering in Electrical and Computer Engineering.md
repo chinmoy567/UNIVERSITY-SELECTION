@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [uwaterloo.ca](http://uwaterloo.ca)
 | How long is it? | 16 months |
 | Minimum grade | 75% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 1, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 1, 2027 |
+| Link to verify the deadline | [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-engineering-meng) (from notes, not re-opened) |
 | Cost (CAD) | about 73,656 |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -78,7 +79,9 @@ Source: [Fall 2026 international graduate tuition](https://uwaterloo.ca/finance/
 - Earlier terms were cheaper (Spring 2026 17,400 + 939.06; Winter 2026 16,572 + 943), so expect yearly increases (Stage 1 notes, OFFICIAL, Unverified).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 1, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 1, 2027**
+
+Verify here: [Official page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-engineering-meng) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 years or less |
 | Minimum grade | International need "A" |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15, 2027 |
+| Link to verify the deadline | [Official page](https://www.cs.queensu.ca/apply/graduate.php) (from notes, not re-opened) |
 | Cost (CAD) | 12,927 per year |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -83,7 +84,9 @@ Fee schedule row used: "Various Master Programs" (international). Computing is n
 - Work rules: Not verified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Jan 15, 2027**
+
+Verify here: [Official page](https://www.cs.queensu.ca/apply/graduate.php) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

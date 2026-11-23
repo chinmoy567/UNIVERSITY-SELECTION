@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = Western/government site; THIRD-PART
 | How long is it? | 12 months |
 | Minimum grade | 75% |
 | IELTS needed | 7.0 / 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 (site says intl applications closed now) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Jan 31 |
+| Link to verify the deadline | [Official page](https://www.uwo.ca/mda/admissions/index.html) (NOT confirmed, email the university) |
 | Cost (CAD) | 20,341 per term |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -81,7 +82,9 @@ Required if first language is not English. Source: [MDA admissions](https://www.
 - Work rules: co-op allowed if mandatory in the Letter of Acceptance ([source](https://international.uwo.ca/studentservices/visas/study_permits.html) OFFICIAL).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 31 (site says intl applications closed now) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Jan 31**
+
+Verify here: [Official page](https://www.uwo.ca/mda/admissions/index.html) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

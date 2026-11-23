@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [MUN Master of AI](./1.%20Master%20of%20Artificial%20Intelligence%20(MAI)/1.%20Master%20of%20Artificial%20Intelligence%20(MAI).md) | 16 months | 75% or upper second | 6.5 (7 in places) | Dec 1 | 9,666 + special fee 20,282 | Maybe / reach | Not yet |
 | [MUN Master of Data Science](./2.%20Master%20of%20Data%20Science%20(MDSc)/2.%20Master%20of%20Data%20Science%20(MDSc).md) | 1 year | Second class | 6.5 | Jan 15 | about 26,936 | Shortlist / match | Yes 2026-11-24 |

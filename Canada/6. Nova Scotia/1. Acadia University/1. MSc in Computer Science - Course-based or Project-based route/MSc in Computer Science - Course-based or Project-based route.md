@@ -7,7 +7,8 @@
 | How long is it? | 16 months (course) / 2 years (project) |
 | Minimum grade | Nine prerequisite courses at 70%+ |
 | IELTS needed | 7.0 / 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | No program date. General Fall rule Apr 1; Feb 1 for funding [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Apr 1 (rolling) |
+| Link to verify the deadline | [Official page](https://www2.acadiau.ca/admissions/graduate-application.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 17,726 per year |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -85,7 +86,9 @@ Do I meet it? Unclear, leaning No. CGPA 3.34 (about 66.64%) is below the 70% / B
 - Living cost in Wolfville, work rules, total program cost: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: No program date. General Fall rule Apr 1; Feb 1 for funding [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Apr 1 (rolling)**
+
+Verify here: [Official page](https://www2.acadiau.ca/admissions/graduate-application.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

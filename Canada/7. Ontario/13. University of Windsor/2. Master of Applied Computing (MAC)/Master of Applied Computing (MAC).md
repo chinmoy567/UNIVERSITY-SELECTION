@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 16 months |
 | Minimum grade | 70% |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | May 15 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | May 15 |
+| Link to verify the deadline | [Official page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) (from notes, not re-opened) |
 | Cost (CAD) | 42,400 |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -84,7 +85,9 @@ Tuition source: [2026/27 fee schedule, APC package Apr 9 2026, "International Gr
 - Work rules: international students may work off campus up to 24 hours per week during study terms ([IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html), OFFICIAL, page updated 2026-04-15). Whether the internship needs a co-op work permit: Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: May 15 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: May 15**
+
+Verify here: [Official page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

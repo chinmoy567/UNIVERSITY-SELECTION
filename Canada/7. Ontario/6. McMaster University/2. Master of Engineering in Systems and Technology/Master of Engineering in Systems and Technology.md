@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = McMaster or Government of Canada si
 | How long is it? | 16 months |
 | Minimum grade | B- or B (page conflicts) |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 28, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 28, 2027 |
+| Link to verify the deadline | [Official page](https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/) (from notes, not re-opened) |
 | Cost (CAD) | 55,804 per year |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -76,7 +77,9 @@ Do I meet it? No (likely). CGPA 3.34 (about 66.64%) is below the 70-72% / 7.0/12
 - Estimated total program cost, living-cost estimate, scholarships: Not found. Leads: [McMaster cost estimator](https://future.mcmaster.ca/finances/cost-estimator/) (undergraduate only) and [Graduate Studies funding](https://gs.mcmaster.ca/tuition-financial-aid-scholarships/) (not read). Work rules and co-op work permit: Not verified in this check.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 28, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 28, 2027**
+
+Verify here: [Official page](https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

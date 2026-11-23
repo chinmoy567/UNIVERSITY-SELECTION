@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: [uottawa.ca](http://uottawa.ca) HTML pages retur
 | How long is it? | Not found |
 | Minimum grade | B (70%) |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Not found (site blocked) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Not found |
+| Link to verify the deadline | [Official page](https://www.uottawa.ca/study/graduate-studies/how-to-apply) (NOT confirmed, email the university) |
 | Cost (CAD) | Not found |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -69,7 +70,9 @@ Do I meet it? No (likely). CGPA 3.34 (about 66.64%) is below the stated 70% (B) 
 - Total program cost, scholarships, work rules: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Not found (site blocked) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Not found**
+
+Verify here: [Official page](https://www.uottawa.ca/study/graduate-studies/how-to-apply) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

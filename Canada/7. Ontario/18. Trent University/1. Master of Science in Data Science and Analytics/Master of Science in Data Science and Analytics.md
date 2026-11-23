@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: [trentu.ca/graduatestudies/node/38](http://trent
 | How long is it? | 12 months |
 | Minimum grade | 77% |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (third party says Feb 1) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Not found |
+| Link to verify the deadline | [Official page](https://www.trentu.ca/graduatestudies/admissions/how-apply) (NOT confirmed, email the university) |
 | Cost (CAD) | Not summed |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -84,7 +85,9 @@ Rate source: Wise mid-market showed about 90.3 and Revolut about 86.4 (undated s
 - Earlier snippet of \$4,637 per term is the "Other Canadian" rate, not international.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Not confirmed (third party says Feb 1) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Not found**
+
+Verify here: [Official page](https://www.trentu.ca/graduatestudies/admissions/how-apply) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

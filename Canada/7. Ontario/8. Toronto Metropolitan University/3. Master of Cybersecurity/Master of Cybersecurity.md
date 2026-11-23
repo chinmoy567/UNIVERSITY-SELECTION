@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 1 year |
 | Minimum grade | 3.0/4.33 |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | First review Jan 22; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Deadline for SEPTEMBER 2027 intake | Mar 12, 2027 |
+| Link to verify the deadline | [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (checked 2026-11-24) |
 | Cost (CAD) | 45,246 |
 | My notes say | Shortlist / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -80,7 +81,9 @@ Source: [TMU English requirements](https://www.torontomu.ca/graduate/future-stud
 - Work rules: Not checked on an official page.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: First review Jan 22; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated]**
+**Deadline for the Fall (September) 2027 intake: Mar 12, 2027**
+
+Verify here: [Official page](https://www.torontomu.ca/graduate/future-students/application-dates/) (checked 2026-11-24)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

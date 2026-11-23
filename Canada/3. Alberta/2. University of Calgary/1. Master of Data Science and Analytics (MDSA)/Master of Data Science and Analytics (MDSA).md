@@ -7,7 +7,8 @@
 | How long is it? | 12 months |
 | Minimum grade | 3.0/4.0 |
 | IELTS needed | 7.0 / 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Deadline for SEPTEMBER 2027 intake | Mar 1, 2027 |
+| Link to verify the deadline | [Official page](https://science.ucalgary.ca/future-students/professional-programs/application-information) (checked 2026-11-24) |
 | Cost (CAD) | about 47,453 (own math) |
 | My notes say | Shortlist / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -104,7 +105,9 @@ Academic year: 2026-27. The calendar page "Graduate Course-based Tuition" states
 - Living-cost estimate: Not found. Work rules: Unverified (check IRCC off-campus work page). Internship pay: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated]**
+**Deadline for the Fall (September) 2027 intake: Mar 1, 2027**
+
+Verify here: [Official page](https://science.ucalgary.ca/future-students/professional-programs/application-information) (checked 2026-11-24)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

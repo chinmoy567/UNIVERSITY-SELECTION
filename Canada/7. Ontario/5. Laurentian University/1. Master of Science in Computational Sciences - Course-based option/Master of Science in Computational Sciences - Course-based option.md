@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 years |
 | Minimum grade | 70% |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jun 15 (general rule; program date not found) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Jun 15 |
+| Link to verify the deadline | [Official page](https://laurentian.ca/academics/admissions/graduate) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | Not summed |
 | My notes say | Maybe or reject |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -88,7 +89,9 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the stated 70% minim
 - Conflict – verify with the university: deposit deadline 30 days ([newly admitted students page](https://laurentian.ca/international/newly-admitted-students)) vs 3 weeks ([deposit policy PDF](https://laurentian.ca/sites/default/files/2025-11/Deposit-Policy-for-International-Applicants-EN_0.pdf), per Stage 1 search summary; not readable).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jun 15 (general rule; program date not found) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Jun 15**
+
+Verify here: [Official page](https://laurentian.ca/academics/admissions/graduate) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

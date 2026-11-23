@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [TMU MSc CS](./1.%20Master%20of%20Science%20in%20Computer%20Science%20-%20Course-only%20or%20Major%20Research%20Paper%20option/1.%20Master%20of%20Science%20in%20Computer%20Science%20-%20Course-only%20or%20Major%20Research%20Paper%20option.md) | about 2 years | 3.00/4.33 | 7.0 | International CLOSED [from notes, not re-read] | Not found | Maybe / reach | Not yet  |
 |  [TMU MEng Computer Networks](./2.%20Master%20of%20Engineering%20in%20Computer%20Networks/2.%20Master%20of%20Engineering%20in%20Computer%20Networks.md) | 1 year | 3.00/4.33 | Not found | Dec 1, 2026 preferred; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated] | about 14,800 per term | Maybe / match | Yes 2026-11-24  |

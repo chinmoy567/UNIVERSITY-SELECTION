@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 4 terms |
 | Minimum grade | 75% |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 15, 2027 [from notes, not re-read] |
+| Deadline for SEPTEMBER 2027 intake | Feb 15, 2027 |
+| Link to verify the deadline | [Official page](https://www.csd.uwo.ca/graduate/future/faq.html) (from notes, not re-opened) |
 | Cost (CAD) | 8,441 per term |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -88,7 +89,9 @@ Fees per term, Fall 2026, full-time international, MSc Computer Science, tuition
 - Western's estimated living cost and off-campus work rules: Not found.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 15, 2027 [from notes, not re-read]**
+**Deadline for the Fall (September) 2027 intake: Feb 15, 2027**
+
+Verify here: [Official page](https://www.csd.uwo.ca/graduate/future/faq.html) (from notes, not re-opened)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

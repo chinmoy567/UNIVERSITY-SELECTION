@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  [Algoma MCS Data Science and AI](./1.%20Master%20of%20Computer%20Science%20-%20Data%20Science%20and%20Artificial%20Intelligence/1.%20Master%20of%20Computer%20Science%20-%20Data%20Science%20and%20Artificial%20Intelligence.md) | 16 months | 70% (or 75% last 2 years) | 6.5 / 6.0 | No September intake found (Jan 2027 only in notes) [NOT confirmed] | 8,986 per semester | Maybe / reach | Not yet  |
 

@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Regina MEng Software Systems (Project)](./1.%20MEng%20in%20Software%20Systems%20Engineering%20(Project%20option)/1.%20MEng%20in%20Software%20Systems%20Engineering%20(Project%20option).md) | 2 years, 30 credits | 70% (exception: 75% in last 2 years) | 6.5 / 6.0 | Fall Jan 31, Winter Jul 31 (year not shown) | 5,387 per full-time term; about 26,935 total | Maybe / reach | Not yet |
 | [Regina MSc CS, course-based](./2.%20MSc%20in%20Computer%20Science%20-%20Course-based%20route%20(Data%20Science%20or%20Human-Centred%20Computing)/2.%20MSc%20in%20Computer%20Science%20-%20Course-based%20route%20(Data%20Science%20or%20Human-Centred%20Computing).md) | 2 years | 70% overall, 75% CS | 6.5 | Data Science Feb 15, HCC Jun 15 | 5,234 per term | Maybe, leaning reject. Admission may be suspended | Not yet |

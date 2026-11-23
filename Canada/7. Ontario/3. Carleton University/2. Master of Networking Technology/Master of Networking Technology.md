@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 | How long is it? | 2 years |
 | Minimum grade | See Part A |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15 |
+| Link to verify the deadline | [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | 33,478 (Fall + Winter) |
 | My notes say | Maybe / match |
 | Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
@@ -82,7 +83,9 @@ Do I meet it? Unclear (leaning Yes). CGPA 3.34 (about 66.64%) is above the 55-60
 - Work rules: Not checked (Unverified).
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15 [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Jan 15**
+
+Verify here: [Official page](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

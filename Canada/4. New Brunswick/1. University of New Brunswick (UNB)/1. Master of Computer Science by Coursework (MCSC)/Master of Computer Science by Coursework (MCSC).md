@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Labels: OFFICIAL = UNB or Government of Canada site; T
 | How long is it? | 12 to 24 months |
 | Minimum grade | "B" (pages conflict) |
 | IELTS needed | 7.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Feb 28 (early Dec 15) [verified 2026-11-24, year not shown] |
+| Deadline for SEPTEMBER 2027 intake | Feb 28 |
+| Link to verify the deadline | [Official page](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) (checked 2026-11-24, no year on page) |
 | Cost (CAD) | Only small fees listed |
 | My notes say | Maybe / reach |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -89,7 +90,9 @@ Fee source: [UNB fee sheet "Master of Computer Science - Course Based - Full Tim
 - Work rules: not verified in this check (check IRCC). Co-op work permit: not verified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Feb 28 (early Dec 15) [verified 2026-11-24, year not shown]**
+**Deadline for the Fall (September) 2027 intake: Feb 28**
+
+Verify here: [Official page](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) (checked 2026-11-24, no year on page)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 

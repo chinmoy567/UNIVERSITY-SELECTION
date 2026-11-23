@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Laurier MAC, coursework](./1.%20Master%20of%20Applied%20Computing%20(MAC)%20-%20Coursework%20option/1.%20Master%20of%20Applied%20Computing%20(MAC)%20-%20Coursework%20option.md) | 16 months | B+ | 6.5 / 6.0 | Spring Jan 15, 2027 | about 29,076 per year | Maybe / reach | Not yet |
 

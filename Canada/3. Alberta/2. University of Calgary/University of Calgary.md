@@ -2,7 +2,7 @@
 
 ## Programs at a glance
 
-| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Checked |
+| Program | Length | Min grade | IELTS | Sept 2027 deadline | Cost (CAD) | Notes status | Link to verify deadline |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [UCalgary MDSA](./1.%20Master%20of%20Data%20Science%20and%20Analytics%20(MDSA)/1.%20Master%20of%20Data%20Science%20and%20Analytics%20(MDSA).md) | 12 months | 3.0/4.0 | 7.0 / 6.5 | Mar 1 | about 47,453 (own math) | Shortlist / match | Yes 2026-11-24 |
 | [UCalgary MISP](./2.%20Master%20of%20Information%20Security%20and%20Privacy%20(MISP)/2.%20Master%20of%20Information%20Security%20and%20Privacy%20(MISP).md) | 12 months | 3.0/4.0 | 7.0 / 6.5 | Mar 1 | about 44,441 tuition (own math) | Shortlist / reach | Yes 2026-11-24 |

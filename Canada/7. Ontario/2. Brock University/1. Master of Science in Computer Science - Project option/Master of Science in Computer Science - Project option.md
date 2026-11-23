@@ -7,7 +7,8 @@ Last checked: 2026-11-22. Note: every [brocku.ca](http://brocku.ca) page returne
 | How long is it? | 16 months |
 | Minimum grade | 75% (unconfirmed) |
 | IELTS needed | 6.5 / 6.0 |
-| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 (site blocked me) [NOT confirmed] |
+| Deadline for SEPTEMBER 2027 intake | Jan 15 |
+| Link to verify the deadline | [Official page](https://brocku.ca/programs/graduate/msc-cosc) (NOT confirmed, email the university) |
 | Cost (CAD) | Unclear |
 | My notes say | Rejected |
 | Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
@@ -72,7 +73,9 @@ Rate note: midpoint of Wise 88.69 and Revolut 86-87 snapshots, undated, THIRD-PA
 - Study permit and biometrics fees, living cost estimate, scholarships/funding amounts, work rules: not checked in detail. Open [Brock funding](https://brocku.ca/graduate-studies/financial-resources/funding) and [IRCC study permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) manually. Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
-**Deadline for the Fall (September) 2027 intake, international: Jan 15 (site blocked me) [NOT confirmed]**
+**Deadline for the Fall (September) 2027 intake: Jan 15**
+
+Verify here: [Official page](https://brocku.ca/programs/graduate/msc-cosc) (NOT confirmed, email the university)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 
