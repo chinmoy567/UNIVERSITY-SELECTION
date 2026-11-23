@@ -109,13 +109,13 @@ Minimums are "from your files" (2026-11-22). Part A of `Canada - Easy Comparison
 | Program | Min grade | IELTS | Do I meet it? | Chance |
 | --- | --- | --- | --- | --- |
 | UCalgary MEng Software | 3.0/4.0 (last 2 years) | 6.5 / 6.0 | Yes (3.42) | **Medium to High, 55% to 70%** |
-| UWinnipeg MSc Applied CS and Society | GPA 3.0 (scale unclear) | 6.5 | Probably (not re-checked) | **Medium to High, 55% to 70%** |
+| UWinnipeg MSc Applied CS and Society | GPA 3.0 (scale unclear); course route needs 3.0 in computing, math and stats courses | 6.5 | Overall yes. Math average about 2.85 may fail. | **Medium, 45% to 60%** |
 | TMU MEng Computer Networks | 3.00/4.33 (last 2 years) | Not found | Probably (scale difference) | **Medium to High, 50% to 65%** |
 | TMU Master of Cybersecurity | 3.0/4.33 (last 2 years) | 7.0 | Probably | **Medium to High, 50% to 65%** |
-| UAlberta MEng ECE | 3.0/4.0 (last 60 units) | 7.0 / 6.0 | Yes. Needs ECE-type background. | **Medium to High, 50% to 65%** |
-| UCalgary MDSA | 3.0/4.0 (last 60 units) | 7.0 / 6.5 | Yes. Math B+ may matter. | **Medium to High, 50% to 65%** |
+| UAlberta MEng ECE | 3.0/4.0 (last 60 units) | 7.0 / 6.0 | Unclear. Needs ECE-type background. | **Medium, 40% to 55%** |
+| UCalgary MDSA | 3.0/4.0 (last 60 units) | 7.0 / 6.5 | Unclear. Needs B in calculus (yours C+). | **Medium, 40% to 55%** |
 | MUN Master of Data Science | "Second class" | 6.5 | Yes | **Medium to High, 50% to 65%** |
-| UofT MEng ECE | "Mid-B"; Bangladesh 60/100 or 3.0/4.0 | 7.0 / 6.5 | Yes on paper. Very costly. | **Medium, 50% to 60%** |
+| UofT MEng ECE | "Mid-B"; Bangladesh 60/100 or 3.0/4.0 | 7.0 / 6.5 | Yes on paper. Very costly. Cut-off unknown. | **Medium, 35% to 50%** |
 | Carleton Networking Technology | Bangladesh page: 55 to 60% overall, 65 to 70% in major | 6.5 / 6.0 | Yes overall. Major is borderline. | **Medium, 45% to 60%** |
 | Dalhousie Master of Digital Innovation | 3.0 | 7.0 | Yes | **Medium, 45% to 60%** |
 
