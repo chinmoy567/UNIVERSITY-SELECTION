@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = Memorial University (MUN) or Government of Canada site; THIRD-PARTY = other. No site blocked automated fetching. Items marked Unverified were not confirmed on a current official page.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year |
+| Minimum grade | Second class |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | about 26,936 |
+| My notes say | Shortlist / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Data Science (MDSc), Memorial University of Newfoundland, St. John's, Newfoundland and Labrador. [Program page](https://www.mun.ca/become/graduate/programs-and-courses/data-science/) (OFFICIAL, updated Oct 27, 2026)
@@ -65,7 +83,10 @@ BDT rate: THIRD-PARTY quotes range 86 to 90.3 BDT per CAD ([Wise](https://wise.c
 - Estimated total program cost: Not found. Indicative: tuition and fees about 26,936 plus living costs, about CAD 47,500 to 54,000 (Unverified, my arithmetic).
 - Scholarships/funding: [MUN science funding page](https://www.mun.ca/science/graduate-students/funding-and-scholarships/) (OFFICIAL, listed, not read in detail). Work rules: Not checked.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall intake: application deadline January 15. [Program page](https://www.mun.ca/become/graduate/programs-and-courses/data-science/) (OFFICIAL, Oct 27, 2026). Fall 2027 applications open from the first week of September 2026 ([Apply to Memorial](https://www.mun.ca/become/graduate/apply-to-memorial/), OFFICIAL).
 - All documents must be received by the deadline; late materials "may be processed by exception".

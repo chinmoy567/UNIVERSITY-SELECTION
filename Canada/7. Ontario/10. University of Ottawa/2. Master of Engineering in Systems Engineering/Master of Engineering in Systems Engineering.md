@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: [uottawa.ca](http://uottawa.ca) HTML pages return HTTP 402 and [catalogue.uottawa.ca](http://catalogue.uottawa.ca) returns empty content to automated tools (not bypassed), so most uOttawa items are seen only as search-result text on official pages ("snippet") and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | Not found |
+| Minimum grade | B (70%) |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Not found (site blocked) [NOT confirmed] |
+| Cost (CAD) | Not found |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering in Systems Engineering (MEng), program without thesis (course-based, with project options), University of Ottawa, Faculty of Engineering, Ottawa, Ontario. Applicants must select "program without thesis" on the application. [Catalogue 2026-2027](https://catalogue.uottawa.ca/en/graduate/master-engineering-systems-engineering/) (OFFICIAL, snippet, Unverified). Former name: Master of Systems Science and Engineering.
@@ -50,9 +68,12 @@ Do I meet it? No (likely). CGPA 3.34 (about 66.64%) is below the stated 70% (B) 
 - THIRD-PARTY, not for this program and unreliable: Hotcourses CAD 31,507.35/yr (MASc ECE); Collegedunia C\$21,005/yr (MASc Mechanical). Different online program, per course: [Engineering Management online](https://www.uottawa.ca/faculty-engineering/online-programs/tuition-fees) \$2,400/course (OFFICIAL, different program).
 - Total program cost, scholarships, work rules: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Not found (site blocked) [NOT confirmed]**
 
-- Application period for Fall and Winter 2027 opened 2026-09-17; graduate deadlines are set by the academic unit ([How to apply](https://www.uottawa.ca/study/graduate-studies/how-to-apply), OFFICIAL, snippet, Unverified). Specific deadlines for this program, document and decision dates, rolling admission: Not found / not published.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+graduate deadlines are set by the academic unit ([How to apply](https://www.uottawa.ca/study/graduate-studies/how-to-apply), OFFICIAL, snippet, Unverified). Specific deadlines for this program, document and decision dates, rolling admission: Not found / not published.
 - THIRD-PARTY (Collegedunia) lists Feb 1, 2027 for another uOttawa MEng; not reliable.
 
 ## 7. Courses and credits

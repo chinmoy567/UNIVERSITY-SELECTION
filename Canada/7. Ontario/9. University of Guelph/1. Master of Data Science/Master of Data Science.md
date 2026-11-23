@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = [uoguelph.ca](http://uoguelph.ca) or [canada.ca](http://canada.ca); THIRD-PARTY = other. No official page showed a "last updated" date unless stated. Intake now open: Fall 2027 (applications opened Sept 2026). No sites were blocked.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 75% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 14 [from notes, not re-read] |
+| Cost (CAD) | 46,305 per year |
+| My notes say | Maybe, leaning reject |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Data Science (MDS), University of Guelph, Guelph, Ontario. [Program page](https://www.uoguelph.ca/programs/master-of-data-science/) (OFFICIAL, no date) and [Graduate Calendar](https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/data-science/) (OFFICIAL, 2026-27)
@@ -64,7 +82,10 @@ BDT in brackets at 1 CAD = 88.69 BDT (Wise, undated snapshot, [source](https://w
 - Scholarship: Vector Scholarship in AI, consideration deadline Dec 15. Conflict – verify with the university: the [program page](https://www.uoguelph.ca/programs/master-of-data-science/) lists both \$21,000 and \$17,500. The program is otherwise self-funded.
 - Work rules (part-time during study, post-study): Not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 14 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall 2027 intake (applications opened September 2026). International: February 14. Domestic: March 31. Vector Scholarship consideration: December 15. Reviews December to April; notifications by end of June. ([Program page](https://www.uoguelph.ca/programs/master-of-data-science/) OFFICIAL)
 - Conflict – verify with the university: the [FAQ](https://www.uoguelph.ca/programs/master-of-data-science/faq/) says the portal closes February 13. Prefer the program page (February 14) but apply earlier.

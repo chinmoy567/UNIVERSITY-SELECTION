@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No UNB page shows a "last updated" date. Nothing was blocked.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | Not found |
+| Minimum grade | B average |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 28 (early Dec 15) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | about 30,740 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Cybersecurity (MACSec), University of New Brunswick, Fredericton, NB. [Program page](https://www.unb.ca/fredericton/cs/grad/masters/macsec/index.html) (OFFICIAL)
@@ -64,7 +82,10 @@ Source for table: [UNB 2026-27 fee PDF](https://unb.ca/finance/_assets/documents
 - Conflict – verify with the university: [MastersPortal](https://www.mastersportal.com/studies/377328/applied-cybersecurity.html) (THIRD-PARTY) shows 26,731, older than the official 28,335; prefer official. Uni2study and Coursecompare match 28,335.
 - Scholarships specific to MACSec, work rules: Not found. Admission does not include funding. No co-op, so no co-op permit.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 28 (early Dec 15) [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Fall/September only. [Admission requirements](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) (OFFICIAL, re-checked 2026-11-22): Dec 15 early deadline; Jan 15 standard, "extended to Feb 28"; decisions by Mar 31 for applications complete by Jan 15. International applicants should apply at least 6 months ahead. Review usually 4-6 weeks ([SGS](https://www.unb.ca/gradstudies/admissions/index.html)). Year of dates not stated: verify for Fall 2027. Rolling admission, document deadline: Not found.
 

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Most Carleton pages show no updated date. [calendar.carleton.ca](http://calendar.carleton.ca) refused connections (not bypassed), so calendar-only facts are marked Unverified.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | Not found |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 20 [from notes, not re-read] |
+| Cost (CAD) | 26,787 (Fall + Winter) |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Computer Science (MCS), joint with uOttawa EECS (OCICS), Carleton School of Computer Science, Faculty of Science. [Program page](https://graduate.carleton.ca/program/computer-science-masters/) and [SCS master's page](https://carleton.ca/scs/future-students/graduate-studies/masters-program/) (OFFICIAL, no date)
@@ -62,7 +80,10 @@ Source for all: [Carleton English requirements](https://graduate.carleton.ca/int
 - Estimated first year: about 26,787 + 948 = 27,735 (BDT about 2.46M), roughly 55,000 for 2 years before living costs. Own arithmetic, Unverified.
 - Scholarships: applicants are auto-considered for funding; amounts Not found ([FAQ](https://graduate.carleton.ca/application-faq/)). Non-thesis usually less funded, Unverified. Work rules: Unverified (not read from IRCC).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 20 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [Graduate program deadlines](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (OFFICIAL, no year shown, presumably Fall 2027, Unverified).
 
@@ -72,7 +93,7 @@ Source: [Graduate program deadlines](https://graduate.carleton.ca/apply-online/d
 | Data Science, Analytics, and AI (MCS) | Fall | January 10 |
 
 - Conflict resolved: the Jan 10 row belongs to the Data Science/AI field of study, not general Computer Science. This page's route (Computer Science MCS) uses January 20. Confirm your field choice at application.
-- Documents are due with the application; late referees may miss it. Decisions rolling, SCS says up to 8 weeks after deadline ([FAQ](https://graduate.carleton.ca/application-faq/), [SCS](https://carleton.ca/scs/how-to-apply-to-graduate-school-in-computer-science/), OFFICIAL). No Winter or Summer intake.
+- Documents are due with the application; late referees may miss it. Decisions rolling, SCS says up to 8 weeks after deadline ([FAQ](https://graduate.carleton.ca/application-faq/), [SCS](https://carleton.ca/scs/how-to-apply-to-graduate-school-in-computer-science/), OFFICIAL).
 
 ## 7. Courses and credits
 

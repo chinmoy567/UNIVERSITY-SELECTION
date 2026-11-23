@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = UNB or Government of Canada site; THIRD-PARTY = other. None of the UNB HTML pages show a "last updated" date. The UNB fee-sheet PDF could not be re-read as text in this check (binary stream), so its figures come from the Stage 1 read and are marked "Stage 1".
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 to 24 months |
+| Minimum grade | "B" (pages conflict) |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 28 (early Dec 15) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | Only small fees listed |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Computer Science by Coursework (MCSC), University of New Brunswick, Fredericton, New Brunswick. [Grad Studies program page](https://www.unb.ca/gradstudies/programs/computer-science.html) (OFFICIAL)
@@ -70,14 +88,16 @@ Fee source: [UNB fee sheet "Master of Computer Science - Course Based - Full Tim
 - Scholarships: Not found for MCSC (course-based students are generally not funded). Check [UNB graduate financial support](https://www.unb.ca/gradstudies/current/financial/index.html). Unverified.
 - Work rules: not verified in this check (check IRCC). Co-op work permit: not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 28 (early Dec 15) [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [CS grad admission requirements](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) and [program page](https://www.unb.ca/gradstudies/programs/computer-science.html) (OFFICIAL, rechecked 2026-11-22, no date shown).
 
 | Intake | Deadline | Decision |
 | --- | --- | --- |
 | Fall (September) | Early: Dec 15. Regular: Jan 15 "extended to February 28". Program page: Feb 28 | March 31 for applications complete by Jan 15 |
-| Winter (January) | May 31 (both pages) | June 30 for applications complete by April 30 |
 
 - Conflict – verify with the university: Jan 15 versus Feb 28 for Fall (page says extended to Feb 28; Stage 1 also saw an older PDF with Jan 5).
 - International applicants outside Canada should apply at least 6 months ahead. Apply at [apply.unb.ca](http://apply.unb.ca); fee required before review. Rolling admission: not stated. Document deadline: Not found.

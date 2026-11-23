@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = [uwindsor.ca](http://uwindsor.ca) / [canada.ca](http://canada.ca); THIRD-PARTY = other. None of the Windsor pages show a last-updated date. The professional tuition page ([uwindsor.ca/professional/421/tuition-and-fees](http://uwindsor.ca/professional/421/tuition-and-fees)) returned HTTP 503 and was not bypassed; it is seen only as a search snippet.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 70% (or 77% last 2 years) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 15 [from notes, not re-read] |
+| Cost (CAD) | See MAC |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Computing (MAC), Artificial Intelligence stream, University of Windsor. [Program page](https://www.future.uwindsor.ca/program/master-of-applied-computing-mac-artificial-intelligence-stream/) (OFFICIAL, no date)
@@ -63,15 +81,16 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the 70% minimum and 
 - Rough planning only (Unverified): 28,350 + 2,000 + 1,000 = 31,350 CAD tuition-side, plus living costs; total not confirmed.
 - Textbooks: budget CAD 1,000+/yr (fees page). Living estimate, scholarships ([awards page](https://www.uwindsor.ca/graduate-studies/456/scholarships-and-awards), not read), work rules: Not found in this check.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 15 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Application deadline | Source |
 | --- | --- | --- |
-| Summer | February 15 | [Grad Studies page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) OFFICIAL, undated |
 | Fall | May 15 | same |
-| Winter | October 1 | same |
 
-- The Winter 2027 deadline (Oct 1, 2026) has passed. Next: Summer 2027 (Feb 15, 2027) or Fall 2027 (May 15, 2027). The year is not printed on the page, so confirm. International applicants are advised to apply about 6 months ahead (general admission page). Rolling admission, document and decision dates: Not found.
+The year is not printed on the page, so confirm. International applicants are advised to apply about 6 months ahead (general admission page). Rolling admission, document and decision dates: Not found.
 
 ## 7. Courses and credits
 

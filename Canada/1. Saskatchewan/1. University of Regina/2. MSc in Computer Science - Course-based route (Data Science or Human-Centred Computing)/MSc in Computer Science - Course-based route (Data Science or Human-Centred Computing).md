@@ -1,5 +1,23 @@
 # MSc in Computer Science – Course-based route (Data Science or Human-Centred Computing)
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | 70% overall, 75% CS |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 15 (page says this program is postponed) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 5,234 per term |
+| My notes say | Maybe, leaning reject. Admission may be suspended |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = [uregina.ca](http://uregina.ca) / [canada.ca](http://canada.ca) / [bb.org.bd](http://bb.org.bd) / [bankofcanada.ca](http://bankofcanada.ca); THIRD-PARTY = other. No University of Regina page shows a last-updated date (footer only), so each was checked on 2026-11-22. IMPORTANT: the Graduate Calendar and the program page say admission to these course-based programs is "temporarily suspended"; the department admission page still lists deadlines. Conflict – verify with the university before applying.
 
 ## 1. Basics
@@ -69,9 +87,12 @@ Fees from the [Graduate Tuition and Fees Schedule, Winter 2026 (202610), dated N
 - FGSR general page: international "all other programs" about 16,000 per year (approximate) ([tuition and fees](https://uregina.ca/graduate-studies-research/future-students/tuition-and-fees.html), OFFICIAL).
 - Scholarships and funding: Not found in this pass. Work rules (part-time, co-op work permit): Not found in this pass; verify on [canada.ca](http://canada.ca).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 15 (page says this program is postponed) [verified 2026-11-24, year not shown]**
 
-- DS Fall intake: February 15. HCC Winter intake: June 15 ([admission page](https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html), OFFICIAL). Spring/Summer October 15 applies to thesis/project/PhD only.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- DS Fall intake: February 15.
 - Decision: review can take up to two months after the deadline. Rolling admission, separate documents deadline: Not found.
 - Conflict – verify with the university: the FGSR how-to-apply page gives generic dates (March 1, July 1, November 1) for programs without listed deadlines; the department dates are program-specific and take priority.
 

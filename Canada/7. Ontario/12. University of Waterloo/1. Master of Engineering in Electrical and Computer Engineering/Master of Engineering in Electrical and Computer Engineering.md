@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = [uwaterloo.ca](http://uwaterloo.ca) / [canada.ca](http://canada.ca); THIRD-PARTY = other. No Waterloo page shows a "last updated" date (footer 2026 only). No site blocked; some old URLs returned 404 (noted). BDT at about 1 CAD = 88 BDT (THIRD-PARTY, [Wise](https://wise.com/gb/currency-converter/cad-to-bdt-rate), snapshots 86.55 to 90.35 seen 2026-11-22; Bank of Canada does not list BDT), so BDT is approximate.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 75% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 1, 2027 [from notes, not re-read] |
+| Cost (CAD) | about 73,656 |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Electrical and Computer Engineering, University of Waterloo. [Grad program page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-engineering-meng) and [department page](https://uwaterloo.ca/electrical-computer-engineering/master-engineering-meng) (OFFICIAL)
@@ -59,15 +77,16 @@ Source: [Fall 2026 international graduate tuition](https://uwaterloo.ca/finance/
 - Funding: MEng students are expected to be entirely self-funded; no supervisor funding ([dept page](https://uwaterloo.ca/electrical-computer-engineering/master-engineering-meng), OFFICIAL). Scholarships: Not found. Work rules (off-campus hours, co-op work permit): Not found in this check; confirm on IRCC.
 - Earlier terms were cheaper (Spring 2026 17,400 + 939.06; Winter 2026 16,572 + 943), so expect yearly increases (Stage 1 notes, OFFICIAL, Unverified).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 1, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Application deadline | Source |
 | --- | --- | --- |
-| Winter 2027 (Jan 1) | June 1, 2026 (passed) | [dept page](https://uwaterloo.ca/electrical-computer-engineering/master-engineering-meng) OFFICIAL |
-| Spring 2027 (May 1) | October 1, 2026 (passed) | same |
 | Fall 2027 (Sept 1) | February 1, 2027 (open) | same; consistent with grad page and co-op page |
 
-- Decisions (estimates, may change): Fall deadline Feb 1, decision April; Winter June 1, August; Spring Oct 1, December ([FAQ](https://uwaterloo.ca/electrical-computer-engineering/graduate-studies/future-students/faq), OFFICIAL). Documents, references and ELP must be complete by the deadline. Not rolling.
+- Decisions (estimates, may change): Fall deadline Feb 1, decision April; Documents, references and ELP must be complete by the deadline. Not rolling.
 
 ## 7. Courses and credits
 

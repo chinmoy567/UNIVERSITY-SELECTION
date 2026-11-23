@@ -1,5 +1,23 @@
 [prograd.science@ucalgary.ca](mailto:prograd.science@ucalgary.ca),
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 3.0/4.0 |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | about 47,453 (own math) |
+| My notes say | Shortlist / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 <p>
  [sci.grad@ucalgary.ca](mailto:sci.grad@ucalgary.ca),
 </p>
@@ -85,7 +103,10 @@ Academic year: 2026-27. The calendar page "Graduate Course-based Tuition" states
 - Scholarships/funding: none found specific to MDSA. [Financing grad school](https://grad.ucalgary.ca/future-students/financing-grad-school) OFFICIAL (not opened).
 - Living-cost estimate: Not found. Work rules: Unverified (check IRCC off-campus work page). Internship pay: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Application opens | International deadline | Source |
 | --- | --- | --- | --- |

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. None of the Western pages show a last-updated date unless noted. The Fall 2026 fee schedule PDF is marked DRAFT and could not be re-read by the fetch tool (compressed PDF); its figures were confirmed through an official-PDF search result and the first research pass.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year |
+| Minimum grade | 70% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | 17,172 per term |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Software Engineering specialization, Electrical and Computer Engineering (ECE), Faculty of Engineering, Western University, London, Ontario. [Program page](https://www.eng.uwo.ca/Electrical/graduate/current_students/meng_programs/meng_software.html) (OFFICIAL, no date)
@@ -76,12 +94,15 @@ Per term, Fall 2026 schedule, row Engineering / Electrical and Computer Engineer
 - Conflict – verify with the university: THIRD-PARTY figures differ widely: [IDP](https://www.idp.com/universities-and-colleges/western-university/master-of-engineering-in-software-engineering/PRG-CA-00151031) CAD 15,045 for 2 semesters (2025); other sites list about CAD 45,779 to 47,037 for the year. Official 2026 total is 51,515.25 for 3 terms. Prefer the official figure.
 - Estimated living cost (Western page) and health insurance for later terms: Not found; Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated]**
 
-- MEng Fall: the ECE page shows a July 31 domestic deadline, no clear international MEng deadline, and a stray "February 10, 2025" international Fall date (outdated). Winter and Summer: n/a. [ECE grad page](https://www.eng.uwo.ca/graduate/future-students/Graduate-Degree-Programs/electrical-computer.html) (OFFICIAL, re-checked)
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- MEng Fall: the ECE page shows a July 31 domestic deadline, no clear international MEng deadline, and a stray "February 10, 2025" international Fall date (outdated). [ECE grad page](https://www.eng.uwo.ca/graduate/future-students/Graduate-Degree-Programs/electrical-computer.html) (OFFICIAL, re-checked)
 - Conflict – verify with the university: an unsourced THIRD-PARTY mention of a "Jan 20" international deadline; do not rely on it. Ask [weadmit@uwo.ca](mailto:weadmit@uwo.ca) or [ecegrad@uwo.ca](mailto:ecegrad@uwo.ca).
 - Document and decision dates, rolling admission: Not found.
-- Course add dates: Fall 2026 Sept 15; Winter 2027 Jan 15; Summer 2027 May 15 ([MEng programs](https://www.eng.uwo.ca/Electrical/graduate/current_students/meng_programs/index.html), OFFICIAL, first pass).
+- Course add dates: Fall 2026 Sept 15;
 
 ## 7. Courses and credits
 

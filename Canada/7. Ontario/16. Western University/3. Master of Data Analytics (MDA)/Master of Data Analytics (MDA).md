@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = Western/government site; THIRD-PARTY = other. No Western MDA page shows a "last updated" date.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 75% |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 (site says intl applications closed now) [NOT confirmed] |
+| Cost (CAD) | 20,341 per term |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Data Analytics (MDA), Faculty of Science, Western University. [Program home](https://uwo.ca/mda/index.html) OFFICIAL
@@ -62,7 +80,10 @@ Required if first language is not English. Source: [MDA admissions](https://www.
 - Study permit and biometrics fees: Not checked on IRCC. Unverified.
 - Work rules: co-op allowed if mandatory in the Letter of Acceptance ([source](https://international.uwo.ca/studentservices/visas/study_permits.html) OFFICIAL).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 31 (site says intl applications closed now) [NOT confirmed]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [MDA admissions](https://www.uwo.ca/mda/admissions/index.html) OFFICIAL
 

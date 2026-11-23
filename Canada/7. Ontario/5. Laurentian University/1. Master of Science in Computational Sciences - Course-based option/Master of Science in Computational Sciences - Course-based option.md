@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Laurentian pages show no "last updated" date (footer says 2026). All figures CAD, international student, 2026-27 estimates unless stated.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | 70% |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jun 15 (general rule; program date not found) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | Not summed |
+| My notes say | Maybe or reject |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Computational Sciences (MSc), Faculty of Science, Engineering and Architecture, on campus. [Program page](https://laurentian.ca/program/computational-sciences-msc) (OFFICIAL)
@@ -69,11 +87,14 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the stated 70% minim
 - Conflict – verify with the university: ApplyBoard (THIRD-PARTY) shows course-based first-year 15,876 ([source](https://applyboard.com/schools/laurentian-university/programs/master-of-science-computational-sciences-course)) vs official 16,355.45. Prefer official.
 - Conflict – verify with the university: deposit deadline 30 days ([newly admitted students page](https://laurentian.ca/international/newly-admitted-students)) vs 3 weeks ([deposit policy PDF](https://laurentian.ca/sites/default/files/2025-11/Deposit-Policy-for-International-Applicants-EN_0.pdf), per Stage 1 search summary; not readable).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jun 15 (general rule; program date not found) [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - September: June 15. January: October 15. May: February 15 (where applicable). Some programs have their own deadlines. [International graduate applicants](https://laurentian.ca/apply/international-graduate-applicants) (OFFICIAL)
 - Program page states no intakes or deadlines; program-specific date: Not found. Rolling admission, document deadline, decision dates: Not found.
-- Today is 2026-11-22: the 2026 September and 2027 January deadlines have passed. Next possible: May 2027 (Feb 15, 2027, if the program offers it) or September 2027 (June 15, 2027). Confirm intakes with the program.
+- Today is 2026-11-22: the 2026 September and 2027 January deadlines have passed. Confirm intakes with the program.
 
 ## 7. Courses and credits
 

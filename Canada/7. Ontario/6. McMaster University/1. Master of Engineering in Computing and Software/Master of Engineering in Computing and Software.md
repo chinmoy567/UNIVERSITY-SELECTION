@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: McMaster Graduate Calendar, registrar fee spreadsheet (SharePoint) and some pages return 403/404 to automated tools and were not bypassed; items seen only in search-result text are marked Unverified. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Most McMaster pages show no last-updated date (only a 2026 copyright).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years (or 1 to 2) |
+| Minimum grade | B- (70 to 72%) |
+| IELTS needed | 6.5 / 5.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 28, 2027 [from notes, not re-read] |
+| Cost (CAD) | Not found |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng) in Computing and Software, McMaster University. [Program page](https://www.eng.mcmaster.ca/cas/degree-options/computing-and-software-meng/) (OFFICIAL, no date) and [Graduate Studies listing](https://gs.mcmaster.ca/program/computing-and-software/) (OFFICIAL, no date).
@@ -58,14 +76,17 @@ Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the 70-72% anticip
 - Funding: none guaranteed for MEng students; TA or scholarships possible but not guaranteed (info sheet and regulations, OFFICIAL). Work rules: not verified from IRCC.
 - Total program cost: Not found (tuition missing).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 28, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | International | Canadian/PR | Source |
 | --- | --- | --- | --- |
 | September 2027 | February 28, 2027 | July 31, 2027 | [Engineering how-to-apply](https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/) OFFICIAL, re-checked 2026-11-22; also [GS listing](https://gs.mcmaster.ca/program/computing-and-software/) |
 
 - Rolling admission until full; international applicants hear by end of May, others in June ([FAQ 2024](https://www.eng.mcmaster.ca//app/uploads/2024/03/Application_FAQ_Graduate_Computing-and-Software.pdf), OFFICIAL). Allow at least 10 weeks after the deadline for a decision (Engineering FAQ). Document deadline: Not found.
-- The Engineering page also lists January 2027 (international June 30, 2026, passed) and May 2027 (international October 31, 2026, passed) for Faculty programs; whether this MEng uses them is Unverified.
+whether this MEng uses them is Unverified.
 
 ## 7. Courses and credits
 

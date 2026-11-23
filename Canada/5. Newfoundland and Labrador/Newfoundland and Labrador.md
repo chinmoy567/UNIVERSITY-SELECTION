@@ -1,4 +1,16 @@
-# Newfoundland and Labrador (Notion page text)
+# Newfoundland and Labrador
+
+## Universities at a glance
+
+| University | Programs | Shortlist | Maybe | Rejected |
+| --- | --- | --- | --- | --- |
+| [Memorial University of Newfoundland (MUN)](./1.%20Memorial%20University%20of%20Newfoundland%20(MUN)/Memorial%20University%20of%20Newfoundland%20(MUN).md) | 5 | 1 | 3 | 1 |
+
+Status words come from your own earlier notes. Open a university to see each program.
+
+---
+
+## Original notes
 
 Source: Notion, STUDY ABROD / UNIVERSITY / CANADA / Newfoundland and Labrador.
 

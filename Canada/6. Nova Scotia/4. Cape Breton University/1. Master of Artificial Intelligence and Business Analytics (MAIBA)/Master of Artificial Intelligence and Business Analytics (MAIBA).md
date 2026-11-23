@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = any other site. The CBU program and fee pages show no "last updated" date. The sample planner PDF is OFFICIAL but its text was machine-extracted, so term placement is Unverified.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 3.0 (73 to 76%) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 15, 2027 [from notes, not re-read] |
+| Cost (CAD) | about 35,195 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Artificial Intelligence and Business Analytics (MAIBA), Cape Breton University. [Program page](https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/) (OFFICIAL)
@@ -60,7 +78,10 @@ Do I meet it? No on the stated minimum (CGPA 3.34 on the BAIUST scale is about 6
 - Scholarships: none found on the program page. Financial-aid contacts on the tuition page: 902-563-1670 and 902-563-1687.
 - Estimated total program cost: about 35,200 tuition and fees plus living costs. Work rules (part-time, internship): Not found; check IRCC.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 15, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Opens | Closes | Source |
 | --- | --- | --- | --- |

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Queen's pages show no "last updated" date. Calendar and fee PDFs returned no readable text to automated tools.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 terms + project |
+| Minimum grade | Bangladesh: first class or 60% |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [from notes, not re-read] |
+| Cost (CAD) | about 32,588 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Electrical and Computer Engineering, course-based with Academic Project (ELEC 898). Professional/coursework master's. [Program page](https://smithengineering.queensu.ca/ece/graduate/meng) (OFFICIAL, checked 2026-11-22)
@@ -64,7 +82,10 @@ Source for the fee table: [Queen's graduate tuition and fees, "Engineering and A
 - Work rules (part-time, off-campus): Not found in this check.
 - THIRD-PARTY cross-check: Collegedunia lists CA\$29,963 for a Queen's MEng (Chemical Engineering), consistent with the official tuition.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 31 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall intake only. International application deadline: January 31. Domestic: March 1. International decisions usually end of April. [Program page](https://smithengineering.queensu.ca/ece/graduate/meng) (OFFICIAL, re-checked 2026-11-22)
 - The page does not state the year (presumably Fall 2027 entry, Unverified). Document deadline: the application is complete only when the fee is paid and all documents are in ([apply page](https://www.queensu.ca/grad-postdoc/grad-studies/apply), OFFICIAL). Rolling admission: Not stated.

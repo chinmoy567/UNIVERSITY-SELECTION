@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = TMU or government site; THIRD-PARTY = other. Several [torontomu.ca](http://torontomu.ca) URLs returned 404 and were not bypassed.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year |
+| Minimum grade | 3.00/4.33 |
+| IELTS needed | Not found |
+| Deadline for SEPTEMBER 2027 intake (international) | Dec 1, 2026 preferred; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | about 14,800 per term |
+| My notes say | Maybe / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng) in Computer Networks, Toronto Metropolitan University (TMU), Toronto, ON. [Program page](https://torontomu.ca/graduate/programs/computer-networks) (OFFICIAL, no date)
@@ -55,7 +73,10 @@ Official fee schedule: [MEng Computer Networks International FT fees detail](htt
 - Living cost estimate, scholarships, work rules, total program cost: Not found. Funding via TA, scholarships, awards ([program page](https://torontomu.ca/graduate/programs/computer-networks)).
 - Conflict – verify with the university: THIRD-PARTY collegedunia shows CAD 19,474 (first year) vs CAD 38,472/yr; both disagree with the official schedule above. Prefer official.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Dec 1, 2026 preferred; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall 2027: first consideration 2027-01-22; FEAS international preferred deadline 2026-12-01 (confirm it applies to this program); international closing 2027-03-12 unless program says otherwise; rolling until full. [Application dates](https://www.torontomu.ca/content/ryerson/graduate/future-students/application-dates/) (OFFICIAL, "as of Nov 20, 2026")
 - Document and decision dates: Not found.

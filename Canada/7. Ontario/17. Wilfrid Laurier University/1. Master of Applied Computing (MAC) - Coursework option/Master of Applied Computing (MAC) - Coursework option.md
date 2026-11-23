@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. All items below were re-fetched on 2026-11-22 unless marked Unverified. No pages were blocked.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | B+ |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 30, 2027 [from notes, not re-read] |
+| Cost (CAD) | about 29,076 per year |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Computing (MAC), coursework (professional, course-based) option. [Program page](https://www.wlu.ca/programs/science/graduate/applied-computing-mac/) (OFFICIAL, no page date)
@@ -65,16 +83,16 @@ BDT rate: Wise mid-market converter, [source](https://wise.com/gb/currency-conve
 - Work rules and living-cost estimate: Not found. Unverified.
 - Third-party tuition listings (IDP, ApplyBoard, CanAm, Mastersportal) differ; not used.
 
-## 6. Deadlines (coursework, international)
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 30, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [Program page](https://www.wlu.ca/programs/science/graduate/applied-computing-mac/) (OFFICIAL, re-checked)
 
 | Intake | International deadline |
 | --- | --- |
-| Winter 2027 (January) | Sept 15, 2026 (passed) |
-| Spring 2027 (May) | Jan 15, 2027 |
 | Fall 2027 (September) | May 30, 2027 |
-| Winter 2028 | Aug 15, 2027 |
 
 - Domestic dates (reference, Stage 1): Nov 15, 2026; Mar 15, 2027; Jul 30, 2027.
 - Rolling assessment until the deadline or program full. Separate document or decision dates: Not published. OUAC portal reportedly reopens Sept 10 for the 2027 cycle (search snippet, Unverified).

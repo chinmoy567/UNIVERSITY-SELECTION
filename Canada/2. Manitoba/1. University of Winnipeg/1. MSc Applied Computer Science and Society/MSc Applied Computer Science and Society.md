@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: [uwinnipeg.ca](http://uwinnipeg.ca) HTML pages return HTTP 403 to automated tools, so some official items are seen only as search-result text on official pages ("snippet") and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | GPA 3.0 (scale unclear) |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 [from notes, not re-read] |
+| Cost (CAD) | 16,269 tuition per year (2025-26) |
+| My notes say | Shortlist / match |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Applied Computer Science and Society (MSc-ACS), University of Winnipeg, Winnipeg, Manitoba. [Program page](https://www.uwinnipeg.ca/programs/msc-acs.html) (OFFICIAL, not readable, 403) and [Graduate Calendar PDF, updated 2026-04-23](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf) (OFFICIAL)
@@ -57,9 +75,12 @@ Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above 3.0 and above 60/1
 - Conflict – verify with the university: THIRD-PARTY listings show 17,732 CAD/yr ([TopUniversities](https://www.topuniversities.com/universities/university-winnipeg/postgrad/applied-computer-science-society)), 21,486 CAD/yr ([CollegeDunia](https://collegedunia.com/canada/university/65-university-of-winnipeg-winnipeg/master-of-science-ms-applied-computer-science-and-society-5097)), and 5,423 per term ([Mastersportal](https://www.mastersportal.com/studies/149167/applied-computer-science-and-society.html), matches official). Prefer the official figure.
 - Study permit and biometrics fees, total program cost, scholarships and funding, work rules: Not found in this check (IRCC page: [study permit documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)). Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 1 [from notes, not re-read]**
 
-- September start: February 1. January start: July 1 ([Calendar PDF](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf), OFFICIAL; consistent with the [grad program overview](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf), snippet).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- September start: February 1. consistent with the [grad program overview](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf), snippet).
 - Document deadline, decision dates, rolling admission: Not found / not published. Third-party Feb 2, 2027 date is not reliable.
 
 ## 7. Courses and credits

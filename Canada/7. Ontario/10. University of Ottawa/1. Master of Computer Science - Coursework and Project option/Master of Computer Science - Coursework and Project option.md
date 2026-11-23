@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: [uottawa.ca](http://uottawa.ca) returned HTTP 402/403 to automated tools (not bypassed), and [catalogue.uottawa.ca](http://catalogue.uottawa.ca) and [ocics.eecs.uottawa.ca](http://ocics.eecs.uottawa.ca) returned empty or 403. Most uOttawa items below come from search-result text of official pages ("snippet") and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | Not found |
+| Minimum grade | B (70%) |
+| IELTS needed | 6.5 (not program-specific) |
+| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (sources conflict; site blocked) [NOT confirmed] |
+| Cost (CAD) | about 19,440 (third party) |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Computer Science (MCS), Coursework and Project option, University of Ottawa, Ottawa, Ontario. [Catalogue](https://catalogue.uottawa.ca/en/graduate/master-computer-science/) (OFFICIAL, snippet, Unverified). [Program page](https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/computer-science) (OFFICIAL, blocked).
@@ -43,10 +61,12 @@ Last checked: 2026-11-22. Note: [uottawa.ca](http://uottawa.ca) returned HTTP 40
 
 - Total program cost, scholarships, work rules, co-op pay: Not found. Master's tuition is charged as full time when enrolled in 6 or more units (OFFICIAL snippet).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Not confirmed (sources conflict; site blocked) [NOT confirmed]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Catalogue: Fall start only; apply by Sept 30 of the first year (co-op also Sept 30) ([catalogue](https://catalogue.uottawa.ca/en/graduate/master-computer-science/), OFFICIAL snippet, undated).
-- OCICS admission page: international Fall March 1, Winter July 1; domestic Fall May 1, Winter October 1 ([OCICS](https://ocics.eecs.uottawa.ca/admission/index.php), OFFICIAL snippet, undated, blocked 403).
 - THIRD-PARTY: Fall 2027 international January 15, 2027 with documents by February 15, 2027 ([uni2study](https://www.uni2study.com/programs/canada/university-of-ottawa/masters-degree/computer-science), Unverified); ApplyBoard shows a February 2026 deadline for a thesis version (past).
 - Conflict – verify with the university: Sept 30 (catalogue) vs March 1 / July 1 (OCICS) vs Jan 15, 2027 (third-party). No page date was available to pick the latest. Planning assumption: treat the earliest (Jan 15 to Mar 1, 2027 for Fall) as the safe date, and confirm on the program's admission requirements table at [how to apply](https://www.uottawa.ca/study/graduate-studies/how-to-apply).
 - Decision dates, rolling admission: Not found.

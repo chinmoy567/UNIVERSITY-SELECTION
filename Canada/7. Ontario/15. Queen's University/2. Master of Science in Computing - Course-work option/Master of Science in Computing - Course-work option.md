@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Pages re-fetched live on 2026-11-22 unless marked Unverified. None of the Queen's pages shows a last-updated date.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years or less |
+| Minimum grade | International need "A" |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15, 2027 [from notes, not re-read] |
+| Cost (CAD) | 12,927 per year |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Computing, course-work pattern, School of Computing, Faculty of Arts and Science, Queen's University, Kingston, Ontario. [Program page](https://www.cs.queensu.ca/graduate/msc/patterns/course-work.php) (OFFICIAL)
@@ -64,9 +82,12 @@ Fee schedule row used: "Various Master Programs" (international). Computing is n
 - Funding: course-work MSc is not funded (OFFICIAL, course page). Research MSc funding does not apply ([finances page](https://www.cs.queensu.ca/graduate/finances/), OFFICIAL).
 - Work rules: Not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15, 2027 [from notes, not re-read]**
 
-- Application: January 15, 2027 for September 2027 (and January 2028) admission; flexible for Canadians ([apply page](https://www.cs.queensu.ca/apply/graduate.php), OFFICIAL). Course-work pattern is September only. SGSPA: portal typically opens in September, most acceptances in March ([SGSPA](https://www.queensu.ca/grad-postdoc/grad-studies/apply), OFFICIAL).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+flexible for Canadians ([apply page](https://www.cs.queensu.ca/apply/graduate.php), OFFICIAL). Course-work pattern is September only. SGSPA: portal typically opens in September, most acceptances in March ([SGSPA](https://www.queensu.ca/grad-postdoc/grad-studies/apply), OFFICIAL).
 - Document deadline, decision date, rolling admission: Not found / not published.
 
 ## 7. Courses and credits

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No official page below shows a last-updated date unless stated. Student: CGPA 3.34 (BAIUST scale), about 66.64%.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 24 months |
+| Minimum grade | 73 to 76% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1, 2027 (table unclear) [from notes, not re-read] |
+| Cost (CAD) | about 48,345 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Information Technology Security (MITS), Ontario Tech University, North Oshawa campus, Ontario. [Program page](https://ontariotechu.ca/programs/graduate/business-and-information-technology/master-of-information-technology-security/index.php) (OFFICIAL). Also [FBIT page](https://businessandit.ontariotechu.ca/graduate/master-of-information-technology-security-mits/index.php) (OFFICIAL).
@@ -64,13 +82,14 @@ Do I meet it? Unclear. 66.64% passes the Bangladesh credentials figure (63/100) 
 - Work rules (part-time during study, co-op permit): not verified on IRCC in this check: Unverified.
 - Conflict – verify with the university: THIRD-PARTY [HotCoursesAbroad](https://www.hotcoursesabroad.com/india/course/canada/master-of-information-technology-security/59099736/program.html) lists about 46,043 per year; the official figure is per credit and above. Prefer official.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1, 2027 (table unclear) [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | International | Domestic | Source |
 | --- | --- | --- | --- |
-| January 2027 | October 1, 2026 (passed) | November 1, 2026 | [Deadlines page](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step%202/index.php) OFFICIAL |
 | September 2027 | April 1, 2027 | May 1, 2027 | same |
-| May 2027 | MITS not listed | MITS not listed | same |
 
 - The page lists MITS in a shared row with MBAI and MFDA, so the MITS dates are inferred from layout: medium confidence, confirm.
 - Documents (including references) are due by the same dates. Late applications may be considered case by case if space remains. Decisions released on an ongoing basis; decision dates Not found.

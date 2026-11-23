@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. The Saint Mary's graduate calendar ([smu-ca-public.courseleaf.com](http://smu-ca-public.courseleaf.com)) refused connections (ECONNREFUSED/503) and was not bypassed, so calendar-only items (total credits, course table, GPA minimum) are marked Unverified.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months (with paid work) |
+| Minimum grade | Not published |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 1, 2027 (documents May 31) [from notes, not re-read] |
+| Cost (CAD) | about 43,368 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc in Computing and Data Analytics (MSc CDA), Saint Mary's University, 923 Robie Street, Halifax, Nova Scotia. [Program page](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html) (OFFICIAL, no page date shown, re-read 2026-11-22)
@@ -62,7 +80,10 @@ For applicants whose first language is not English and who have no degree taught
 - Deposit conflict resolved: 5,000 applies to MSc CDA; the general international graduate deposit of 3,000 does not (same fee page).
 - Scholarships: program page links to awards; no amounts found. Living cost estimate: not published (use proof of funds as a floor). Work rules: paid internship is part of the program; IRCC off-campus work limits not re-verified. Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 1, 2027 (documents May 31) [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - September 2027 cohort: applications open 2026-10-05; online application and fee due 2027-05-01; all documents due 2027-05-31; may close early if capacity is reached ([program page](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html), OFFICIAL).
 - Decision dates: Not found. Seat deposit deadline: stated in the admission letter (same page).

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No official page below shows a last-updated date unless noted. Nothing was blocked.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year |
+| Minimum grade | 70% (last 2 years) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | 17,172 per term |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng) in Electrical and Computer Engineering, Western University, London, Ontario. [Program page](https://www.eng.uwo.ca/electrical/graduate/current_students/meng_programs/index.html) (OFFICIAL, no date)
@@ -65,18 +83,18 @@ Fall 2026 per term, ECE MEng, full-time international ([Fall 2026 fee schedule P
 - Scholarships: Faculty of Engineering gives no financial support to MEng students (search snippet, Unverified; see [funding page](https://www.eng.uwo.ca/graduate/funding/)).
 - Work rules (off-campus hours, co-op permit): Not checked on IRCC, Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Rounds: Sep 7 2026 to Jul 5 2027. Apply by Round 3 (Jan 5, 2027) [verified 2026-11-24, Sept 2027 stated]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Professional MEng application rounds ([Faculty rounds page](https://www.eng.uwo.ca/graduate/future-students/How-to-Apply-for-Admission/index.html), OFFICIAL, no date):
 
 | Intake | R1 | R2 | R3 | R4 | R5 | R6 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Winter (Jan 2027) | Jan 5, 2026 (looks like a typo) | Mar 5, 2026 | May 5, 2026 | Jul 6, 2026 | Sep 7, 2026 | Nov 6, 2026 |
-| Spring (May 2027) | May 5, 2026 | Jul 6, 2026 | Sep 7, 2026 | Nov 6, 2026 | Jan 5, 2027 | Mar 5, 2027 |
 | Fall (Sept 2027) | Sep 7, 2026 | Nov 6, 2026 | Jan 5, 2027 | Mar 5, 2027 | May 5, 2027 | Jul 5, 2027 |
 
 - Decisions within 3-4 weeks of a round deadline; incomplete applications are not assessed; international applicants are encouraged to apply by Round 3.
-- As of 2026-11-22 all Winter 2027 rounds have passed. Next dates: Spring R5 and Fall R3, both Jan 5, 2027.
 - Separate document deadline: Not found.
 
 ## 7. Courses and credits

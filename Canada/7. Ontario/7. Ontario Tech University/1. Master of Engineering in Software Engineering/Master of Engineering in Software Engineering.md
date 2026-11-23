@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No official page showed a last-updated date unless stated. "Snippet" = seen only in search-result text of an official page; marked Unverified.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | B (3.0 on 4.3 scale) |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1, 2027 [from notes, not re-read] |
+| Cost (CAD) | about 46,936 tuition |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering in Software Engineering (Co-op option), Faculty of Engineering and Applied Science, Ontario Tech University, North Oshawa campus, Oshawa, Ontario, in-class. [Program page](https://ontariotechu.ca/programs/graduate/engineering-and-applied-science/masters-software-engineering-co-op/index.php) (OFFICIAL)
@@ -57,12 +75,13 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Work rules (off-campus part-time, co-op work permit): Not verified on an official page. Total program cost: not published as one figure (tuition about 46,936 plus ancillary, insurance and living costs).
 - Conflict – verify with the university: THIRD-PARTY listings (ApplyBoard, CanamGroup) show about 42,572 first-year tuition and some say 12 months; official shows 16 months and 46,935.60 total. Prefer official.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | International | Domestic | Source |
 | --- | --- | --- | --- |
-| January 2027 | Oct 1, 2026 (passed) | Nov 1, 2026 | [Deadlines](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step%202/index.php) OFFICIAL |
-| May 2027 | Not offered for MEng Software Engineering | n/a | same |
 | September 2027 | Apr 1, 2027 | May 1, 2027 | same (listed under MEng programs; table alignment partly unclear) |
 
 - Supporting documents (including recommendation letters) must arrive by the intake deadline; late applications are considered case by case if space remains. Rolling admission and decision dates: Not found. Confirm Software Engineering specifically.

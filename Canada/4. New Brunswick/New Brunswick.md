@@ -1,4 +1,16 @@
-# New Brunswick (Notion page text)
+# New Brunswick
+
+## Universities at a glance
+
+| University | Programs | Shortlist | Maybe | Rejected |
+| --- | --- | --- | --- | --- |
+| [University of New Brunswick (UNB)](./1.%20University%20of%20New%20Brunswick%20(UNB)/University%20of%20New%20Brunswick%20(UNB).md) | 2 | 0 | 2 | 0 |
+
+Status words come from your own earlier notes. Open a university to see each program.
+
+---
+
+## Original notes
 
 Source: Notion, STUDY ABROD / UNIVERSITY / CANADA / New Brunswick.
 

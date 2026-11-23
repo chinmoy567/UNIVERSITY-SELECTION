@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = McMaster or Government of Canada site; THIRD-PARTY = anything else. McMaster program pages show no "last updated" date (footer only says 2026). The 2026-27 graduate fee schedule on the Registrar site is a linked spreadsheet that automated tools cannot read, so 2026-27 international tuition is Unverified (latest official figure found is 2025-26).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | B- or B (page conflicts) |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 28, 2027 [from notes, not re-read] |
+| Cost (CAD) | 55,804 per year |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Systems and Technology (MEST), W Booth School of Engineering Practice and Technology, Faculty of Engineering. [Program page](https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/) (OFFICIAL) and [eng.mcmaster.ca/?p=25701](https://eng.mcmaster.ca/?p=25701) (OFFICIAL)
@@ -57,15 +75,16 @@ Do I meet it? No (likely). CGPA 3.34 (about 66.64%) is below the 70-72% / 7.0/12
 - Caution: the appendix is titled "Proposed"; final board approval is not confirmed in the document I could read.
 - Estimated total program cost, living-cost estimate, scholarships: Not found. Leads: [McMaster cost estimator](https://future.mcmaster.ca/finances/cost-estimator/) (undergraduate only) and [Graduate Studies funding](https://gs.mcmaster.ca/tuition-financial-aid-scholarships/) (not read). Work rules and co-op work permit: Not verified in this check.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 28, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 All OFFICIAL, no page date. Sources: [program page](https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/) and [How to apply](https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/).
 
 | Intake | Portal opens | International | Domestic |
 | --- | --- | --- | --- |
-| January 2027 | already open | 2026-07-31 (passed) | 2026-10-31 (passed) |
 | September 2027 | 2026-09-01 | 2027-02-28 | 2027-07-31 |
-| January 2028 | 2027-03-01 | 2027-07-31 | 2027-10-31 |
 
 - Rolling admission, document deadline, decision dates: Not found / not published. Apply early because study permit processing can be slow.
 

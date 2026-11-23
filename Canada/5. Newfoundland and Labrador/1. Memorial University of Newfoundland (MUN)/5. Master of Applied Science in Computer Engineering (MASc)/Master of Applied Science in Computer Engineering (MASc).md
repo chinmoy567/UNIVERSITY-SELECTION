@@ -1,5 +1,23 @@
 # Master of Applied Science in Computer Engineering (MASc)
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | about 2 years |
+| Minimum grade | Second class |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [from notes, not re-read] |
+| Cost (CAD) | about 29,948 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Page dates are the "last updated" dates shown on each page.
 
 ## 1. Basics
@@ -58,9 +76,12 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%, below 70%) may or may not count 
 - Total program cost: Unverified; roughly 29,948 tuition + ancillary fees + insurance + living (about 23,000+ per year).
 - Scholarships/funding: Not found for course-based MASc. Work rules (part-time, co-op permit): Not found in this check.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1 [from notes, not re-read]**
 
-- Fall: April 1 ([Engineering page](https://www.mun.ca/become/graduate/programs/engineering.php), OFFICIAL, 2026-10-27). The August 1 Winter deadline does not apply to Computer Engineering.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Fall: April 1 ([Engineering page](https://www.mun.ca/become/graduate/programs/engineering.php), OFFICIAL, 2026-10-27).
 - Document deadline, decision date, rolling admission: Not found / not published.
 
 ## 7. Courses and credits

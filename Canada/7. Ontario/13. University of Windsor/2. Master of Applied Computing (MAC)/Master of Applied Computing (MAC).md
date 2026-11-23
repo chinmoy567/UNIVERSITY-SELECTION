@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = any other site. Most [uwindsor.ca](http://uwindsor.ca) pages show no "last updated" date. BDT in brackets at 1 CAD = 86.72 BDT ([Wise mid-market, undated page](https://wise.com/gb/currency-converter/cad-to-bdt-rate), THIRD-PARTY; other sources show 86 to 90, so approximate).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 70% |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 15 [from notes, not re-read] |
+| Cost (CAD) | 42,400 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Computing (MAC), with an Artificial Intelligence stream variant. [Graduate Studies page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) (OFFICIAL), [Program page](https://www.future.uwindsor.ca/program/master-of-applied-computing/) (OFFICIAL), [AI stream page](https://www.future.uwindsor.ca/program/master-of-applied-computing-mac-artificial-intelligence-stream/) (OFFICIAL)
@@ -65,10 +83,13 @@ Tuition source: [2026/27 fee schedule, APC package Apr 9 2026, "International Gr
 - Scholarships: entrance scholarship needs a separate application deadline ([Admission requirements](https://www.uwindsor.ca/graduate-studies/346/admission-requirements), OFFICIAL). OGS, QEII-GSST, CGRS-M are research-oriented; eligibility for this course-based international program: Unverified.
 - Work rules: international students may work off campus up to 24 hours per week during study terms ([IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html), OFFICIAL, page updated 2026-04-15). Whether the internship needs a co-op work permit: Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 15 [from notes, not re-read]**
 
-- Summer: February 15. Fall: May 15. Winter: October 1. [Graduate Studies page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) (OFFICIAL, re-checked; year not shown). International applicants should apply at least 6 months before enrolment ([Admission requirements](https://www.uwindsor.ca/graduate-studies/346/admission-requirements), OFFICIAL).
-- The Winter (Oct 1) deadline has passed. Next options: Summer 2027 (Feb 15) or Fall 2027 (May 15), assuming the same dates apply. Unverified for 2027.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+Fall: May 15. [Graduate Studies page](https://www.uwindsor.ca/graduate-studies/305/applied-computing) (OFFICIAL, re-checked; year not shown). International applicants should apply at least 6 months before enrolment ([Admission requirements](https://www.uwindsor.ca/graduate-studies/346/admission-requirements), OFFICIAL).
+Unverified for 2027.
 - Document deadline, decision date, rolling admission: Not found / not published.
 
 ## 7. Courses and credits

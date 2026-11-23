@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: graduate calendar ([calendar.carleton.ca](http://calendar.carleton.ca)) refused connection (ECONNREFUSED/503), not bypassed; items from it are marked Unverified. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | B+ in major, B overall |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | about 54,035 (other page 61,725 to 66,500) |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering Practice, Software Engineering Practice stream, Carleton University, Ottawa, Ontario. [Program page](https://carleton.ca/engineering-design/engineering-practice-software-engineering/) (OFFICIAL, no date) and [EP homepage](https://carleton.ca/engineering-practice/) (OFFICIAL, no date)
@@ -63,11 +81,13 @@ Fees below are the Fall 2025 / Winter 2026 schedule ([MEng EP fees](https://carl
 - Scholarships: internal, external and special graduate awards listed without amounts; no TA/RA positions in EP; International Student Employment Program ([tuition and funding](https://carleton.ca/engineering-practice/tuition-funding/), OFFICIAL).
 - Work rules: off campus up to 24 hours per week in term, unlimited in scheduled breaks, with a study permit that allows it ([IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html), OFFICIAL). Co-op work permit: Not retrieved.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 31 [verified 2026-11-24, year not shown]**
 
-- Fall: January 31. Winter: August 1 ([graduate program page](https://graduate.carleton.ca/program/engineering-practice/), OFFICIAL, re-checked, no date).
-- Conflict – verify with the university: [Graduate MEng page](https://graduate.carleton.ca/graduate-degrees/master-of-engineering/) says Winter 2026 closes 2026-08-01 and Fall 2027 closes 2027-03-01.
-- Applications for most terms open June 1; decisions may be rolling and after the deadline ([apply online](https://graduate.carleton.ca/apply-online/) and search snippet, OFFICIAL). Summer intake, document deadline, decision dates: Not found. [Deadlines page](https://graduate.carleton.ca/apply-online/deadlines/) (not opened).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Fall: January 31.
+- Applications for most terms open June 1; decisions may be rolling and after the deadline ([apply online](https://graduate.carleton.ca/apply-online/) and search snippet, OFFICIAL). [Deadlines page](https://graduate.carleton.ca/apply-online/deadlines/) (not opened).
 
 ## 7. Courses and credits
 

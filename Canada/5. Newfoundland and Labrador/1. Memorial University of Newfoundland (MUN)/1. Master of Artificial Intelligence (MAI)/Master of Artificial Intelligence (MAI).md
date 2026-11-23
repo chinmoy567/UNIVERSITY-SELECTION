@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = Memorial University (MUN) or government site; THIRD-PARTY = other. The 2026-27 calendar section 11.2 (credits) and the MinimumExpense PDF could not be read by tools.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 75% or upper second |
+| IELTS needed | 6.5 (7 in places) |
+| Deadline for SEPTEMBER 2027 intake (international) | Dec 1 [from notes, not re-read] |
+| Cost (CAD) | 9,666 + special fee 20,282 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Artificial Intelligence (MAI), St. John's, Newfoundland and Labrador. [SGS program page](https://mun.ca/become/graduate/programs-and-courses/artificial-intelligence/) (OFFICIAL, updated 2026-10-27)
@@ -60,7 +78,10 @@ Do I meet it? Unclear, likely No. CGPA 3.34 (about 66.64%) is below the stated 7
 - Resolved: the earlier tuition conflict (1,611 x 6 vs 2,416.50 x 4) is explained: the Finance page lists MAI as 4 semesters with total 9,666, matching the program page. The special fee of 20,282 is additional (OFFICIAL). Estimated total before ancillary fees and living costs: about CAD 29,948. Conflict – verify with the university: the Finance table has an unlabeled 2,416.50 column and a standard-master's row of 1,611 x 6.
 - Living cost, work rules: Not found. Scholarships: none for MAI (OFFICIAL).
 
-## 6. Deadlines (Fall 2027)
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Dec 1 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - December 1 for all applicants; April 1 for Canadian applicants; late international applications may be considered subject to seats. [SGS page](https://mun.ca/become/graduate/programs-and-courses/artificial-intelligence/) (OFFICIAL, 2026-10-27). Year not explicit; applications open first week of Sept 2026 per [SGS apply](https://www.mun.ca/become/graduate/apply/).
 - Document deadline, decision dates, rolling admission: Not found / not published.

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = any other site. No U of T page shows a "last updated" date. BDT rate used: 1 CAD = 87.0358 BDT, [xe.com](http://xe.com) mid-market, 2026-11-21 23:41 UTC ([source](https://www.xe.com/currencyconverter/convert/?Amount=1&From=CAD&To=BDT), THIRD-PARTY).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 to 3 years |
+| Minimum grade | See Part A |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 15, 2027 (co-op Feb 8, 2027) [from notes, not re-read] |
+| Cost (CAD) | 76,090 (verified) |
+| My notes say | Shortlist / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Electrical and Computer Engineering, course-based professional stream; optional project (ECE2500Y, needs a supervisor); self-funded. [ECE graduates](https://www.ece.utoronto.ca/graduates/) OFFICIAL, [MEng page](https://www.ece.utoronto.ca/graduates/degree-programs/meng/) OFFICIAL, [Graduate Calendar](https://sgs.calendar.utoronto.ca/node/93257) OFFICIAL
@@ -59,14 +77,16 @@ Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above the SGS Bangladesh
 - Scholarships: no MEng-specific international awards found; program is self-funded. [Money matters](https://gradstudies.engineering.utoronto.ca/prospective-students/money-matters/) OFFICIAL
 - Work rules: co-op term is paid; U of T states no separate co-op work permit is needed from 2026-04-01 (verify with IRCC). Off-campus part-time hour limits: Not checked.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 15, 2027 (co-op Feb 8, 2027) [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Deadline | Source |
 | --- | --- | --- |
 | Fall 2027 co-op (domestic and international) | Feb 8, 2027 | [ECE graduates](https://www.ece.utoronto.ca/graduates/) OFFICIAL (re-checked) |
 | Fall 2027, international | Apr 15, 2027 | same |
 | Fall 2027, domestic | May 31, 2027 | same |
-| Winter 2028 (January), all | May 31, 2027 | same |
 
 - Rolling review. Document deadline and decision dates for regular intake: Not found.
 

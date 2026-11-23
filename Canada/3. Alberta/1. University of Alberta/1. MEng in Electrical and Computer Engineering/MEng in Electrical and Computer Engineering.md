@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No University of Alberta page shows a last-updated date, so the check date is the date of record.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1.5 to 2 years |
+| Minimum grade | 3.0/4.0 |
+| IELTS needed | 7.0 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 7 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 826 per credit |
+| My notes say | Shortlist / reach |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Electrical and Computer Engineering. [Program page](https://www.ualberta.ca/en/graduate-programs/master-of-engineering-electrical-and-computer-engineering.html) (OFFICIAL)
@@ -60,7 +78,10 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 60% and 3.0 on the face
 - Funding: RA/TA/scholarships competitive, limited for course-based programs (program page, OFFICIAL).
 - Work rules and co-op permit: Not checked.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 7 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall intake only. International April 7; domestic August 1 ([dept MEng page](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/graduate-studies/degrees-and-programs/master-of-engineering.html), OFFICIAL, re-read 2026-11-22, no year stated). An earlier search result showed international May 1: Conflict – verify with the university. The how-to-apply and program pages state no deadline.
 - Document and decision dates, rolling admission: Not found / not published.

@@ -1,5 +1,23 @@
 ## 1. Basics
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 20 months |
+| Minimum grade | B+ last 2 years |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Dec 1, 2026 (page shows 2026-12-01, no intake named) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | Not found |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 - Program: MSc Computer Science (Thesis / Project / AI-specialization options), EECS, Lassonde School of Engineering. OFFICIAL [Lassonde](https://lassonde.yorku.ca/eecs/academics/graduate/computer-science-msc)
 - Route: Project option = 7 graduate courses + project report; AI specialization = non-thesis, research project applying AI. OFFICIAL [Calendar 2026-27](https://www.yorku.ca/gradstudies/academiccalendar/2026-2027/electrical-engineering-computer-science/)
 - Campus: Keele, Toronto, Ontario. OFFICIAL (Lassonde page)
@@ -45,7 +63,10 @@ BDT rate: THIRD-PARTY range 86.6 to 90.3 from [Wise](https://wise.com/gb/currenc
 - Third-party collegedunia 6,574.63 per term: unclear domestic or international, NOT used.
 - Funding amounts and work rules: Not found / not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Dec 1, 2026 (page shows 2026-12-01, no intake named) [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall intake only; applications open Oct 1 to Dec 1 (Fall 2027 cycle presumed; year Unverified). OFFICIAL [Lassonde](https://lassonde.yorku.ca/eecs/academics/graduate/computer-science-msc) and futurestudents. Rolling: Not found. Document and decision dates: Not found.
 - Conflict - verify with the university: futurestudents lists 2026-12-01, while other FGS programs show mid-January dates; confirm which year applies.

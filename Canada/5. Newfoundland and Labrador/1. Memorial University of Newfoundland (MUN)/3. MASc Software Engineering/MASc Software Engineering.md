@@ -1,5 +1,23 @@
 # MASc Software Engineering
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | Second class |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [from notes, not re-read] |
+| Cost (CAD) | at least 29,948 |
+| My notes say | Maybe / reach to match |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = [mun.ca](http://mun.ca) or Government of Canada; THIRD-PARTY = other. WebFetch gives model-summarised page text, so key figures were re-read on a second official page where possible.
 
 ## 1. Basics
@@ -62,7 +80,10 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%, not First Class) probably lands 
 - Estimated program cost: at least 29,948 plus about 1,095 insurance (4 x 273.75) plus ancillary fees, plus living costs (use 23,448 per year as the IRCC minimum, about 31,000 for 16 months, computed). Unverified.
 - Scholarships and funding for this course-based program: Not found. Work rules (part-time off-campus hours, co-op permit): not checked on IRCC.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall intake only: April 1 (international), May 1 (Canadian). [Program page, 2026-10-27](https://mun.ca/become/graduate/programs-and-courses/software-engineering/) (OFFICIAL)
 - Applications for Fall 2027 open in the first week of September 2026 ([Apply page](https://www.mun.ca/become/graduate/apply/), OFFICIAL). Document deadline, decision dates, rolling admission: Not found / not published. Apply 1-2 weeks early so referees can respond.

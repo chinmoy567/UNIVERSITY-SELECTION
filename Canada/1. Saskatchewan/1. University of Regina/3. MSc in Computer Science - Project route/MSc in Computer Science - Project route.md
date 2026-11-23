@@ -1,5 +1,23 @@
 # MSc in Computer Science – Project route
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | 70% overall, 75% CS |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 15 (older notes say admission suspended) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 3,881 per term |
+| My notes say | Rejected. May be suspended |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No uregina page shows a last-updated date. WARNING: the official graduate calendar says admission to this project route is suspended (see Section 1).
 
 ## 1. Basics
@@ -57,9 +75,12 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Funding: Riegert Memorial Scholarship, Herzberg Fellowship, SIEGS, NSERC, teaching assistantships, require full admission. [Overview](https://www.uregina.ca/academics/programs/science/master-phd-computer-science.html) (OFFICIAL)
 - Work rules: Not checked.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 15 (older notes say admission suspended) [verified 2026-11-24, year not shown]**
 
-- Fall: February 15. Winter: June 15. Spring/Summer: October 15. Application page says PhD and thesis or project MSc may apply in all three cycles (OFFICIAL). Conflict – verify with the university: an earlier read of this page showed October 15 only for the project route; the live re-read shows three cycles, and the calendar says admission is suspended.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Fall: February 15. Application page says PhD and thesis or project MSc may apply in all three cycles (OFFICIAL). Conflict – verify with the university: an earlier read of this page showed October 15 only for the project route; the live re-read shows three cycles, and the calendar says admission is suspended.
 - Rolling admission, document and decision dates: Not found.
 
 ## 7. Courses and credits

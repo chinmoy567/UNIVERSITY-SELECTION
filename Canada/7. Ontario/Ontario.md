@@ -1,4 +1,33 @@
-# Ontario (Notion page text)
+# Ontario
+
+## Universities at a glance
+
+| University | Programs | Shortlist | Maybe | Rejected |
+| --- | --- | --- | --- | --- |
+| [Algoma University](./1.%20Algoma%20University/Algoma%20University.md) | 1 | 0 | 1 | 0 |
+| [Brock University](./2.%20Brock%20University/Brock%20University.md) | 1 | 0 | 0 | 1 |
+| [Carleton University](./3.%20Carleton%20University/Carleton%20University.md) | 3 | 0 | 3 | 0 |
+| [Lakehead University](./4.%20Lakehead%20University/Lakehead%20University.md) | 1 | 0 | 1 | 0 |
+| [Laurentian University](./5.%20Laurentian%20University/Laurentian%20University.md) | 1 | 0 | 1 | 0 |
+| [McMaster University](./6.%20McMaster%20University/McMaster%20University.md) | 2 | 0 | 1 | 1 |
+| [Ontario Tech University](./7.%20Ontario%20Tech%20University/Ontario%20Tech%20University.md) | 3 | 0 | 3 | 0 |
+| [Toronto Metropolitan University](./8.%20Toronto%20Metropolitan%20University/Toronto%20Metropolitan%20University.md) | 3 | 1 | 2 | 0 |
+| [University of Guelph](./9.%20University%20of%20Guelph/University%20of%20Guelph.md) | 3 | 0 | 2 | 1 |
+| [University of Ottawa](./10.%20University%20of%20Ottawa/University%20of%20Ottawa.md) | 2 | 0 | 2 | 0 |
+| [University of Toronto](./11.%20University%20of%20Toronto/University%20of%20Toronto.md) | 2 | 1 | 0 | 1 |
+| [University of Waterloo](./12.%20University%20of%20Waterloo/University%20of%20Waterloo.md) | 3 | 0 | 1 | 2 |
+| [University of Windsor](./13.%20University%20of%20Windsor/University%20of%20Windsor.md) | 2 | 0 | 1 | 1 |
+| [York University](./14.%20York%20University/York%20University.md) | 1 | 0 | 1 | 0 |
+| [Queen's University](./15.%20Queen's%20University/Queen's%20University.md) | 3 | 0 | 1 | 2 |
+| [Western University](./16.%20Western%20University/Western%20University.md) | 4 | 0 | 2 | 2 |
+| [Wilfrid Laurier University](./17.%20Wilfrid%20Laurier%20University/Wilfrid%20Laurier%20University.md) | 1 | 0 | 1 | 0 |
+| [Trent University](./18.%20Trent%20University/Trent%20University.md) | 1 | 0 | 0 | 1 |
+
+Status words come from your own earlier notes. Open a university to see each program.
+
+---
+
+## Original notes
 
 Source: Notion, STUDY ABROD / UNIVERSITY / CANADA / Ontario.
 

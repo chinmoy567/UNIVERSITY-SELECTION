@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. [uwaterloo.ca](http://uwaterloo.ca) pages show no "last updated" date (only ©2026) unless stated.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 78% |
+| IELTS needed | 7.5 / 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [from notes, not re-read] |
+| Cost (CAD) | Not found |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Data Science and Artificial Intelligence (MDSAI), Co-op full-time option. [Program page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-co-op-master-data) (OFFICIAL)
@@ -60,10 +78,12 @@ Do I meet it? No. CGPA 3.34 (about 66.64%) is below the 78% minimum, and the rea
 - Funding: MDSAI is not funded; no TA positions; limited Vector Scholarships and Graduate Scholarships, decided in review, no separate application ([FAQ](https://uwaterloo.ca/data-science/graduate-programs/frequently-asked-questions-faqs), OFFICIAL).
 - Work rules: full-time students do paid co-op; part-time cannot work. Co-op work permit details: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Co-op, Fall (September) intake: January 15 ([program page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-co-op-master-data), OFFICIAL, re-checked 2026-11-22). Year not stated; Jan 15, 2027 for Fall 2027 is Unverified.
-- Non-co-op: Fall Jan 15, Winter Jul 1, Spring Nov 1 ([deadlines](https://uwaterloo.ca/data-science/graduate-programs/application-deadlines), OFFICIAL).
 - Documents: submitting in the portal before the deadline allows 2 extra weeks to upload. Decisions usually 8 to 10 weeks after deadline. No rolling admission stated (same page).
 
 ## 7. Courses and credits

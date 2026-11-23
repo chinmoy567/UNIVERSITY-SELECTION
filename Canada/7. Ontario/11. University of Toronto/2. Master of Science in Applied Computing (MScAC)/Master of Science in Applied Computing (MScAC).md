@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Official pages show no last-updated date unless stated. BDT in brackets at 1 CAD = 87.04 BDT ([xe.com](http://xe.com) mid-market, 2026-11-21 23:41 UTC, [source](https://www.xe.com/currencyconverter/convert/?Amount=1&From=CAD&To=BDT), THIRD-PARTY; Wise and Revolut earlier showed about 86.4 to 90.3, so approximate).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | B+ (77 to 79%) |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Dec 1, 2026 (in 7 days) [from notes, not re-read] |
+| Cost (CAD) | about 90,050 |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Science in Applied Computing (MScAC), Department of Computer Science, University of Toronto, St George campus, Toronto, Ontario. [Program site](https://mscac.utoronto.ca/) (OFFICIAL)
@@ -61,7 +79,10 @@ Do I meet it? No (very likely). CGPA 3.34 is about 66.64%, well below the B+ (77
 - Scholarships and funding: "awards and TA opportunities" mentioned, no amounts. [Program site](https://mscac.utoronto.ca/) (OFFICIAL)
 - Work rules: the internship is paid work inside the program. Off-campus hour limits: Not found on pages read ([UTM page](https://www.utm.utoronto.ca/international/working-canada) only links to IRCC). Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Dec 1, 2026 (in 7 days) [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Application deadline | Notes |
 | --- | --- | --- |

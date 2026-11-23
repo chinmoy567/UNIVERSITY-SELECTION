@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: [stfx.ca](http://stfx.ca) and [mystfx.ca](http://mystfx.ca) return HTTP 403 to automated tools (not bypassed). Official items below come only from search-result text of official pages ("snippet") and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | 70% |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | May 30 (sources conflict) [NOT confirmed] |
+| Cost (CAD) | 8,615 (unverified) |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Computer Science (MACS), St. Francis Xavier University (StFX), Antigonish, Nova Scotia. [Program page](https://www.stfx.ca/programs-courses/programs/master-applied-computer-science) (OFFICIAL, 403, not readable) and [Course-based MACS](https://www.stfx.ca/node/20476) (OFFICIAL snippet)
@@ -56,7 +74,10 @@ Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the stated 70% min
 - Scholarships: two for MACS, need 85%+ average plus excellence/leadership ([MACS FAQ](https://www.stfx.ca/sites/default/files/documents/MACS-FAQ-November-13-2025.pdf), OFFICIAL snippet).
 - Proof of funds, total program cost, work rules: Not verified (IRCC pages not read).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: May 30 (sources conflict) [NOT confirmed]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall: May 30 for domestic and international (Petersons THIRD-PARTY and a supplemental form snippet; older form said May 1, 2023). Conflict – verify with the university.
 - Documents, decision dates, rolling admission: Not found / not published. Contact [macs@stfx.ca](mailto:macs@stfx.ca).

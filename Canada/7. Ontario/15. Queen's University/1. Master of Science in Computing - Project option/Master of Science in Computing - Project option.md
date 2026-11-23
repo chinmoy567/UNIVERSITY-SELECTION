@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = Queen's or Government of Canada page; THIRD-PARTY = anything else. None of the Queen's pages below show a last-updated date (footer only says copyright 2026).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | about 1 term for project |
+| Minimum grade | International need "A" (first class) |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15, 2027 [from notes, not re-read] |
+| Cost (CAD) | 15,553 |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Computing, Project pattern ("Project Master's"), School of Computing, Faculty of Arts and Science, Queen's University, Kingston, Ontario. [Project pattern page](https://www.cs.queensu.ca/graduate/msc/patterns/project.php) (OFFICIAL)
@@ -71,10 +89,12 @@ Fee source: [Queen's graduate tuition](https://www.queensu.ca/registrar/tuition-
 - Work rules, co-op work permit: Not retrieved.
 - Total program cost: no official all-in figure; roughly 15,553 tuition and fees plus living costs.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15, 2027 [from notes, not re-read]**
 
-- Complete applications by January 15, 2027 for September 2027 (the page also names January 2028) admission; flexible for Canadians only; late documents are not considered. [Apply page](https://www.cs.queensu.ca/apply/graduate.php) (OFFICIAL, re-checked 2026-11-22)
-- SGSPA: portal opens in September, deadlines early January (each program sets its own), most offers in March ([SGSPA](https://www.queensu.ca/grad-postdoc/grad-studies/apply), OFFICIAL).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+flexible for Canadians only; late documents are not considered. [Apply page](https://www.cs.queensu.ca/apply/graduate.php) (OFFICIAL, re-checked 2026-11-22)
 - [Petersons](https://www.petersons.com/graduate-schools/queens-university-at-kingston-faculty-of-arts-and-sciences-school-of-computing-000_10025638.aspx) lists February 15 (THIRD-PARTY, ignore in favour of the official date).
 - Rolling admission: not stated. Document deadline and decision date: Not found.
 

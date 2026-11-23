@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. UCalgary pages show no last-updated date. [cpsc.ucalgary.ca](http://cpsc.ucalgary.ca) refused connection and one [science.ucalgary.ca](http://science.ucalgary.ca) URL returned 404 (not bypassed).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 3.0/4.0 |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | about 44,441 tuition (own math) |
+| My notes say | Shortlist / reach |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Information Security and Privacy (MISP), Faculty of Science, University of Calgary, Calgary, Alberta. [Program page](https://science.ucalgary.ca/information-security) (OFFICIAL); [Calendar entry](https://calendar.ucalgary.ca/programs/MISPMISP) (OFFICIAL); [Grad Studies page](https://grad.ucalgary.ca/future-students/explore-programs/information-security-and-privacy-misp-course) (OFFICIAL)
@@ -57,7 +75,10 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 3.00 if BAIUST is a 4.0
 - Estimated total program cost and living cost beyond IRCC minimum: Not found. Alberta listing showing 14,094 Year One is ambiguous (domestic/international unclear), see [ALIS](https://alis.alberta.ca/occinfo/post-secondary-programs/master-of-information-security-and-privacy/university-of-calgary/6ae61fe2-b41a-4b7a-992f-f862bcee8ad4/) (OFFICIAL, Unverified).
 - Scholarships: "Be the First Scholarship" up to 12,000 mentioned in a search summary, Unverified. [Financing grad school](https://grad.ucalgary.ca/future-students/fees-and-finances/financing-grad-school) (OFFICIAL, not checked in detail). Work rules: Not checked.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Mar 1, 2027 [verified 2026-11-24, Sept 2027 stated]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall 2027 (only intake): applications open September 1; international deadline March 1, 2027; domestic May 1 ([Application information](https://science.ucalgary.ca/future-students/professional-programs/application-information), OFFICIAL). Grad Studies page mentions Dec 1 for Iranian applicants only.
 - Document deadline, decision dates, rolling admission: Not found / not published.

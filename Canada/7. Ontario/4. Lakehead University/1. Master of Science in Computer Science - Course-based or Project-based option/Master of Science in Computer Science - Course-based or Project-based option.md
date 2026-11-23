@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. No Lakehead page shows a "last updated" date (footers say only (c) 2026), so dates below are the check date. Labels: OFFICIAL = Lakehead or Government of Canada site; THIRD-PARTY = other. BDT rate used: 1 CAD = 88.69 BDT ([exchangerate.guru reference rate dated 2026-11-02](https://exchangerate.guru/cad/bdt/), THIRD-PARTY; approximate).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year (course) / 2 years (project) |
+| Minimum grade | B in last 20 half-courses |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 (recommended, rolling) [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 7,966 per term |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program page: [Lakehead MSc Computer Science](https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science) (OFFICIAL)
@@ -65,11 +83,14 @@ Source: [Lakehead graduate English requirements](https://www.lakeheadu.ca/progra
 - Scholarships: assistantships, scholarships and bursaries exist but are not guaranteed ([program page](https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science), OFFICIAL). THIRD-PARTY merit awards of 4,000 (90%+) and 2,000 (80-89.9%) are Unverified.
 - Work rules, co-op permit, Provincial Attestation Letter: Not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 1 (recommended, rolling) [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Program page (OFFICIAL): "International deadline: September 16 - closed"; Domestic December 16; and also "Fall 2027 (September) open".
-- [Dates and fees](https://www.lakeheadu.ca/international/future/dates-and-fees) (OFFICIAL): recommended complete-application dates, accepted on a continual (rolling) basis: Fall start February 1; Winter start September 16; Spring start January 15.
-- Likely resolution (not certain): September 16 is the deadline for the Winter (January) intake, which is closed for 2027-01; the Fall 2027 intake is open, with February 1, 2027 as the recommended complete date. THIRD-PARTY [Mastersportal](https://www.mastersportal.com/studies/150067/computer-science.html) matches this (Sept 2027 start: apply by 2027-02-01; Jan 2028 start: international by 2027-09-16).
+- [Dates and fees](https://www.lakeheadu.ca/international/future/dates-and-fees) (OFFICIAL): recommended complete-application dates, accepted on a continual (rolling) basis: Fall start February 1;
+the Fall 2027 intake is open, with February 1, 2027 as the recommended complete date. THIRD-PARTY [Mastersportal](https://www.mastersportal.com/studies/150067/computer-science.html) matches this (Sept 2027 start: apply by 2027-02-01;
 - Conflict – verify with the university: program page lists a single "September 16 - closed" deadline, which reads like the Fall deadline but conflicts with February 1 for Fall start. Neither page gives a last-updated date.
 - Document and decision dates: Not found / not published (THIRD-PARTY says about 70 days processing, Unverified).
 

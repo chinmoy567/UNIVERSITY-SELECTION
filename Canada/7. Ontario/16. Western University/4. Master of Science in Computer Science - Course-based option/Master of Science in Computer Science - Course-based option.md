@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. None of the Western CS pages show a last-updated date. The SGPS program page ([grad.uwo.ca](http://grad.uwo.ca) program.cfm?p=37) returned only the SGPS homepage, so it could not be read.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 4 terms |
+| Minimum grade | 75% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 15, 2027 [from notes, not re-read] |
+| Cost (CAD) | 8,441 per term |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Science in Computer Science, course-based (course-work) option, alongside thesis and project options. [Degree requirements](https://www.csd.uwo.ca/graduate/current/degree_requirements.html) (OFFICIAL)
@@ -69,7 +87,10 @@ Fees per term, Fall 2026, full-time international, MSc Computer Science, tuition
 - Funding: course-based students get no departmental funding and must be self-funded. [Finances page](https://www.csd.uwo.ca/graduate/future/finances.html) (OFFICIAL).
 - Western's estimated living cost and off-campus work rules: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 15, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - International MSc, Fall start: February 15 (e.g. February 15, 2027 for September 2027). Domestic: July 30. [FAQ](https://www.csd.uwo.ca/graduate/future/faq.html) (OFFICIAL, rechecked)
 - Application opens October 1 of the preceding year (Stage 1 reading of the FAQ). Documents deadline: Not found. Decisions: normally March or April; reviewed on an ongoing basis.

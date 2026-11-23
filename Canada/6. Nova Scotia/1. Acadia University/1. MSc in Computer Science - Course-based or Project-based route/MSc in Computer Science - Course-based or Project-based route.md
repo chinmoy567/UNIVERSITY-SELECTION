@@ -1,5 +1,23 @@
 # MSc in Computer Science — Course-based or Project-based route
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months (course) / 2 years (project) |
+| Minimum grade | Nine prerequisite courses at 70%+ |
+| IELTS needed | 7.0 / 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | No program date. General Fall rule Apr 1; Feb 1 for funding [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 17,726 per year |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Note: [cs.acadiau.ca](http://cs.acadiau.ca) and [www2.acadiau.ca/admissions](http://www2.acadiau.ca/admissions) pages were readable on retry. The fee pages ([www2.acadiau.ca](http://www2.acadiau.ca) student-accounts) refused connections (ECONNREFUSED), so fee figures come from labelled search-result text of those official pages and are marked Unverified. No page showed a last-updated date. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
 ## 1. Basics
@@ -66,11 +84,14 @@ Do I meet it? Unclear, leaning No. CGPA 3.34 (about 66.64%) is below the 70% / B
 - Funding: Acadia Graduate Awards are limited and decided after acceptance; rarely cover all international expenses ([FAQ](https://cs.acadiau.ca/graduate-faq.html), OFFICIAL). Contact [gradadmissions@acadiau.ca](mailto:gradadmissions@acadiau.ca). Feb 1 is the first-round university funding deadline ([Graduate application](https://www2.acadiau.ca/admissions/graduate-application.html)).
 - Living cost in Wolfville, work rules, total program cost: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: No program date. General Fall rule Apr 1; Feb 1 for funding [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Feb 1: first-round university funding consideration; complete packages by the deadline ([Graduate application](https://www2.acadiau.ca/admissions/graduate-application.html), OFFICIAL, general). Applications may be considered until July 1 without first-round funding (same, general).
 - CS program is reviewed on a rolling basis and may close at capacity ([Guide](https://cs.acadiau.ca/grad_guide.html), OFFICIAL). No CS-specific fixed deadline found on any official page read.
-- Conflict – verify with the university: third-party sites show Dec 15 (old), Feb 1, Jun 15 (Fall) and Sep 15 (Winter) ([Collegedunia](https://s3.collegedunia.com/canada/university/13-acadia-university-wolfville/master-of-science-ms-computer-science-178922), THIRD-PARTY). Official pages do not confirm these.
+Official pages do not confirm these.
 - Document deadline and decision dates: Not found. Decisions are released in the Applicant Status Portal.
 
 ## 7. Courses and credits

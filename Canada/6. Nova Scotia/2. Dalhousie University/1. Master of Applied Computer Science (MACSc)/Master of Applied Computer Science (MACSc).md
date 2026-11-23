@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = [dal.ca](http://dal.ca) / [canada.ca](http://canada.ca); THIRD-PARTY = other. [dal.ca](http://dal.ca) program pages show no "last updated" date. No site blocked fetching (the fee schedule was read from its PDF text).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months or more |
+| Minimum grade | 3.0 on 4.3 scale |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [from notes, not re-read] |
+| Cost (CAD) | 13,454 per year (program fee) |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Applied Computer Science (MACSc; "MACS" on Faculty pages). [Program page](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html) OFFICIAL
@@ -56,7 +74,10 @@ Tuition column resolved (thesis vs non-thesis): the [fee schedule PDF](https://w
 - Scholarships: Faculty of Computer Science awards \$1,000 to \$3,000. [Program page](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html) OFFICIAL
 - Work rules, living cost beyond IRCC figure: Not checked / not published.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Complete application, [Admissions](https://www.dal.ca/study/program-sites/applied-computer-science/admissions.html) OFFICIAL.
 

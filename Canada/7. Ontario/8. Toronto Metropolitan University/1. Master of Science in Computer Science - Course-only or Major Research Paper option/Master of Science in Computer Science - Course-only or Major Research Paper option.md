@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. IMPORTANT: for Fall 2027 this program is listed as International = Closed (Domestic = Open) on the [application dates page](https://www.torontomu.ca/graduate/future-students/application-dates/) (OFFICIAL, re-checked live, no page date shown). It is the only intake listed. Confirm with admissions before planning around it. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | about 2 years |
+| Minimum grade | 3.00/4.33 |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | International CLOSED [from notes, not re-read] |
+| Cost (CAD) | Not found |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Computer Science, Course-only or Major Research Paper (MRP) option (thesis option also exists). Toronto Metropolitan University (TMU), Faculty of Science, Department of Computer Science, downtown Toronto. [Program page](https://www.torontomu.ca/graduate/programs/computer-science/) (OFFICIAL), [Calendar](https://www.torontomu.ca/graduate/calendar/programs-and-courses/computer-science/) (OFFICIAL; labelled 2025-26, "last revised Aug 18, 2026").
@@ -51,7 +69,10 @@ Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 63% and above 3.0/4 on 
 - Health insurance: stated as included in the tuition figure above; not itemized.
 - Work rules: Not checked. Check IRCC off-campus work rules for study permit holders.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: International CLOSED [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Fall 2027: first consideration date January 22, 2027. International: Closed. Domestic: Open, no closing date listed ([application dates](https://www.torontomu.ca/graduate/future-students/application-dates/), OFFICIAL). The general international closing date (Mar 12, 2027) does not apply to this program (Stage 1).
 - Review begins only when all documents including references are received (OFFICIAL, Stage 1). Decision dates and rolling admission: Not found.

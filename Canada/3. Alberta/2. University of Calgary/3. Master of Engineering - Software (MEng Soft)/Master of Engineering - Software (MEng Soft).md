@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. None of the official pages show a last-updated date (only "Copyright 2026") unless stated.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | 3.0/4.0 |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 41,487 to 53,933 (unverified) |
+| My notes say | Maybe / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering - Software (MEng Soft), specialization in Software Engineering within Electrical and Computer Engineering, University of Calgary. [Grad program page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) (OFFICIAL); [Schulich page](https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software) (OFFICIAL)
@@ -61,13 +79,14 @@ Tuition for new students: International $4,148.73 per 3-unit course, fee rate gr
 - Total program cost: tuition 41,487 to 53,933 plus student fees (Unverified) plus living costs. Conflict – verify with the university: third-party figures (TopUniversities 18,070/year; Studyportals 3,836/module) differ from the official rate; prefer official.
 - Work rules (part-time work, internship permit): Not found on UCalgary pages. Living cost beyond the IRCC minimum: Not found.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Admission | Background | International | Domestic |
 | --- | --- | --- | --- |
-| May 1 (Spring) | Non-software engineering | Dec 1 | Apr 1 |
 | Sep 1 (Fall) | Software engineering | Apr 1 | Apr 1 |
-| Jan 1 (Winter) | Software engineering | Aug 1 | Closed |
 
 Source: [grad program page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) (OFFICIAL). Rolling offers, fills quickly. Year not stated; Iranian applicants have extended deadlines. Document and decision dates: Not found. Verify.
 

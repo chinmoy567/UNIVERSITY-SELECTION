@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Official pages show no "last updated" date unless stated. [calendar.ontariotechu.ca](http://calendar.ontariotechu.ca) and [ouac.on.ca](http://ouac.on.ca) returned HTTP 403 and were not bypassed.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 73 to 76% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1, 2027 [from notes, not re-read] |
+| Cost (CAD) | about 50,966 |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng) in Electrical and Computer Engineering, professional master's. [Program page](https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/electrical_and_computer_engineering/index.php) (OFFICIAL)
@@ -65,12 +83,13 @@ Do I meet it? Unclear, leaning No. By percentage (66.64% vs 73-76%) it does not 
 - Work: up to 24 hours a week off campus during sessions, full-time on scheduled breaks, while enrolled full-time ([Ontario Tech](https://international.ontariotechu.ca/international-student-services/after-you-arrive/immigration/working-in-canada/working-off-campus.php), OFFICIAL, search snippet only, Unverified).
 - Conflict – verify with the university: Ontario Tech pages differ on whether a co-op work permit is needed (see [co-op permit page](https://international.ontariotechu.ca/international-student-services/after-you-arrive/immigration/working-in-canada/co-op-work-permit.php)). Not relevant unless a co-op is added. Whether a provincial attestation letter is required now: Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1, 2027 [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | International | Source |
 | --- | --- | --- |
-| January 2027 | October 1, 2026 (passed). Late applications case-by-case if space remains | [Deadlines](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/step%202/index.php) OFFICIAL, re-checked (table hard to read; reading is Unverified) |
-| May 2027 | Not listed for ECE MEng | same |
 | September 2027 | April 1, 2027 | same |
 
 - Supporting documents are due by the deadline. The university may change deadlines or close applications without notice.

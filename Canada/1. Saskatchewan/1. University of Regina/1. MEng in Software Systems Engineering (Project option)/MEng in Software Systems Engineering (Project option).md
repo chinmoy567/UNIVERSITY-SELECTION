@@ -1,5 +1,23 @@
 # MEng in Software Systems Engineering (Project option)
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years, 30 credits |
+| Minimum grade | 70% (exception: 75% in last 2 years) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 31 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 5,387 per full-time term; about 26,935 total |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No [uregina.ca](http://uregina.ca) page shows a "last updated" date (fee schedule is dated Oct 16, 2026). Items not confirmed on a page are marked Unverified.
 
 ## 1. Basics
@@ -63,14 +81,16 @@ Source for the table: [Graduate tuition and fees schedule, Winter 2027](https://
 - Scholarships: Edgar A. Wahn, SaskPower Graduate, STEM Women scholarships and the Graduate Awards Portal are listed on the program page (amounts not found). MEng project students are usually not funded (Unverified).
 - Work rules: Not verified from IRCC in this check. Co-op requires a co-op work permit (Unverified).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 31 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | Application deadline | Source |
 | --- | --- | --- |
 | Fall | January 31 | [How to apply](https://www.uregina.ca/graduate-studies-research/future-students/how-to-apply.html) OFFICIAL, re-checked |
-| Winter | July 31 | same |
 
-- Late applications not accepted; not rolling. Decision about 6 to 8 weeks after the deadline (Stage 1, OFFICIAL). Year of the deadline not stated, so which date applies to Fall 2027 is Unverified. Spring/Summer intake: Not found.
+- Late applications not accepted; not rolling. Decision about 6 to 8 weeks after the deadline (Stage 1, OFFICIAL). Year of the deadline not stated, so which date applies to Fall 2027 is Unverified.
 
 ## 7. Courses and credits
 

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. [dal.ca](http://dal.ca) pages show no last-updated date. Items not opened or not found are marked Unverified.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months or more |
+| Minimum grade | 3.0 |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Apr 1 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 19,134 + 8,079 per year |
+| My notes say | Maybe / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Digital Innovation (MDI), Dalhousie University, Halifax, Nova Scotia, in person. [Program page](https://www.dal.ca/academics/programs/graduate/digital-innovation.html) (OFFICIAL)
@@ -61,7 +79,10 @@ Fee schedule: [2026-2027 Graduate Studies Fee Schedule - Masters](https://www.da
 - Conflict - verify with the university: total 21,284.53 (checked in the PDF) versus 21,279.02 quoted by a search summary of an unreachable [cdn.dal.ca](http://cdn.dal.ca) copy (404). Prefer the official PDF. THIRD-PARTY totals (CanAm about 29,000/yr; Mastersportal 26,157) are indicative only.
 - Scholarship: [Digital Innovation Changemakers Scholarship](https://www.dal.ca/faculty/computerscience/college-digital-transformation/Scholarships-and-Financial-Support/master-scholarship--digital-transformation-for-community-impact-/digital-innovation-changemakers-scholarship-.html) (OFFICIAL, details not opened, Unverified). Living cost estimate, total program cost over 16 months, work rules: Not verified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Apr 1 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - September intake only: international April 1; Canadian June 1 ([admissions](https://www.dal.ca/study/program-sites/digital-innovation/admissions.html), OFFICIAL; year not shown, presumably 2027, Unverified). Deferral requests: August 18 for fall. Document and decision dates: Not found. Rolling: not stated; late applications may be considered.
 

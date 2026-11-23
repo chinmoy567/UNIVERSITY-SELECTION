@@ -1,5 +1,23 @@
 # MSc in Computer Science — Course Route
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 75% and CS degree |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Dec 1 (later until Mar 15, fewer seats) [from notes, not re-read] |
+| Cost (CAD) | about 7,800 per year |
+| My notes say | Rejected unless waived |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 Last checked: 2026-11-22. Labels: OFFICIAL = university/government site; THIRD-PARTY = other. BDT in brackets at 1 CAD = 87.97 BDT (Bangladesh Bank 8 Nov 2026 cross rate, [source](https://www.bb.org.bd/econdata/exchange_rate/exchange_rate_08_11_2026.pdf), OFFICIAL, seen in search snippet; Wise showed 88.69 on 2 Nov, THIRD-PARTY). No site blocked this check.
 
 ## 1. Basics
@@ -62,16 +80,18 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university/government site; THIRD-P
 - Rough total (derived, not official): tuition 15,600 + health about 1,640 (6 x 273.75) + ancillary about 1,900 to 3,800 + possible admin fee 6,000, plus living. Unverified.
 - Funding/scholarships: none for course route. Work rules and co-op work permit: Not verified (check [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html)).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Dec 1 (later until Mar 15, fewer seats) [from notes, not re-read]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [info for applicants](https://www.mun.ca/computerscience/graduate-students/info-for-applicants/) (OFFICIAL, Feb 13, 2026).
 
 | Intake | Target date | Later applications |
 | --- | --- | --- |
 | Fall (September) | December 1 | Dec 2 to Mar 15 considered, fewer seats |
-| Winter (January) | April 1 | Apr 2 to Jul 15 considered, fewer seats |
 
-- Resolved: Winter April 1 confirmed on both the department page and the [program overview](https://www.mun.ca/become/graduate/programs-and-courses/computer-science/) (Oct 27, 2026). Document deadline and decision dates: Not found. Submit 1-2 weeks early for referees.
+Document deadline and decision dates: Not found. Submit 1-2 weeks early for referees.
 
 ## 7. Courses and credits
 

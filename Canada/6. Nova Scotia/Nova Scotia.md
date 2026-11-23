@@ -1,4 +1,20 @@
-# Nova Scotia (Notion page text)
+# Nova Scotia
+
+## Universities at a glance
+
+| University | Programs | Shortlist | Maybe | Rejected |
+| --- | --- | --- | --- | --- |
+| [Acadia University](./1.%20Acadia%20University/Acadia%20University.md) | 1 | 0 | 1 | 0 |
+| [Dalhousie University](./2.%20Dalhousie%20University/Dalhousie%20University.md) | 2 | 0 | 2 | 0 |
+| [St. Francis Xavier University (StFX)](./3.%20St.%20Francis%20Xavier%20University%20(StFX)/St.%20Francis%20Xavier%20University%20(StFX).md) | 1 | 0 | 1 | 0 |
+| [Cape Breton University](./4.%20Cape%20Breton%20University/Cape%20Breton%20University.md) | 1 | 0 | 1 | 0 |
+| [Saint Mary's University](./5.%20Saint%20Mary's%20University/Saint%20Mary's%20University.md) | 1 | 0 | 1 | 0 |
+
+Status words come from your own earlier notes. Open a university to see each program.
+
+---
+
+## Original notes
 
 Source: Notion, STUDY ABROD / UNIVERSITY / CANADA / Nova Scotia.
 

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: every [brocku.ca](http://brocku.ca) page returned HTTP 403 to automated tools (not bypassed), so Brock facts are seen only as search-result text of official pages ("snippet"), page dates not visible, and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 75% (unconfirmed) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 (site blocked me) [NOT confirmed] |
+| Cost (CAD) | Unclear |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Computer Science, Project option (COSC 5F99 project), Brock University, St. Catharines, Ontario. [Program page](https://brocku.ca/programs/graduate/msc-cosc) (OFFICIAL, snippet, Unverified)
@@ -53,7 +71,10 @@ Rate note: midpoint of Wise 88.69 and Revolut 86-87 snapshots, undated, THIRD-PA
 - Conflict – verify with the university: a second search on the same 2026 page showed about 13,847.65 for the international MSc row (columns unclear, possibly annual or two terms) versus 6,725.34 per term; THIRD-PARTY [HotCourses](https://www.hotcoursesabroad.com/india/course/canada/master-of-science-management-msc/57027918/program.html) shows 13,450.68/year (= 2 x 6,725.34). 2025 schedule per snippet: 3,832.21 per credit + 750. Whether the project route is billed per term at this rate: Unverified.
 - Study permit and biometrics fees, living cost estimate, scholarships/funding amounts, work rules: not checked in detail. Open [Brock funding](https://brocku.ca/graduate-studies/financial-resources/funding) and [IRCC study permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) manually. Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15 (site blocked me) [NOT confirmed]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Application deadline: January 15 for Fall ([program page](https://brocku.ca/programs/graduate/msc-cosc), OFFICIAL snippet; third-party Petersons lists the same). Other intakes, document and decision dates, rolling admission: Not found.
 - Apply for the study permit about 6 months ahead ([Brock calendar](https://calendar.brocku.ca/content.php?catoid=13&navoid=339), snippet).

@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Most [algomau.ca](http://algomau.ca) pages show no "last updated" date. Note: the international application deadline is December 1, 2026 (9 days from the check date).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 70% (or 75% last 2 years) |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | No September intake found (Jan 2027 only in notes) [NOT confirmed] |
+| Cost (CAD) | 8,986 per semester |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Computer Science, Data Science and AI specialization (MCS.DSAI), Algoma University, Ontario. [Program page](https://algomau.ca/academics/graduate-programs/master-of-computer-science-16mth/) (OFFICIAL, no date). Launch news [posted 2026-05-01](https://algomau.ca/news/new-16-month-master-of-computer-science-specialization-at-algoma-university-bridges-talent-gap-with-hands-on-ethical-tech-training-in-ai-and-data-science) (OFFICIAL).
@@ -67,9 +85,12 @@ All from the [program page](https://algomau.ca/academics/graduate-programs/maste
 - Work rules: off-campus up to 24 hours per week during terms, full-time during scheduled breaks, SIN and full-time study at a DLI needed. [Algoma immigration page](https://algomau.ca/students/international-students/immigration/) (OFFICIAL). No co-op work permit (no co-op).
 - Possible fee increase: Algoma budget news reports international master's increases from Jan 2027 ([news](https://algomau.ca/news/algoma-universitys-board-of-governors-approves-2026-27-operating-budget-fiscal-reality-for-a-sustainable-future/), OFFICIAL, search summary only). Unverified.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: No September intake found (Jan 2027 only in notes) [NOT confirmed]**
 
-- January 2027 (Winter 2027) intake, international (offshore and onshore): applications until December 1, 2026; documents due December 15, 2026. Domestic: January 6, 2027; documents January 8, 2027. Processing 2 to 6 weeks; incomplete applications may be closed or deferred. [Program page](https://algomau.ca/academics/graduate-programs/master-of-computer-science-16mth/) (OFFICIAL, re-checked 2026-11-22).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Only a January (Winter) 2027 intake is listed on the program page. No September intake was found. Email the university to ask if a September 2027 intake exists.
 - Conflict – verify with the university: the same page gives the application opening date as May 4, 2026 in one place and June 29, 2026 in another (not decision-relevant now).
 - Rolling admission, other intakes, decision date: Not found / not published.
 

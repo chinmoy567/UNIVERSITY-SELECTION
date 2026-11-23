@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Most TMU pages show no last-updated date unless stated.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 1 year |
+| Minimum grade | 3.0/4.33 |
+| IELTS needed | 7.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | First review Jan 22; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated] |
+| Cost (CAD) | 45,246 |
+| My notes say | Shortlist / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Cybersecurity (MC), Toronto Metropolitan University, Toronto, Ontario. [Program page](https://www.torontomu.ca/graduate/programs/cybersecurity/) (OFFICIAL)
@@ -61,13 +79,16 @@ Source: [TMU English requirements](https://www.torontomu.ca/graduate/future-stud
 - Scholarships: TMU gives priority admission and funding consideration to those applying by the first consideration date (OFFICIAL, application dates page). No specific awards found; no OSAP/OGS for international students (admissions page).
 - Work rules: Not checked on an official page.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: First review Jan 22; closes Mar 12, 2027 [verified 2026-11-24, Sept 2027 stated]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 Source: [Application dates](https://www.torontomu.ca/graduate/future-students/application-dates/) (OFFICIAL, updated 2026-11-20)
 
 - Fall 2027: first consideration date 2027-01-22 (11:59pm ET); international closing date 2027-03-12 unless the program says otherwise. MC status: open to domestic and international applicants.
 - Applications are reviewed only when complete, including recommendation letters.
-- Winter / Spring 2027: MC not offered. Decision dates and rolling admission: Not found.
+Decision dates and rolling admission: Not found.
 
 ## 7. Courses and credits
 

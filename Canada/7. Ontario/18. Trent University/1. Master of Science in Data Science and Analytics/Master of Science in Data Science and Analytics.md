@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Note: [trentu.ca/graduatestudies/node/38](http://trentu.ca/graduatestudies/node/38) returned HTTP 403 (not bypassed); some items come from other official pages or search-result text and are marked Unverified. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No Trent page shows a last-updated date.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 77% |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (third party says Feb 1) [NOT confirmed] |
+| Cost (CAD) | Not summed |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: MSc Applied Modelling and Quantitative Methods (AMOD), Data Science and Analytics stream, Trent University. [Program page](https://www.trentu.ca/amod/program/data-science-and-analytics-msc) (OFFICIAL)
@@ -65,9 +83,12 @@ Rate source: Wise mid-market showed about 90.3 and Revolut about 86.4 (undated s
 - Scholarships: Not found for this stream. Work rules, living-cost estimate: Not verified.
 - Earlier snippet of \$4,637 per term is the "Other Canadian" rate, not international.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Not confirmed (third party says Feb 1) [NOT confirmed]**
 
-- Search summary of Trent grad pages (THIRD-PARTY, Unverified): Fall deadline Feb 1; Winter start deadline June 1 (some pages say Jan 1 start); Spring start May 1, deadline Oct 1 for select programs. No official stream-specific date found: the [how-to-apply page](https://www.trentu.ca/graduatestudies/admissions/how-apply) says to check program pages, and the node/38 page was blocked (403).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Search summary of Trent grad pages (THIRD-PARTY, Unverified): Fall deadline Feb 1; No official stream-specific date found: the [how-to-apply page](https://www.trentu.ca/graduatestudies/admissions/how-apply) says to check program pages, and the node/38 page was blocked (403).
 - Apply through OUAC; offers begin about 1 month after the deadline; documents within 30 days of acknowledgement; decisions final ([how to apply](https://www.trentu.ca/graduatestudies/admissions/how-apply), OFFICIAL). Rolling admission: Unverified.
 
 ## 7. Courses and credits

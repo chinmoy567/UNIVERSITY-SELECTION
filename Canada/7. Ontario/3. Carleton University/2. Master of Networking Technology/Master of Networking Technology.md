@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No page showed an updated date unless stated. The Carleton academic calendar page returned HTTP 503 and was not used.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 2 years |
+| Minimum grade | See Part A |
+| IELTS needed | 6.5 / 6.0 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jan 15 [verified 2026-11-24, year not shown] |
+| Cost (CAD) | 33,478 (Fall + Winter) |
+| My notes say | Maybe / match |
+| Is this checked? | Re-checked on the official website on 2026-11-24 (grade, deadline and length matched). IELTS and cost may still be from older notes. See the comparison file. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Networking Technology (MNET); the fee tables also call it "Master of Information Technology: Network Technology". [Program page](https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/) (OFFICIAL)
@@ -63,17 +81,19 @@ Do I meet it? Unclear (leaning Yes). CGPA 3.34 (about 66.64%) is above the 55-60
 - Scholarships: funding depends on performance; early (Jan 15) applications improve funding chances; domestic MNET students may get assistance. International amounts Not found.
 - Work rules: Not checked (Unverified).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jan 15 [verified 2026-11-24, year not shown]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 [Graduate program deadlines](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/) (OFFICIAL, re-checked)
 
 | Intake | Application deadline (international) |
 | --- | --- |
 | Fall (September) | January 15 |
-| Winter (January) | August 1 |
 
 - Program page says applicants can apply any time (rolling); January 15 is the priority date for funding. Documents and decision dates: Not found / not published. Applications for terms open June 1. Offers are usually accepted within 21 days.
-- From today (2026-11-22) the next realistic intake is Fall 2027 (deadline January 15, 2027, assuming the same cycle). Winter 2027 (August 1, 2026) has passed.
+- From today (2026-11-22) the next realistic intake is Fall 2027 (deadline January 15, 2027, assuming the same cycle).
 
 ## 7. Courses and credits
 

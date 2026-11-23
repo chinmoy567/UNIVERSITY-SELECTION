@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. Official [uwaterloo.ca](http://uwaterloo.ca) pages show no last-updated date (only (c)2026), so the check date is used.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 16 months |
+| Minimum grade | 75% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Feb 1 [from notes, not re-read] |
+| Cost (CAD) | 17,400 per term |
+| My notes say | Maybe, leaning reject |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Engineering (MEng), Systems Design Engineering, University of Waterloo, Faculty of Engineering. [Program page](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/systems-design-engineering-master-engineering-meng) (OFFICIAL)
@@ -58,9 +76,12 @@ Tuition unit resolved: both the [Fall 2026 table](https://uwaterloo.ca/finance/m
 - Estimated tuition plus incidentals (derived): 4 terms about CAD 73,656 (BDT about 6.63M); 3 terms about CAD 55,242 (BDT about 4.97M). Excludes living costs (IRCC minimum CAD 23,448 per year). Waterloo's own living-cost estimate: Not found.
 - Scholarships: none internal for MEng coursework (FAQ OFFICIAL); external only. Work rules and co-op permit: Unverified (not checked on IRCC).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Feb 1 [from notes, not re-read]**
 
-- Fall (September): February 1. Winter (January, next year): June 1. Spring (May, next year): October 1. Complete application with documents and references required by then (Program page, FAQ, OFFICIAL). Decision dates and rolling admission: Not found. Deferral up to 1 year, not guaranteed (FAQ).
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- Fall (September): February 1. Complete application with documents and references required by then (Program page, FAQ, OFFICIAL). Decision dates and rolling admission: Not found. Deferral up to 1 year, not guaranteed (FAQ).
 
 ## 7. Courses and credits
 

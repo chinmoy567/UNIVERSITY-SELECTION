@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. None of the official pages shows a "last updated" date. BDT rate used: about 1 CAD = 88 BDT (approximate; Wise mid-market pages showed 87.6 to 90.3 and Revolut about 86, none dated; [Wise](https://wise.com/gb/currency-converter/cad-to-bdt-rate) THIRD-PARTY).
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months |
+| Minimum grade | 75% |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Not confirmed (Feb 28 or Mar 31) [NOT confirmed] |
+| Cost (CAD) | Not summed |
+| My notes say | Maybe / reach |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Cybersecurity and Threat Intelligence (MCTI), School of Computer Science, College of Computational, Mathematical, and Physical Sciences. [Program page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti) (OFFICIAL)
@@ -55,15 +73,16 @@ Do I meet it? No / Unclear. CGPA 3.34 ≈ 66.64% is below the stated 75% (B) min
 - Conflict – verify with the university: a THIRD-PARTY listing (Studyportals) shows CAD 23,152; the official table says 48,619. Prefer official. Tuition is subject to change.
 - Funding: program is self-funded ([Program page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti)). Work rules (part-time hours): Not found in this check; see [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html).
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Not confirmed (Feb 28 or Mar 31) [NOT confirmed]**
+
+Only the Fall (September) intake is shown here. Other intakes were removed.
 
 | Intake | International | Domestic |
 | --- | --- | --- |
 | Fall (Sept) | Feb 28 (Official Deadlines section) vs Mar 31 (Entry Terms box). Conflict – verify with the university | Jul 31 (box says Jul 30) |
-| Winter (Jan) | Jun 30 | Nov 30 |
-| Summer (May) | Oct 31 | Apr 30 |
 
-- Source: [Program page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti) (OFFICIAL). Prefer the earlier date (Feb 28) to be safe. Winter/Summer dates carry a "2026" year in the box, so they may be stale for the next cycle. Document deadline, decision dates, rolling admission: Not found. Allow 10 to 12 weeks for international processing.
+- Source: [Program page](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti) (OFFICIAL). Prefer the earlier date (Feb 28) to be safe. Document deadline, decision dates, rolling admission: Not found. Allow 10 to 12 weeks for international processing.
 
 ## 7. Courses and credits
 

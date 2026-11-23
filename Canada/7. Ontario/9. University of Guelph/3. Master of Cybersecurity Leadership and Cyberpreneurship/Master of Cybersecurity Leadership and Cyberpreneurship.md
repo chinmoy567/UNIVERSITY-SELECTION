@@ -1,5 +1,23 @@
 Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIRD-PARTY = other. No official page shows a last-updated date unless stated. Key flags: NOT PGWP-eligible (official statement below), 3+ years professional work experience required, minimum 70% average.
 
+## Quick facts (easy view)
+
+| Question | Answer |
+| --- | --- |
+| How long is it? | 12 months (hybrid) |
+| Minimum grade | 70% or B (conflict) |
+| IELTS needed | 6.5 |
+| Deadline for SEPTEMBER 2027 intake (international) | Jul 30 [from notes, not re-read] |
+| Cost (CAD) | Not summed |
+| My notes say | Rejected |
+| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+
+All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
+
+---
+
+## Full details (original notes)
+
 ## 1. Basics
 
 - Program: Master of Cybersecurity Leadership and Cyberpreneurship (MCLC), University of Guelph, Guelph, Ontario. [Program page](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc) (OFFICIAL, rechecked 2026-11-22)
@@ -59,11 +77,14 @@ Do I meet it? No (likely). CGPA 3.34 is about 66.64%, below the stated 70% minim
 
 - Program is self-funded; no program-specific scholarships found. General: [grschol@uoguelph.ca](mailto:grschol@uoguelph.ca). Work rules: Not found; program is not PGWP-eligible.
 
-## 6. Deadlines
+## 6. Deadline for Fall (September) 2027 intake
+**Deadline for the Fall (September) 2027 intake, international: Jul 30 [from notes, not re-read]**
 
-- International: Fall July 30; Winter November 29; Summer not available. Applications open Oct 15, rolling. [Program page](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc) OFFICIAL, rechecked 2026-11-22.
+Only the Fall (September) intake is shown here. Other intakes were removed.
+
+- International: Fall July 30; Applications open Oct 15, rolling. [Program page](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc) OFFICIAL, rechecked 2026-11-22.
 - Conflict – verify with the university: [grad studies page](https://graduatestudies.uoguelph.ca/node/1995) lists March 31, 2026 (probably an older cycle). Prefer the program page.
-- Winter 2027 deadline (Nov 29, 2026) is a week away. Document and decision dates: Not found.
+Document and decision dates: Not found.
 
 ## 7. Courses and credits
 

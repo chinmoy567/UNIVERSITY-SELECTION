@@ -1,4 +1,16 @@
-# Manitoba (Notion page text)
+# Manitoba
+
+## Universities at a glance
+
+| University | Programs | Shortlist | Maybe | Rejected |
+| --- | --- | --- | --- | --- |
+| [University of Winnipeg](./1.%20University%20of%20Winnipeg/University%20of%20Winnipeg.md) | 1 | 1 | 0 | 0 |
+
+Status words come from your own earlier notes. Open a university to see each program.
+
+---
+
+## Original notes
 
 Source: Notion, STUDY ABROD / UNIVERSITY / CANADA / Manitoba.
 
