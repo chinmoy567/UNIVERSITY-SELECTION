@@ -6,7 +6,7 @@ Made on 2026-11-24. Based on your PDF "UG study.pdf" and the program notes in th
 
 | Question | Answer |
 | --- | --- |
-| Can I get in anywhere? | **Yes.** About about 8 of 21 programs ask for a level you can meet on paper (3.0/4.0, "second class" or similar). |
+| Can I get in anywhere? | **Yes.** About 8 of 21 programs ask for a level you can meet on paper (3.0/4.0, "second class" or similar). |
 | Can I get in everywhere? | **No.** About 30 programs ask for 70% to 78%. You are below that. |
 | Best chance (each) | Roughly **50% to 70%** at the best-fit programs (Section 5). |
 | If I apply to only 2 programs | About **70% to 80%** to get at least one offer, if both are from Tier A. |
