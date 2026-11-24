@@ -1,4 +1,4 @@
-# September 2027 Intake: Deadlines for All 58 Programs
+# September 2027 Intake: Deadlines for All 21 Programs
 
 Only the Fall (September) 2027 intake. Last checked 2026-11-24.
 

@@ -1,4 +1,4 @@
-# Canada: Top Programs Compared (without Ontario) (Which One Fits Me Best?)
+# Canada: Top Programs Compared (Which One Fits Me Best?)
 
 Made on 2026-11-24. For: CGPA 3.34 on portal 3.29 (about 66%), IELTS not taken, goal = course-based master's, Fall (September) 2027.
 

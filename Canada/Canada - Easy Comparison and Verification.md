@@ -1,4 +1,4 @@
-# Canada: Easy Comparison of All 58 Programs
+# Canada: Easy Comparison of All 21 Programs
 
 Made on 2026-11-24. All money is in CAD. Your CGPA 3.34 is about 66.64% (as written in your files).
 
@@ -27,7 +27,7 @@ Things worth your attention from this check:
 
 ---
 
-## Part B. All programs side by side (Ontario removed) (from your files, 2026-11-22)
+## Part B. All programs side by side (from your files, 2026-11-22)
 
 Status and risk are the suggestions in your files, not mine. "Term" = one study term.
 

@@ -6,7 +6,7 @@ Made on 2026-11-24. Based on your PDF "UG study.pdf" and the program notes in th
 
 | Question | Answer |
 | --- | --- |
-| Can I get in anywhere? | **Yes.** About 18 of 58 programs ask for a level you can meet on paper (3.0/4.0, "second class" or similar). |
+| Can I get in anywhere? | **Yes.** About about 8 of 21 programs ask for a level you can meet on paper (3.0/4.0, "second class" or similar). |
 | Can I get in everywhere? | **No.** About 30 programs ask for 70% to 78%. You are below that. |
 | Best chance (each) | Roughly **50% to 70%** at the best-fit programs (Section 5). |
 | If I apply to only 2 programs | About **70% to 80%** to get at least one offer, if both are from Tier A. |
@@ -100,7 +100,7 @@ Your numbers used: **3.34/4.00, about 66.6% (all years), about 68.4% (last 2 yea
 
 ---
 
-## 5. Full comparison (all 58 programs)
+## 5. Full comparison (all 21 programs)
 
 Minimums are "from your files" (2026-11-22). Part A of `Canada - Easy Comparison and Verification.md` re-checked 11 of them on 2026-11-24. Check the official page before you apply.
 
