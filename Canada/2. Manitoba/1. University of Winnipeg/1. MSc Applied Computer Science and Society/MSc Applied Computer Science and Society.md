@@ -1,17 +1,17 @@
-Last checked: 2026-11-22. Note: [uwinnipeg.ca](http://uwinnipeg.ca) HTML pages return HTTP 403 to automated tools, so some official items are seen only as search-result text on official pages ("snippet") and are marked Unverified until opened in a browser. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
+Last checked: 2026-11-24 (opened in a real browser: Bangladesh credentials page, program page, 2026-27 fee page). Items not re-opened on 2026-11-24 still carry the 2026-11-22 date. Note: [uwinnipeg.ca](http://uwinnipeg.ca) pages return HTTP 403 to automated tools and the Graduate Calendar PDF is not readable in the browser, so Calendar items are still marked Unverified. Labels: OFFICIAL = university or government site; THIRD-PARTY = other.
 
 ## Quick facts (easy view)
 
 | Question | Answer |
 | --- | --- |
 | How long is it? | 2 years |
-| Minimum grade | GPA 3.0 (scale unclear) |
+| Minimum grade | GPA 3.0 out of 4.5 (program page, 2026-11-24). Bangladesh page says 60/100 or 3.0/4.0. Scale conflict, ask the university. |
 | IELTS needed | 6.5 |
-| Deadline for SEPTEMBER 2027 intake | Feb 1 |
-| Link to verify the deadline | [Official page](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf) (from notes, not re-opened) |
-| Cost (CAD) | 16,269 tuition per year (2025-26) |
+| Deadline for SEPTEMBER 2027 intake | Feb 1 (checked 2026-11-24) |
+| Link to verify the deadline | [Official program page](https://www.uwinnipeg.ca/programs/msc-acs.html) (updated 2026-06-08) |
+| Cost (CAD) | 16,920.18 tuition per year (≈ BDT 1,500,700); 20,166.32 total fees per year (≈ BDT 1,788,500). 2026-27, international. Rate 1 CAD = 88.69 BDT (Wise UK page, approximate, not clearly dated). |
 | My notes say | Shortlist / match |
-| Is this checked? | From earlier notes (2026-11-22). NOT re-checked yet. Confirm on the official page before you apply. |
+| Is this checked? | Grade rule, deadline, documents and 2026-27 fees checked on official pages 2026-11-24. Math-course GPA rule (Calendar PDF) still unverified. |
 
 All money is in CAD. Official links are in the full details below. "Not found" means the university did not publish it on the pages read.
 
@@ -38,11 +38,12 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 ## 3. Admission requirements
 
 - Background: Honours or 4-year BSc in Applied Computer Science, Computer Science and/or Engineering, Mathematics or equivalent, plus a suitable selection of courses. A 4-year bachelor's is accepted. ([Calendar PDF](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf), OFFICIAL)
-- Minimum GPA: thesis route overall 3.0; course route 3.0 in all computing, mathematics and statistics courses (Calendar PDF, OFFICIAL). Scale not stated there. The graduate viewbook (via search result, Unverified) says overall GPA 3.0/4.5 (B).
-- Bangladesh: the university's international-credentials page (search snippet, OFFICIAL, Unverified) lists a 4-year bachelor's with overall grade 60/100; 3.0/4.0. [Source](https://www.uwinnipeg.ca/graduate-studies/future-students/minimum-academic-requirement-international-credentials.html)
-- Conflict – verify with the university: minimum 3.0 is stated on a 4.5 scale (viewbook) versus 3.0/4.0 and 60/100 (credentials page). The university also says programs may define their own conversion scale.
+- Minimum GPA: thesis route overall 3.0; course route 3.0 in all computing, mathematics and statistics courses (Calendar PDF, OFFICIAL). Scale not stated there. The program page says "Minimum cumulative GPA of 3.0 out of 4.5" ([program page](https://www.uwinnipeg.ca/programs/msc-acs.html), OFFICIAL, opened 2026-11-24, updated 2026-06-08).
+- Bangladesh: the international-credentials page (OFFICIAL, opened 2026-11-24) lists a 4-year bachelor's (or bachelor's plus master's) with overall grade **60/100; 3.0/4.0**. [Source](https://www.uwinnipeg.ca/graduate-studies/future-students/minimum-academic-requirement-international-credentials.html)
+- Conflict – verify with the university: the program page says 3.0 on a 4.5 scale; the Bangladesh page says 60/100 or 3.0/4.0. Both are official. The program page says the Calendar takes precedence if they differ. The Calendar PDF was not readable on 2026-11-24.
+- **Math check (calculated 2026-11-24, BAIUST points):** MATH 111 C+ 2.5, MATH 211 B- 2.75, MATH 221 B+ 3.25 = average about 2.83 (about 57%). With CSE 113 B and CSE 225 B-: about 2.85. On a 4.0 scale this is **below 3.0 by about 0.15**. On a 4.5 scale, 3.0 is about 2.67 on 4.0, so it **passes**. Your computing grades are strong and may lift a combined average. Whether the 3.0 is one combined average or per subject group is **Not verified**.
 - Supervisor: thesis route needs a supervisor selection before admission (Calendar PDF, OFFICIAL). Course route: none stated.
-- Documents (general graduate rules, search snippet, Unverified): proof of English, plan of study, CV, confidential recommendation letters, post-secondary transcripts. [Admission procedures](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-admission.pdf) (PDF not readable by tools). Number of references, GRE, work experience, portfolio, original vs provisional transcripts, average admitted GPA: Not found / not published.
+- Documents (program page, OFFICIAL, 2026-11-24): transcripts from ALL post-secondary institutions (unofficial copies fine for first review, official only if recommended), contact details of **two** referees, English test result if needed, statement of interest and/or research proposal. Other: CV, name change papers. Course route needs no faculty contact. Earlier snippet also listed: plan of study. [Admission procedures](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-admission.pdf) (PDF not readable by tools). Number of references, GRE, work experience, portfolio, original vs provisional transcripts, average admitted GPA: Not found / not published.
 
 Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above 3.0 and above 60/100, but the scale and the computing-course GPA must be confirmed, and the 4-year degree must be in a related field. Unclear on field match and supervisor.
 
@@ -65,25 +66,31 @@ Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above 3.0 and above 60/1
 | --- | --- | --- | --- |
 | Application fee (international) | 120 | 10,640 | [Grad online application](https://www.uwinnipeg.ca/graduate-studies/future-students/online-application-form.html) OFFICIAL snippet, Unverified. Waiver and refundability: Not found |
 | Seat deposit | 1,000 (applied to first-term fees; deadline and refundability not found) | 88,700 | [Intl tuition and fees](https://www.uwinnipeg.ca/future-student/international/tuition-and-fees.html) OFFICIAL snippet, Unverified |
-| Program tuition 2025-26, full-time, per term | 5,423.12 | 481,000 | [Fee summary 2025-26](https://www.uwinnipeg.ca/graduate-studies/fees/international-graduate-student-fees-and-payment-schedule.html) OFFICIAL snippet |
-| Program tuition 2025-26, per year | 16,269.36 | 1,442,900 | same |
-| Incidental fees 2026-27, full-time | 1,099.14/year (366.38/term) | 97,500 | [Incidental fees](https://www.uwinnipeg.ca/graduate-studies/fees/incidental-one-time-fees.html) OFFICIAL snippet |
-| Estimated total annual fees 2025-26 (MA/MSc/MEnv) | about 19,322.58 | 1,713,800 | Fee summary, OFFICIAL snippet |
+| Program tuition **2026-27**, full-time, per term | 5,640.06 | 500,200 | [Fee summary 2026-27](https://www.uwinnipeg.ca/graduate-studies/fees/international-graduate-student-fees-and-payment-schedule.html) OFFICIAL, opened 2026-11-24 |
+| Program tuition 2026-27, per year (3 terms) | 16,920.18 | 1,500,700 | same |
+| Incidental and one-time fees 2026-27 | 1,099.14/year (366.38/term) | 97,500 | same |
+| U/GPass (bus pass), Fall + Winter | 477.00/year (238.50/term) | 42,300 | same |
+| MB Blue Cross health plan | 440 (Fall) + 880 (Winter) = 1,320 | 117,100 | same, single student |
+| UWSA health plan (Fall) | 350 | 31,000 | same |
+| **Total fees 2026-27 per year** | **20,166.32** (Fall 7,034.94, Winter 7,124.94, Spring 6,006.44) | **1,788,500** | same. Assumes Fall 2026 start. |
+| Total fees for 2 years (estimate, 2026-27 rates) | about 40,333 | 3,577,000 | My arithmetic. Fall 2027 fees may be higher. |
+| For comparison: tuition 2025-26 per year | 16,269.36 | 1,442,900 | Older figure (2026-11-22 snippet). Replaced by 2026-27. |
 | Health insurance (MISHP 368/term + extended 330/year; year not stated) | about 1,066/year | 94,500 | [ISS health insurance](https://uwinnipeg.ca/iss/information-for-all-students/health-insurance.html) OFFICIAL snippet, Unverified |
 | Proof of funds, living costs, single student, applications from 2026-09-01 (excludes tuition) | 23,448/year (22,895 for 2025-01-01 to 2026-08-31) | 2,079,600 | [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html) OFFICIAL, page modified 2026-08-28 |
 
-- 2026-27 graduate tuition: Not found. The university budget reports a 4% graduate tuition increase for 2026-27 ([news](https://news.uwinnipeg.ca/board-approves-uwinnipegs-2026-2027-budget/), OFFICIAL snippet), so expect higher than 2025-26. Program fee is flat, not per credit.
-- Conflict – verify with the university: THIRD-PARTY listings show 17,732 CAD/yr ([TopUniversities](https://www.topuniversities.com/universities/university-winnipeg/postgrad/applied-computer-science-society)), 21,486 CAD/yr ([CollegeDunia](https://collegedunia.com/canada/university/65-university-of-winnipeg-winnipeg/master-of-science-ms-applied-computer-science-and-society-5097)), and 5,423 per term ([Mastersportal](https://www.mastersportal.com/studies/149167/applied-computer-science-and-society.html), matches official). Prefer the official figure.
+- 2026-27 graduate tuition is now confirmed on the official fee page (table above): 5,640.06 per term, about 3.8% above 2025-26. The university budget also reported a 4% increase ([news](https://news.uwinnipeg.ca/board-approves-uwinnipegs-2026-2027-budget/)). Program fee is flat, not per credit. Fall 2027 fees: Not published yet.
+- Third-party listings (TopUniversities 17,732, CollegeDunia 21,486 CAD/yr) are older or unreliable. Prefer the official figure.
+- BDT rate: 1 CAD = 88.69 BDT (Wise UK page). Other pages seen on 2026-11-24 ranged from 85.9 to 90.3 BDT, none clearly dated. BDT numbers are approximate.
 - Study permit and biometrics fees, total program cost, scholarships and funding, work rules: Not found in this check (IRCC page: [study permit documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)). Unverified.
 
 ## 6. Deadline for Fall (September) 2027 intake
 **Deadline for the Fall (September) 2027 intake: Feb 1**
 
-Verify here: [Official page](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf) (from notes, not re-opened)
+Verify here: [Official program page](https://www.uwinnipeg.ca/programs/msc-acs.html) (opened 2026-11-24, page updated 2026-06-08)
 
 Only the Fall (September) intake is shown here. Other intakes were removed.
 
-- September start: February 1. consistent with the [grad program overview](https://www.uwinnipeg.ca/graduate-studies/docs/grad_program_overview.pdf), snippet).
+- September start: **February 1**, "deadline to submit a complete application package" (OFFICIAL, 2026-11-24). No year is printed on the page. A complete package includes the English test result, so IELTS must be done before Feb 1.
 - Document deadline, decision dates, rolling admission: Not found / not published. Third-party Feb 2, 2027 date is not reliable.
 
 ## 7. Courses and credits
@@ -108,11 +115,11 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Suggested risk: Match (CGPA 3.34 above the 3.0 minimum; thesis route needs a supervisor)
 - Pros: 2-year MSc, 4-year bachelor's accepted, Bangladesh 60/100 threshold below 66.64%, thesis and course routes, PGWP-eligible degree level, relatively low flat tuition.
 - Cons: Tuition and many fees not confirmed for 2026-27, no co-op found, early deadline (Feb 1 for September), IELTS 6.5 needed, 3.0/4.5 versus 3.0/4.0 ambiguity.
-- Admissions contact: [graduateadmissions@uwinnipeg.ca](mailto:graduateadmissions@uwinnipeg.ca), 204.786.9309 (from search result, Unverified). Program: Connie Arnhold (Administrative Supervisor of Grad Students) and Chair S. Ramanna. International Student Services: [iss@uwinnipeg.ca](mailto:iss@uwinnipeg.ca), 204.982.1703.
+- Admissions contact: [graduateadmissions@uwinnipeg.ca](mailto:graduateadmissions@uwinnipeg.ca), 204.786.9309 (from search result, Unverified). Program page (2026-11-24) lists Graduate Chair **Dr. Qian Liu**, q.liu@uwinnipeg.ca, 204.786.9712 (the Calendar named S. Ramanna earlier), and Graduate Studies Admissions Office 204.786.9309. International Student Services: [iss@uwinnipeg.ca](mailto:iss@uwinnipeg.ca), 204.982.1703.
 
 ## Conflicts / missing
 
-- Conflict – verify with the university: GPA scale (3.0/4.5 versus 3.0/4.0 versus 60/100).
-- Conflict – verify with the university: tuition third-party figures versus official 16,269.36 (2025-26).
-- Missing: 2026-27 graduate tuition, study permit and biometrics fees, total program cost, scholarships, co-op, work rules, document deadlines, references count, PTE acceptance, waiver by medium-of-instruction letter, IRCC DLI list check, dated BDT rate.
+- Conflict – verify with the university (both official, checked 2026-11-24): GPA scale. Program page 3.0/4.5 versus Bangladesh page 60/100 or 3.0/4.0. Also ask whether the 3.0 in computing, math and statistics courses is one combined average. Your math average is about 2.85/4.0.
+- Resolved 2026-11-24: 2026-27 tuition is 16,920.18/year (official).
+- Missing: Fall 2027 tuition, study permit and biometrics fees, total program cost, scholarships, co-op, work rules, document deadlines, references count, PTE acceptance, waiver by medium-of-instruction letter, IRCC DLI list check, dated BDT rate.
 - All [uwinnipeg.ca](http://uwinnipeg.ca) HTML pages (including the program page) should be opened in a browser to verify snippet-based items.
