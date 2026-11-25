@@ -1,6 +1,6 @@
 # Canada: Am I Eligible? (CGPA 3.34, about 66%)
 
-Made on 2026-11-24. Based on your PDF "UG study.pdf" and the program notes in this folder.
+Made on 2026-11-24. Math check and new ranking added 2026-11-25. Based on your PDF "UG study.pdf" and the program notes in this folder.
 
 ## 1. Short answer
 
@@ -8,9 +8,9 @@ Made on 2026-11-24. Based on your PDF "UG study.pdf" and the program notes in th
 | --- | --- |
 | Can I get in anywhere? | **Yes.** About 8 of 21 programs ask for a level you can meet on paper (3.0/4.0, "second class" or similar). |
 | Can I get in everywhere? | **No.** About 30 programs ask for 70% to 78%. You are below that. |
-| Best chance (each) | Roughly **50% to 70%** at the best-fit programs (Section 5). |
-| If I apply to only 2 programs | About **70% to 80%** to get at least one offer, if both are from Tier A. |
-| If I apply to 4 to 5 programs | About **85% to 90%**. Safer. |
+| Best fit after math check | Dalhousie MDI, UCalgary MDSA, UWinnipeg (Section 5). **No program is a sure thing.** |
+| If I apply to only 2 programs | Risky. Old "70% to 80%" guess is **removed** (it was not based on verified math rules). |
+| If I apply to 4 to 5 programs | Safer. Pick from Tier A and B. |
 | Biggest risks | 1) Percentage under 70%. 2) IELTS not taken yet. 3) Portal shows **3.29**; official transcript must show 3.34 with the capstone. |
 
 These chances are **my estimates**, not university numbers. Universities do not publish their chance of admission. Competition each year can change them.
@@ -53,17 +53,18 @@ The PDF is a **screenshot of the BAIUST student portal**, not an official transc
 
 This matches what you said: last 2 years are 68% to 69%.
 
-### Your math grades
+### Your math grades (checked in `UG RESULT.pdf`, 2026-11-25)
 
 | Course | Grade |
 | --- | --- |
 | MATH 111 (Calculus, Matrix) | C+ |
+| MATH 121 (Vector analysis, Linear algebra, Geometry, Fourier) | C+ |
 | MATH 211 (Diff. Equations, Complex Variables) | B- |
 | MATH 221 (Probability and Statistics) | **B+** |
 | CSE 113 Discrete Mathematics | B |
 | CSE 225 Numerical Methods | B- |
 
-You said you have no B+ in math. Only **Probability and Statistics is B+**. Calculus is C+. Programs that ask for "B+ in math" (Data Science, AI) may be hard. Programs that need math at 70%+ may reject you.
+Four MATH courses average about **B- (2.75/4)**. Only Probability and Statistics is B+. Section 5 compares this with each official math rule.
 
 ### Your strong points
 - Algorithms A+, Database A+ (lab), Software Engineering A+, Computer Architecture A+, Compiler A, Cyber Security A-, Machine Learning B+.
@@ -100,49 +101,69 @@ Your numbers used: **3.34/4.00, about 66.6% (all years), about 68.4% (last 2 yea
 
 ---
 
-## 5. Full comparison (all 21 programs)
+## 5. Ranking after the math check (all 21 programs)
 
-Minimums are "from your files" (2026-11-22). Part A of `Canada - Easy Comparison and Verification.md` re-checked 11 of them on 2026-11-24. Check the official page before you apply.
+Checked on official university pages on **2026-11-25**. Ranked by: math rule, overall grade rule, degree type. "Not stated" means the official page gives no number. The old "chance %" numbers were my guesses and are **removed**.
 
-### Tier A: Best chances (apply here first)
+**Your math average:** about **B- (2.75 of 4)**. It is 2.79 if Discrete Math and Numerical Methods are added. (BAIUST scale assumed: B+ 3.25, B 3.0, B- 2.75, C+ 2.5.)
 
-| Program | Min grade | IELTS | Do I meet it? | Chance |
-| --- | --- | --- | --- | --- |
-| UCalgary MEng Software | 3.0/4.0 (last 2 years) | 6.5 / 6.0 | Yes (3.42) | **Medium to High, 55% to 70%** |
-| UWinnipeg MSc Applied CS and Society | GPA 3.0 (scale unclear); course route needs 3.0 in computing, math and stats courses | 6.5 | Overall yes. Math average about 2.85 may fail. | **Medium, 45% to 60%** |
-| UAlberta MEng ECE | 3.0/4.0 (last 60 units) | 7.0 / 6.0 | Unclear. Needs ECE-type background. | **Medium, 40% to 55%** |
-| UCalgary MDSA | 3.0/4.0 (last 60 units) | 7.0 / 6.5 | Unclear. Needs B in calculus (yours C+). | **Medium, 40% to 55%** |
-| MUN Master of Data Science | "Second class" | 6.5 | Yes | **Medium to High, 50% to 65%** |
-| Dalhousie Master of Digital Innovation | 3.0 | 7.0 | Yes | **Medium, 45% to 60%** |
+**Finding:** No official page checked gave a "B+ in math" rule. Real limits are overall average (70% or 75% at some), degree type, and course coverage. A university may still apply a stricter rule that it does not publish.
 
-### Tier B: Medium or reach
+### CORRECTION (2026-11-25, second check)
+My first ranking put some programs on top too early. Two of them have math-grade rules that I read wrongly. Corrected below. "Not stated" does **not** mean "you meet it."
 
-| Program | Min grade | IELTS | Do I meet it? | Chance |
-| --- | --- | --- | --- | --- |
-| UCalgary MISP | 3.0/4.0 (last 60 units) | 7.0 / 6.5 | Yes. Competitive. | Medium, 40% to 55% |
-| Dalhousie MACSc | 3.0 on 4.3 scale | 7.0 | Borderline | Medium, 40% to 55% |
-| Saint Mary's MSc Computing | Not published | 6.5 / 6.0 | Unknown | Medium, 40% to 55% |
-| UNB Master of CS by Coursework | "B" (pages conflict) | 7.0 | Borderline | Medium, 35% to 50% |
-| UNB Master of Applied Cybersecurity | B average | 7.0 | Borderline | Medium, 35% to 50% |
-| MUN MASc Software Eng. | Second class | 6.5 | Yes. **Check it is not thesis.** | Medium, 35% to 50% |
-| MUN MASc Computer Eng. | Second class | 6.5 | Yes. **Check it is not thesis.** | Medium, 35% to 45% |
-| Cape Breton MAIBA | 3.0 (73% to 76%) | 6.5 / 6.0 | Below 73% | Low to Medium, 30% to 45% |
-| Acadia MSc CS | 9 prerequisite courses at 70%+ | 7.0 / 6.5 | Some courses below 70% | Low to Medium, 25% to 40% |
+### Tier A: Best fit so far (still needs your confirmation by email)
 
-### Tier C: Low (70% or B+ needed)
+| Rank | Program | Math rule (official) | Overall rule | IELTS | Verdict |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Dalhousie Master of Digital Innovation | **None.** Any degree. | GPA 3.0 | 7.0 | **Meets on math.** [source](https://www.dal.ca/academics/programs/graduate/digital-innovation/admissions.html) |
+| 2 | UCalgary MDSA | 1 stats + 1 calculus **or** linear algebra course. The calendar page re-read on 2026-11-25 states **no minimum grade**. But the project file says "B or equivalent each." **Sources conflict.** Your calculus is C+ and linear algebra is C+. | 3.00 on the second half of the degree (last two years), per the Graduate Qualifications page. Your last two years are stronger. | 7.0 / 6.5 | **Conflict. If "B each" is true, you fail on calculus and linear algebra (both C+).** Email the program. [source](https://calendar.ucalgary.ca/programs/DSANMDSAN/admissions-cMwRI) |
 
-| Program | Min grade | IELTS | Chance |
+### Tier A2: Risky on math
+
+| Rank | Program | Math rule (official) | Verdict |
 | --- | --- | --- | --- |
-| Regina MEng Software Systems (Project) | 70% (75% last 2 years exception) | 6.5 / 6.0 | Low, 15% to 30% |
-| StFX MACS | 70% | 6.5 / 6.0 | Low, 20% to 30% |
-| MUN Master of AI | 75% or upper second | 6.5 | Low, 15% to 25% |
+| 3 | UWinnipeg MSc Applied CS and Society | "GPA 3.0 in all computing, mathematics and statistics courses." Scale not stated (program page says 3.0 out of **4.5**). Your math average is about 2.75 to 2.85 of 4.0. | **Risky.** Below 3.0 on a 4.0 scale. It passes only if the 4.5 scale or a combined computing+math+stats average is used. I did **not** calculate the combined average. [source](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf) |
+| 4 | Acadia MSc CS | Guide: **all** listed courses at **B- (70%) or better**, including MATH 1013 Calculus I, MATH 1413 Discrete, MATH 1253 Statistics. FAQ says B- (2.67) **average**. The two pages conflict. | **Likely fail on the per-course rule.** Your Calculus I is C+ (2.5), below 2.67. Passes only on the average rule. Also: pages mention a **supervisor**, and "course-based" is not confirmed. Contact the graduate coordinator. [FAQ](https://cs.acadiau.ca/graduate/graduate-faq.html), [Guide](https://cs.acadiau.ca/grad_guide.html) |
 
-### Tier D: Very low or closed (do not apply)
+### Tier B: Possible, but one thing is unclear
 
-| Program | Min grade | Why |
+| Rank | Program | Math rule | Overall rule | Problem |
+| --- | --- | --- | --- | --- |
+| 5 | MUN Master of Data Science | Needs **multivariate calculus** + stats inference. No grade. | "Second class" (no number) | Your list has no multivariate calculus. Ask MUN. [source](https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/admission/) |
+| 6 | UCalgary MISP | None listed | 3.0 (not verified on page) | Direct-entry rule not seen. Competitive. |
+| 7 | Dalhousie MACSc | None. Needs 2nd-year CS knowledge. | 3.0, "emphasis on technical courses" | IELTS 7.0. Interview. May add qualifying courses. [source](https://www.dal.ca/academics/programs/graduate/applied-computer-science/admissions.html) |
+| 8 | UNB Master of CS by Coursework | None | "B" average | Needs 5 core CS areas. How UNB reads 66% is not verified. [source](https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html) |
+| 9 | UNB Master of Applied Cybersecurity | None | "B" average | Same as above. |
+| 10 | Saint Mary's MSc Computing and Data Analytics | None | **Not stated.** "Ask program for country GPA." | Interview. Email the program. |
+| 11 | MUN MASc Software Eng. | None | Not verified | Page says course-based (capstone). Confirm. |
+
+### Tier C: Weak or doubtful
+
+| Rank | Program | Why |
 | --- | --- | --- |
-| Regina MSc CS (course) and MSc CS (project) | 70% overall, 75% CS | Under both. May be suspended. |
-| MUN MSc CS, course route | 75% and CS degree | Under 75% |
+| 12 | MUN MASc Computer Eng. | "Second class," normally a Computer Eng. degree. Yours is CSE. |
+| 13 | Cape Breton MAIBA | Statistics 70%+ is met (your B+). **Overall 3.0 (73% to 76%) in the final 60 credits** is above your 66%. Last two years are stronger, so it depends on conversion. |
+| 14 | UCalgary MEng Software | Page says "four-year bachelor's **in engineering**." Your CSE degree may not count. **Email meng@ucalgary.ca first.** Old 3.0 rule is from an FAQ only. |
+| 15 | UAlberta MEng ECE | 3.0 on the page, but a department FAQ says 3.7 to 3.8. Sources conflict. |
+| 16 | StFX MACS | Official pages blocked. A search summary says 70%. **Not verified.** Treat as fail until confirmed. |
+| 17 | Regina MEng Software Systems | 70% graduating average. You are under it. |
+
+### Tier D: Do not apply
+
+| Program | Why |
+| --- | --- |
+| MUN Master of AI | 75% average |
+| MUN MSc CS, course route | 75% average |
+| Regina MSc CS course-based | Admission suspended, and 70% needed |
+| Regina MSc CS project route | Admission suspended from 202810 (my reading, not verified), and 70% needed |
+
+### What changed from the old file
+- **UCalgary MEng Software** moved from #1 to doubtful. It needs an engineering degree.
+- **MUN Data Science** moved down. It needs multivariate calculus.
+- **Dalhousie MDI** moved to #1. It has no math rule.
+- **Acadia**: old note said "9 courses at 70%+." The official FAQ says B- average. Both are shown here. The FAQ is the official one.
+- **UCalgary MDSA**: old note said "needs B in calculus." No such line was found on the official page.
 
 ---
 
@@ -178,14 +199,15 @@ Costs are from your files. Most are for international students. Not all re-check
 
 ---
 
-## 8. My advice
+## 8. My advice (after math check, 2026-11-25)
 
-1. **Apply first to:** UCalgary MEng Software, UWinnipeg, MUN Data Science.
-2. **If you pick 2 only:** pick one cheaper and safe (UWinnipeg or MUN), and one stronger (UCalgary).
-3. **Add 1 or 2 more** if money allows. Two applications is risky with 66% marks.
-4. **Skip all Tier D.**
-5. Check each program's page for "course-based". Some "MASc" programs may need a thesis. This breaks your rule.
-6. Work and immigration (PGWP, provincial pathways) are in each program file. Not covered here.
+1. **No program gives a 100% result.** Not one.
+2. **Only clear fit on math so far:** Dalhousie MDI (no math rule). UCalgary MDSA, UWinnipeg and Acadia are **uncertain** (see Section 5 correction).
+3. **Do not pick 2 programs yet.** Email UCalgary MDSA, UWinnipeg and Acadia first. Ask if a C+ in Calculus is accepted.
+4. **Before paying any fee:** email UCalgary MEng (engineering degree?), MUN Data Science (multivariate calculus?), and Saint Mary's (Bangladesh GPA rule).
+5. **Skip all Tier D.**
+6. Check each page for "course-based." Some "MASc" programs may need a thesis.
+7. Work and immigration (PGWP, provincial pathways) are in each program file. Not covered here.
 
 ---
 
