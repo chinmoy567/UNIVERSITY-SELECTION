@@ -32,7 +32,7 @@ How to read: the % is **my own estimate** if I apply with the IELTS score needed
 | 6 | **~35%** | MUN Master of Data Science | "Second class". Needs calculus course, no grade stated. | Not verified | Jan 15 |
 | 7 | **~35%** | MUN MASc Software Eng. | "Second class", no number. Competitive. | 6.5 | Apr 1 |
 | 8 | **~30%** | CBU MAIBA | 3.0, but page also says 73-76%. My 66% is a risk. Stats 70%+ (mine B+). | Not verified | May 15 |
-| 9 | **~25%** | UCalgary MEng Software | "Engineering or equivalent". CSE may need 3 foundation courses. | 6.5 | Apr 1 / Dec 1 |
+| 9 | **~25%** | UCalgary MEng Software | "Engineering or equivalent". My CSE has engineering courses (Engineering Drawing, Ethics, Complex Engineering Activities), so it likely counts. BAETE/IEB accreditation of BAIUST CSE is **Not verified** (a search found it only for a different university, BAUST). Ask UCalgary and BAIUST. If accepted, chance rises to about 40%. | 6.5 | Apr 1 / Dec 1 |
 | 10 | **~20%** | Regina MEng Software Systems | Page has no grade rule. General 70% (WES = 2.67/4.0, so 3.34 may pass). Email. | Not verified | Not verified |
 | 11 | **~15%** | UNB MCS Coursework | B (dept page) vs B+ (grad page). Top-20% note. | 7.0, writing 7.0 | Feb 28 |
 | 12 | **~15%** | UNB Applied Cybersecurity | Same as above. | 7.0, writing 7.0 | Feb 28 |
