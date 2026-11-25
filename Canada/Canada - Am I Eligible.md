@@ -16,6 +16,40 @@ These are **my ranking**, not university numbers. Universities do not publish th
 
 ---
 
+## 1A. Admit chance table (my estimates, easiest first)
+
+**There is no 100% program.** No university will promise admission, and my marks are below 70% with weak math. The top chance is about 55%. Do not trust any source that says "100% sure".
+
+How to read: the % is my **own estimate** if I apply with IELTS at the required score and the university accepts 3.34 as a 3.0 or B average. If the university does not accept it, the chance falls to near 0. Email first.
+
+| # | Chance | University and program | Why this number |
+| --- | --- | --- | --- |
+| 1 | **~55%** | UCalgary MISP | No math rule. 3.0 over last two years (mine ~3.47). Still competitive. |
+| 2 | **~50%** | Dalhousie MDI | No prerequisites. B average. Conversion not published. |
+| 3 | **~45%** | Dalhousie MACSc | 3.0 in technical courses (strong). Interview. IELTS 7.0. |
+| 4 | **~45%** | UWinnipeg MSc ACS | 3.0 pooled with math. My math pulls it down. Cheapest. |
+| 5 | **~40%** | Saint Mary's MSc CDA | Rule not stated. Interview. |
+| 6 | **~35%** | MUN MASc Software Engineering | "Second class" only. No number. |
+| 7 | **~30%** | MUN Master of Data Science | "Second class". Needs calculus knowledge. |
+| 8 | **~30%** | CBU MAIBA | Passes only if CBU reads 3.34 as a GPA, not 66%. |
+| 9 | **~15%** | UNB MCS Coursework | B vs B+ conflict. Leaning fail. |
+| 10 | **~15%** | UNB Applied Cybersecurity | Same. Strict background list. |
+| 11 | **~10%** | MUN MASc Computer Engineering | Wants an engineering degree. |
+| 12 | **~5%** | UAlberta MEng ECE | Highly competitive. FAQ says 3.7+. |
+| 13 | **~5%** | StFX MACS | Not verified. Maybe 70% minimum. |
+| 14 | **~5%** | UCalgary MEng Software | Needs an engineering degree. |
+| 15 | **~3%** | Regina MEng Software Systems | 70% overall. |
+| 16 | **~2%** | MUN Master of AI | 75% / second class upper. |
+| 17 | **~2%** | MUN MSc CS (course route) | 75% overall. |
+| 18 | **~1%** | UCalgary MDSA | Needs B in calculus and linear algebra. Mine C+. |
+| 19 | **~1%** | Acadia MSc CS | Needs B- in Calculus I. Mine C+. |
+| 20 | **0%** | Regina MSc CS (course route) | 70% / 75% rule. Admission suspended. |
+| 21 | **0%** | Regina MSc CS (project route) | Same. |
+
+**What this means:** Apply to ranks 1 to 8. Together they give a fair chance of at least one admit, but it is **not guaranteed**. Ranks 9 and below are not worth the fee unless the university confirms in writing.
+
+---
+
 ## 2. My marks (from `My Profile - Check Eligibility.md`)
 
 | Item | Value |
