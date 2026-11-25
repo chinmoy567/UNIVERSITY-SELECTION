@@ -130,3 +130,16 @@ Source: [Program of study](https://www.mun.ca/science/graduate-students/interdis
 - Missing: numeric GPA/percentage, Bangladesh equivalence, per-band IELTS, MDSc-specific English bar, compulsory fee totals, work rules, scholarships, co-op, employment rate, decision dates, part-time option.
 
 Last checked: 2026-11-22
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | Needs multivariate calculus or equivalent knowledge. No grade. Second class has no number. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

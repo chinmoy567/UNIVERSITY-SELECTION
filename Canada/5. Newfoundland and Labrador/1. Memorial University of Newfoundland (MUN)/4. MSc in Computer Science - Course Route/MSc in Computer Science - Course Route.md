@@ -132,3 +132,16 @@ Winter start swaps the order. The page also shows a 5th term (2 COMP + 1 electiv
 - Conflict – verify with the university: international administration fee 6,000 (Minimum Expense form snippet) vs not listed on tuition pages.
 - Conflict – verify with the university: course-route term table (4 vs 5 terms).
 - Missing: seat deposit, ancillary fee amounts, English tier for CS, SOP/CV rules, admitted GPA, employment rate, co-op pay, official DLI check, BAIUST conversion, application fee waiver.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | 75% overall average. Only the department head can waive it. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

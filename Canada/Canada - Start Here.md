@@ -1,3 +1,5 @@
+> **WARNING (2026-11-25):** Rankings and 'chance' numbers in this file are OLD. They did not check math-grade rules. Use `Canada - Am I Eligible.md`, Section 5, for the corrected list.
+
 # Canada: Start Here
 
 Simple map of the Canada folder. Open a province, then a university, then a program.

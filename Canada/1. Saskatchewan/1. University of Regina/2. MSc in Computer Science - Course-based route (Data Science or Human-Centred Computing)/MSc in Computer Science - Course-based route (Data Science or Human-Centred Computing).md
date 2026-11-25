@@ -133,3 +133,16 @@ DS plan ([DS page](https://uregina.ca/science/computer-science/graduate-programs
 - Conflict – verify with the university: generic FGSR deadlines versus the department's February 15 / June 15.
 - Likely not meeting minimum: 66.64% versus 70% and 75% CS average; WES conversion unknown.
 - Missing: seat deposit, fee waiver, IELTS band minimums, iBT/Duolingo/PTE, HCC course titles and term plan, 2026-27 tuition schedule, study permit and biometrics fees, health insurance applicability, scholarships, work rules, off-campus living cost, employment rate, DLI check on IRCC list, WES BAIUST conversion, paid co-op.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | 70% overall, 75% CS average. Admission temporarily suspended. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

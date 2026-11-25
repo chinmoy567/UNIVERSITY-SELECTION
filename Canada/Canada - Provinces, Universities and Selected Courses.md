@@ -1,3 +1,5 @@
+> **WARNING (2026-11-25):** Rankings and 'chance' numbers in this file are OLD. They did not check math-grade rules. Use `Canada - Am I Eligible.md`, Section 5, for the corrected list.
+
 # Canada: Provinces, Universities and Selected Courses (Notion page text)
 
 Source: https://app.notion.com/p/41f8eba99c0c8195b950f4a95bc2ac0f (STUDY ABROD / UNIVERSITY / CANADA). Copied from the Notion page as it was fetched on 2026-11-21.

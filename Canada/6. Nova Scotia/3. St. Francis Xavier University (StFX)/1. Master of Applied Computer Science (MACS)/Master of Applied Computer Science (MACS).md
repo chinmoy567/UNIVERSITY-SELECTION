@@ -116,3 +116,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: deadline May 30 (third-party/form) vs older May 1; credit structure (1 course vs 6-credit seminar).
 - Missing: seat deposit, TOEFL/Duolingo/PTE, waiver rules, courses list, intakes, study permit and biometrics fees, proof of funds, DLI check on IRCC, employment rate, paid co-op.
 - Open all [stfx.ca](http://stfx.ca) pages in a browser to verify snippet-based items.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Not verified** |
+| Verdict | **NOT VERIFIED** |
+| Why | Official pages blocked. Search summary says 70%. Treat as fail until StFX confirms. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

@@ -123,3 +123,16 @@ Source: [program page](https://www.unb.ca/fredericton/cs/grad/masters/macsec/ind
 - Missing: total credits, credits per course, seat deposit, application fee refund/waiver, DLI number (official), 4-year bachelor's statement, medium-of-instruction rule, IELTS band minimums, document deadline, scholarships, employment stats; BDT rate is undated.
 
 Last checked: 2026-11-22
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY, leaning FAIL** |
+| Why | Same as MCSC. Strict background list (OS, architecture, algorithms). |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

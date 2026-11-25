@@ -119,3 +119,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: tuition table (2,416.50 x 4 = 9,666 vs 1,611 x 6); MAI English tier (apply page does not name MAI; third-party shows 6.5/80).
 - Conflict resolved: CS page (Feb 2026) gives no GPA; calendar and SGS page say 75% (later dates preferred).
 - Missing: credits, seat deposit (none published), ancillary and health insurance fees, permit and biometrics fees, living cost, official DLI number, PTE/MET higher-tier scores, SOP/GRE, Bangladesh grade equivalence, document and decision dates.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | Second class upper or 75% average. Also needs vector calculus. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

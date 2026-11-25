@@ -124,3 +124,16 @@ Source: [Calendar 8.7](https://www.mun.ca/previous-university-calendars/2026-202
 - Missing: numeric GPA or percentage cutoff and BAIUST conversion, seat deposit, student services/union/other fees, per-term course plan, per-band IELTS, scholarships, work rules, employment rate, DLI confirmation on IRCC.
 - Blocked or unreadable: Minimum Expense PDF (unreadable by tools). The IRCC fee list and ancillary-fee figure were seen only as search-result text.
 - BDT rate is THIRD-PARTY, undated.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | No math rule. Second class has no number. Course-based with capstone. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

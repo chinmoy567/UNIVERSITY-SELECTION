@@ -123,3 +123,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Resolved 2026-11-24: 2026-27 tuition is 16,920.18/year (official).
 - Missing: Fall 2027 tuition, study permit and biometrics fees, total program cost, scholarships, co-op, work rules, document deadlines, references count, PTE acceptance, waiver by medium-of-instruction letter, IRCC DLI list check, dated BDT rate.
 - All [uwinnipeg.ca](http://uwinnipeg.ca) HTML pages (including the program page) should be opened in a browser to verify snippet-based items.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | Rule: 3.0 in all computing, math and statistics courses (pooled). Your math-only average is 2.75 to 2.92. Depends on computing grades and on Bangladesh conversion. Not calculated. Ask graduateadmissions@uwinnipeg.ca. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

@@ -13,6 +13,8 @@
 | Percentage | About **66%** |
 | Number of programs | Apply to about **2** universities |
 
+> **Full profile (CGPA, IELTS, semester results):** `My Profile - Check Eligibility.md` in the project root. Agents and skills must read it before any eligibility check.
+
 ### Countries
 - **Target: Canada only.**
 - **Do NOT research or suggest New Zealand or Australia.** The user changed their mind.

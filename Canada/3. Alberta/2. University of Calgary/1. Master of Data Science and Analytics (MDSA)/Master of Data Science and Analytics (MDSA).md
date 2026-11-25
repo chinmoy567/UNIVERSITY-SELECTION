@@ -144,3 +144,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: none on tuition, GPA or IELTS. The Canadian/PR (May 1) and Iranian (Dec 1) deadlines differ from the international March 1, but they apply to other applicant groups.
 - Tuition year now confirmed as 2026-27.
 - Missing: total units, term-by-term courses, internship pay, seat deposit, UPass/GSA/health amounts, biometrics fee, living cost, scholarships, document deadline, decision dates, original vs provisional transcript rules, BAIUST-to-4.0 conversion, IRCC DLI list check.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | Programming, statistics and calculus or linear algebra courses each need at least a B. Your Calculus C+ and Linear Algebra C+ fail. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

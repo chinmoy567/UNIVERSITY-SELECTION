@@ -1,3 +1,5 @@
+> **WARNING (2026-11-25):** Rankings and 'chance' numbers in this file are OLD. They did not check math-grade rules. Use `Canada - Am I Eligible.md`, Section 5, for the corrected list.
+
 # Canada: Easy Comparison of All 21 Programs
 
 Made on 2026-11-24. All money is in CAD. Your CGPA 3.34 is about 66.64% (as written in your files).

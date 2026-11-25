@@ -124,3 +124,16 @@ Source: [Curriculum](https://dal.ca/study/program-sites/digital-innovation/curri
 - Conflict - verify with the university: capstone term sequencing across two [dal.ca](http://dal.ca) pages.
 - Resolved: international tuition mapping = thesis-option rate 8,079.00 per year.
 - Missing: seat deposit, application fee waiver/refund, decision dates, credits per term, internship paid status, study permit and biometrics fees, living costs, employment rate, PhD pathway, IRCC DLI list check, dated BDT rate, Academic Calendar MDI entry.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | No course rule. 3.0 B average in last 60 credits. Bangladesh conversion not published. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

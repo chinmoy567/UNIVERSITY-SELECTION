@@ -116,3 +116,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: admission "suspended, effective 202810" (calendar) vs open in all cycles (application page).
 - Conflict – verify with the university: deadlines Oct 15 only vs three cycles.
 - Missing: dated BDT rate (rate is undated third-party), study permit/biometrics fees, health insurance and U-Pass, graduate living cost, per-term course plan, references count, IELTS bands, other English tests, application fee waiver, CS 902 charging, IRCC DLI list entry.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | 70% overall, 75% CS average. Admission suspended from 202810. Needs a supervisor. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

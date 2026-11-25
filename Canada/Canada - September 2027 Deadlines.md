@@ -1,3 +1,5 @@
+> **WARNING (2026-11-25):** Rankings and 'chance' numbers in this file are OLD. They did not check math-grade rules. Use `Canada - Am I Eligible.md`, Section 5, for the corrected list.
+
 # September 2027 Intake: Deadlines for All 21 Programs
 
 Only the Fall (September) 2027 intake. Last checked 2026-11-24.

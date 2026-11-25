@@ -136,3 +136,16 @@ Source: [CS grad admission requirements](https://www.unb.ca/fredericton/cs/grad/
 - Conflict – verify with the university: TOEFL writing 25 ([intl page](https://www.unb.ca/gradstudies/admissions/international.html)) versus 23 ([program page](https://www.unb.ca/gradstudies/programs/computer-science.html)).
 - Conflict – verify with the university: Fall deadline Jan 15 versus Feb 28 versus older Jan 5.
 - Missing: credits per course and total credits, seat deposit (graduate), biometrics on official page, IRCC DLI list check, living cost, scholarships, SOP, medium-of-instruction waiver, 4-year bachelor's acceptance, average admitted GPA, per-term course plan, employment rate, work rules, fee sheet recheck (PDF unreadable).
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY, leaning FAIL** |
+| Why | B (CS page) vs B+ (Grad Studies page). First or upper-second class if classed. No math rule. Conversion not published. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

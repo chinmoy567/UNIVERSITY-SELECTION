@@ -113,3 +113,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Conflict – verify with the university: certificate streams (Network Security + Data Privacy vs any 2 of 3).
 - Missing: seat deposit, 2026-27 application fee confirmation, mandatory fees, study permit fee, course names and per-term plan, GPA conversion for Bangladesh, English waiver by medium-of-instruction letter, IRCC DLI list check, scholarships, employment rate, dated BDT rate (rate is approximate).
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | No math course. 3.0 over the last two years (you have about 3.4 to 3.5). Needs programming, algorithms, OS or networks. Bangladesh conversion not published. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
