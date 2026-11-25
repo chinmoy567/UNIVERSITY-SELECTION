@@ -54,7 +54,7 @@
 
 **Use 3.34 as my CGPA.** Always add this note: "Portal shows 3.29 now. Capstone (6 credits, A+) will be added later."
 
-> **Check needed:** My own math gives about **3.32** (3.29 × 148 + 4.00 × 6, divided by 154). That is not exactly 3.34. The official transcript will show the true number. Until then, use 3.34 but say it is not yet on the official transcript. If a university needs an official transcript, the portal may still show 3.29. Get the updated transcript as soon as the capstone result is added.
+> **Confirmed by the student (2026-11-25):** the CGPA is **exactly 3.34** after the 6-credit capstone (A+) is added. Not 3.3x lower, not 3.4x higher. Do not recalculate it. The portal shows 3.29 only because the capstone is not added yet.
 
 ### Percentage
 | Item | Value |
@@ -308,7 +308,7 @@ For every program, show these lines:
 
 - [ ] Get capstone (6 credits, A+) added to the portal.
 - [ ] Download the updated official transcript showing the real CGPA.
-- [ ] Confirm CGPA after update (3.34 or 3.32). Edit section 3.
+- [ ] When the portal updates, check it shows 3.34.
 - [ ] Book IELTS early if a chosen program needs an official score at application.
 - [ ] Get BAIUST's official grading scale (marks, letter, grade point). Try the Prospectus 2025 PDF, Bulletin PDFs, or ask the Controller of Examination.
 - [ ] Check each program's math/stats grade rule (B+ risk, see 4C).

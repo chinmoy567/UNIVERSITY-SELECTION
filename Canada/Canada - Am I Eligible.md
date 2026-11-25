@@ -42,11 +42,10 @@ These are **my ranking**, not university numbers. Universities do not publish th
 - The last 4 semesters (Fall 2024 to Spring 2026) average **about 3.47**. This is my best point for "last two years" rules.
 - Marks go up almost every term.
 
-### Check on 3.34
-- A 6-credit A+ capstone on top of 3.29 for 148 credits gives about **3.32**, not 3.34.
-- To reach 3.34 you need about 11 credits of A+.
-- Use 3.34 as stated, but say it is **not yet on the official transcript**. Get the updated transcript first.
-- The 3.0-minimum programs below do not change between 3.29, 3.32 and 3.34.
+### About 3.34
+- The student confirmed: the CGPA is **3.34** after the 6-credit capstone (A+). Do not recalculate it.
+- The portal shows 3.29 only because the capstone is not added yet.
+- Get the updated **official transcript** before applying, so universities see 3.34.
 
 ### Math grades (important)
 
