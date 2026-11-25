@@ -120,3 +120,16 @@ Source: [Courses page](https://www.dal.ca/study/program-sites/applied-computer-s
 - Conflict – verify with the university: international tuition rate (\$8,079 thesis-option per program page vs \$24,685 non-thesis column; also third-party higher figure).
 - Conflict – verify with the university: fee total 13,453.53 (PDF) vs 13,448.02 (older search snippet); use the PDF.
 - Missing: Bangladesh GPA conversion, seat deposit, refundable application fee, biometrics fee, term plan, internship pay, average admitted GPA, employment rate, live BDT rate, IRCC DLI list check.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | 3.0 in technical courses. Interview. No math grade. Bangladesh conversion not published. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

@@ -122,3 +122,16 @@ Source: [grad page](https://grad.ucalgary.ca/future-students/explore-programs/el
 - Conflict – verify with the university: tuition $4,148.73 (current, [P.2.3.1](https://calendar.ucalgary.ca/pages/416de8d4b1f340f6bbf17cb8cf6817d5)) vs $3,697.89 (retained rate, 2022-23 cohort only) vs third-party figures.
 - Conflict – verify with the university: English minimums FGS (IELTS 6.5) vs Faculty of Science (IELTS 7.0).
 - Missing: seat deposit, 2026-27 mandatory fee amounts, health insurance cost, total credits, percentage-to-GPA conversion, English validity and waiver, work rules, document and decision dates, employment rate, IRCC DLI list check, study permit and biometrics fees not opened directly.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | Needs a four-year bachelor's in engineering or an equivalent. Your degree is CSE. Ask meng@ucalgary.ca. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

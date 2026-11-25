@@ -123,3 +123,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: duration 1.5-2 years (6 max) vs 9 months (4 max).
 - Conflict – verify with the university: GPA 3.0 vs reported older 3.7-3.8 (Unverified).
 - Missing: seat deposit, per-term course plan, 4-year degree statement, transcripts, average admitted GPA, document and decision dates, co-op, employment rate, living cost, biometrics on IRCC, health insurance details, dated BDT rate, IRCC DLI list check.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | Page says 3.0 but program is highly competitive. An FAQ reportedly says 3.7 to 3.8. Degree rule unclear. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

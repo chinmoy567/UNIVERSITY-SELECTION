@@ -1,4 +1,6 @@
-# Canada: Easy Comparison of All 58 Programs
+> **WARNING (2026-11-25):** Rankings and 'chance' numbers in this file are OLD. They did not check math-grade rules. Use `Canada - Am I Eligible.md`, Section 5, for the corrected list.
+
+# Canada: Easy Comparison of All 21 Programs
 
 Made on 2026-11-24. All money is in CAD. Your CGPA 3.34 is about 66.64% (as written in your files).
 
@@ -20,20 +22,14 @@ How to read this file:
 | 4 | [UCalgary MEng Software](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 3.0/4.0 (last 2 years) | Not on pages read (notes say 6.5/6.0) | Fall (September): Apr 1 | Not on pages read. "MEng degrees are self-funded" | 2 years (8 or 12 months if accelerated) | Matches |
 | 5 | [MUN Master of Data Science](https://www.mun.ca/become/graduate/programs-and-courses/data-science/) | "Second class" (no number) | Not read (calendar page was empty; notes say 6.5) | Fall: Jan 15 (no year shown) [source](https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/) | 2,218 per semester x 3 + special fee (international 20,282 listed for "MSc Data Science", name differs) [source](https://www.mun.ca/finance/graduate-student-tuition-and-fees/) | 1 year | Matches. Link between the 20,282 fee and this program is not stated by MUN |
 | 6 | [Dalhousie MDI](https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details.html) | 3.0 | Not found (notes say 7.0) | September only: Apr 1 (no year shown) [source](https://www.dal.ca/study/program-sites/digital-innovation/admissions.html) | Not readable (PDF). Page says international tuition is paid up to 2 years at the thesis rate | 16 months or longer | Matches |
-| 7 | [Carleton Master of Networking Technology](https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-networking-technology/) | Bangladesh page: overall 55 to 60%, major 65 to 70% [source](https://graduate.carleton.ca/international/admission-requirements/bangladesh/). Page does not name this program | Not found | Fall: Jan 15 [source](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/). Program page says "apply any time" | 33,477.86 for Fall 2026 + Winter 2027 together [source](https://carleton.ca/studentaccounts/tuition-fees/fw-gr/f26w27-gr-international). Not the whole program (6 terms) | 6 terms (2 years) | Matches |
-| 8 | [TMU Master of Cybersecurity](https://www.torontomu.ca/graduate/programs/cybersecurity/) | 3.0/4.33 (last 2 years) | Not found on these pages | Fall 2027 (September) is OPEN for international. First review Jan 22, 2027. Closes Mar 12, 2027 [source](https://www.torontomu.ca/graduate/future-students/application-dates/) | 45,246.15 (read from a summary, not word for word; period Fall 2026 to Spring 2027) [source](https://www.torontomu.ca/current-students/tuition-fees/graduate/) | 1 year | Matches. Re-check the fee on the page |
-| 9 | [TMU MEng Computer Networks](https://torontomu.ca/graduate/programs/computer-networks) | 3.00/4.33 (last 2 years) | Not found on these pages | Fall 2027 OPEN for international. First review Jan 22, 2027. Faculty "preferred" date Dec 1, 2026 (in 7 days). Closes Mar 12, 2027 | Not found (links to a fee sheet) | 1 year full-time | Matches |
-| 10 | [UofT MEng ECE](https://www.ece.utoronto.ca/graduates/degree-programs/meng/) | "Mid-B". Bangladesh: 60/100 or 3.0/4.0 [source](https://www.sgs.utoronto.ca/future-students/admission-application-requirements/international-credentials-equivalencies/). Department may ask more | 7.0, each part 6.5 [source](https://www.sgs.utoronto.ca/admissions/admission-application-requirements/english-language-proficiency-testing/) | Not found on the pages read (your notes: Apr 15, 2027) | International full-time MEng: 76,090.39 for 2026-27. Not stated if per year or per term [source](https://gradstudies.engineering.utoronto.ca/prospective-students/money-matters/) | 1, 2 or 3 years | Grade and IELTS match. Your notes had no cost; now there is a number |
 | 11 | [UWinnipeg MSc Applied CS and Society](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf) | NOT re-checked | NOT re-checked | NOT re-checked | NOT re-checked | NOT re-checked | The official site blocked me (error 403) and the PDF was unreadable. Keep as "from your files" |
 
 Things worth your attention from this check:
-1. **Dec 1, 2026 (in 7 days):** TMU MEng Computer Networks preferred date; also U of Toronto MScAC and Algoma (from your files).
 2. UCalgary MISP/MDSA IELTS and tuition sit on other Calendar pages I did not open. They are not wrong, just not re-confirmed.
-3. Carleton Networking: the Bangladesh page gives a range (55 to 60% overall, 65 to 70% in major). Your 66.64% is inside the major range only at the lower half. Ask Carleton.
 
 ---
 
-## Part B. All 58 programs side by side (from your files, 2026-11-22)
+## Part B. All programs side by side (from your files, 2026-11-22)
 
 Status and risk are the suggestions in your files, not mine. "Term" = one study term.
 
@@ -74,46 +70,6 @@ Status and risk are the suggestions in your files, not mine. "Term" = one study 
 |  Cape Breton MAIBA | 16 months | 3.0 (73 to 76%) | 6.5 / 6.0 | May 15, 2027 ([link](https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/), from notes, not re-opened) | about 35,195 | Maybe / reach  |
 |  Saint Mary's MSc Computing and Data Analytics | 16 months (with paid work) | Not published | 6.5 / 6.0 | May 1, 2027 ([link](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html), from notes, not re-opened) | about 43,368 | Maybe / reach  |
 
-### Ontario
-| Program | Length | Min grade | IELTS | Fall (September) 2027 deadline (intl) | Cost | Status / risk |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Algoma MCS Data Science and AI | 16 months | 70% (or 75% last 2 years) | 6.5 / 6.0 | Not found ([link](https://algomau.ca/academics/graduate-programs/master-of-computer-science-16mth/), NOT confirmed, email the university) | 8,986 per semester | Maybe / reach  |
-|  Brock MSc CS, project | 16 months | 75% (unconfirmed) | 6.5 / 6.0 | Jan 15 ([link](https://brocku.ca/programs/graduate/msc-cosc), NOT confirmed, email the university) | Unclear | Rejected  |
-|  Carleton MCS | 2 years | Not found | 6.5 / 6.0 | Jan 20 ([link](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/), from notes, not re-opened) | 26,787 (Fall + Winter) | Maybe / reach  |
-|  Carleton Networking Technology | 2 years | See Part A | 6.5 / 6.0 | Jan 15 ([link](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/), checked 2026-11-24, no year on page) | 33,478 (Fall + Winter) | Maybe / match  |
-|  Carleton MEng Practice, Software | 2 years | B+ in major, B overall | 6.5 / 6.0 | Jan 31 ([link](https://graduate.carleton.ca/apply-online/deadlines/graduate-program-deadlines/), checked 2026-11-24, no year on page) | about 54,035 (other page 61,725 to 66,500) | Maybe / reach  |
-|  Lakehead MSc CS | 1 year (course) / 2 years (project) | B in last 20 half-courses | 6.5 / 6.0 | Feb 1 ([link](https://www.lakeheadu.ca/international/future/dates-and-fees), checked 2026-11-24, no year on page) | 7,966 per term | Maybe / reach  |
-|  Laurentian MSc Computational Sciences | 2 years | 70% | 6.5 / 6.0 | Jun 15 ([link](https://laurentian.ca/academics/admissions/graduate), checked 2026-11-24, no year on page) | Not summed | Maybe or reject  |
-|  McMaster MEng Computing and Software | 2 years (or 1 to 2) | B- (70 to 72%) | 6.5 / 5.5 | Feb 28, 2027 ([link](https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/), from notes, not re-opened) | Not found | Maybe / reach  |
-|  McMaster MEng Systems and Technology | 16 months | B- or B (page conflicts) | 6.5 | Feb 28, 2027 ([link](https://www.eng.mcmaster.ca/sept/degree-options/systems-technology/), from notes, not re-opened) | 55,804 per year | Rejected  |
-|  Ontario Tech MEng Software | 16 months | B (3.0 on 4.3 scale) | 6.5 | Apr 1, 2027 ([link](https://ontariotechu.ca/programs/graduate/engineering-and-applied-science/masters-software-engineering-co-op/index.php), from notes, not re-opened) | about 46,936 tuition | Maybe / reach  |
-|  Ontario Tech MEng ECE | 16 months | 73 to 76% | 6.5 | Apr 1, 2027 ([link](https://gradstudies.ontariotechu.ca/future_students/application_process_and_requirement/faqs.php), from notes, not re-opened) | about 50,966 | Maybe / reach  |
-|  Ontario Tech Master of IT Security | 24 months | 73 to 76% | 6.5 | Apr 1, 2027 ([link](https://ontariotechu.ca/programs/graduate/business-and-information-technology/master-of-information-technology-security/index.php), from notes, not re-opened) | about 48,345 | Maybe / reach  |
-|  TMU MSc CS | about 2 years | 3.00/4.33 | 7.0 | Closed for international ([link](https://www.torontomu.ca/graduate/future-students/application-dates/), from notes, not re-opened) | Not found | Maybe / reach  |
-|  TMU MEng Computer Networks | 1 year | 3.00/4.33 | Not found | Mar 12, 2027 ([link](https://www.torontomu.ca/graduate/future-students/application-dates/), checked 2026-11-24) | about 14,800 per term | Maybe / match  |
-|  TMU Master of Cybersecurity | 1 year | 3.0/4.33 | 7.0 | Mar 12, 2027 ([link](https://www.torontomu.ca/graduate/future-students/application-dates/), checked 2026-11-24) | 45,246 | Shortlist / match  |
-|  Guelph Master of Data Science | 12 months | 75% | 6.5 | Feb 14 ([link](https://www.uoguelph.ca/programs/master-of-data-science/), from notes, not re-opened) | 46,305 per year | Maybe, leaning reject  |
-|  Guelph Cybersecurity and Threat Intelligence | 12 months | 75% | 6.5 | Feb 28 ([link](https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti), NOT confirmed, email the university) | Not summed | Maybe / reach  |
-|  Guelph Cybersecurity Leadership | 12 months (hybrid) | 70% or B (conflict) | 6.5 | Jul 30 ([link](https://www.uoguelph.ca/programs/master-cybersecurity-leadership-cyberpreneurship-mclc), from notes, not re-opened) | Not summed | Rejected  |
-|  Ottawa MCS | Not found | B (70%) | 6.5 (not program-specific) | Not found ([link](https://catalogue.uottawa.ca/en/graduate/master-computer-science/), NOT confirmed, email the university) | about 19,440 (third party) | Maybe / reach  |
-|  Ottawa MEng Systems Eng. | Not found | B (70%) | 6.5 | Not found ([link](https://www.uottawa.ca/study/graduate-studies/how-to-apply), NOT confirmed, email the university) | Not found | Maybe / reach  |
-|  UofT MEng ECE | 1 to 3 years | See Part A | 7.0 / 6.5 | Apr 15, 2027 ([link](https://www.ece.utoronto.ca/graduates/), from notes, not re-opened) | 76,090 (verified) | Shortlist / match  |
-|  UofT MScAC | 16 months | B+ (77 to 79%) | 7.0 / 6.5 | Dec 1, 2026 ([link](https://mscac.utoronto.ca/apply/), from notes, not re-opened) | about 90,050 | Rejected  |
-|  Waterloo MEng ECE | 16 months | 75% | 6.5 | Feb 1, 2027 ([link](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-engineering-meng), from notes, not re-opened) | about 73,656 | Rejected  |
-|  Waterloo MEng Systems Design | 16 months | 75% | 6.5 | Feb 1 ([link](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/systems-design-engineering-master-engineering-meng), from notes, not re-opened) | 17,400 per term | Maybe, leaning reject  |
-|  Waterloo MDSAI | 16 months | 78% | 7.5 / 7.0 | Jan 15 ([link](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-co-op-master-data), from notes, not re-opened) | Not found | Rejected  |
-|  Windsor MAC, AI stream | 16 months | 70% (or 77% last 2 years) | 6.5 / 6.0 | May 15 ([link](https://www.future.uwindsor.ca/program/master-of-applied-computing-mac-artificial-intelligence-stream/), from notes, not re-opened) | See MAC | Rejected  |
-|  Windsor MAC | 16 months | 70% | 6.5 / 6.0 | May 15 ([link](https://www.uwindsor.ca/graduate-studies/305/applied-computing), from notes, not re-opened) | 42,400 | Maybe / reach  |
-|  York MSc CS (project) | 20 months | B+ last 2 years | 7.0 | Dec 1, 2026 ([link](https://futurestudents.yorku.ca/graduate/programs/electrical-engineering-and-computer-science), checked 2026-11-24, no year on page) | Not found | Maybe / reach  |
-|  Queen's MSc Computing, project | about 1 term for project | International need "A" (first class) | 7.0 | Jan 15, 2027 ([link](https://www.cs.queensu.ca/apply/graduate.php), from notes, not re-opened) | 15,553 | Rejected  |
-|  Queen's MSc Computing, course | 2 years or less | International need "A" | 7.0 | Jan 15, 2027 ([link](https://www.cs.queensu.ca/apply/graduate.php), from notes, not re-opened) | 12,927 per year | Rejected  |
-|  Queen's MEng ECE | 2 terms + project | Bangladesh: first class or 60% | 7.0 | Jan 31 ([link](https://smithengineering.queensu.ca/ece/graduate/meng), from notes, not re-opened) | about 32,588 | Maybe / reach  |
-|  Western MEng Software | 1 year | 70% | 6.5 | Jul 5, 2027 (last of 6 rounds; first Sep 7, 2026) ([link](https://www.eng.uwo.ca/graduate/future-students/How-to-Apply-for-Admission/index.html), checked 2026-11-24) | 17,172 per term | Maybe / reach  |
-|  Western MEng ECE | 1 year | 70% (last 2 years) | 6.5 / 6.0 | Jul 5, 2027 (last of 6 rounds; first Sep 7, 2026) ([link](https://www.eng.uwo.ca/graduate/future-students/How-to-Apply-for-Admission/index.html), checked 2026-11-24) | 17,172 per term | Maybe / reach  |
-|  Western Master of Data Analytics | 12 months | 75% | 7.0 / 6.5 | Jan 31 ([link](https://www.uwo.ca/mda/admissions/index.html), NOT confirmed, email the university) | 20,341 per term | Rejected  |
-|  Western MSc CS, course | 4 terms | 75% | 6.5 | Feb 15, 2027 ([link](https://www.csd.uwo.ca/graduate/future/faq.html), from notes, not re-opened) | 8,441 per term | Rejected  |
-|  Laurier MAC, coursework | 16 months | B+ | 6.5 / 6.0 | May 30, 2027 ([link](https://www.wlu.ca/programs/science/graduate/applied-computing-mac/), from notes, not re-opened) | about 29,076 per year | Maybe / reach  |
-|  Trent MSc Data Science and Analytics | 12 months | 77% | 6.5 / 6.0 | Not found ([link](https://www.trentu.ca/graduatestudies/admissions/how-apply), NOT confirmed, email the university) | Not summed | Rejected  |
 
 ---
 
@@ -121,14 +77,12 @@ Status and risk are the suggestions in your files, not mine. "Term" = one study 
 
 | Problem | Where |
 | --- | --- |
-| Some programs have no length: UNB MACSec, Ottawa MCS, Ottawa MEng, Carleton Networking (from notes) | Part B |
-| Pages disagree with each other (grade, deadline or fees) | Regina MSc, UAlberta (credits, length), UNB MCSC, Carleton MEP, McMaster MEST, Guelph x3, Ottawa MCS, TMU |
-| Dates with no year shown on the university page | UAlberta Apr 7, MUN Jan 15, Dalhousie Apr 1, Regina, Windsor |
-| Third-party sites used for some numbers (marked in each file) | Ottawa MCS tuition, Trent deadline, Acadia |
+| Pages disagree with each other (grade, deadline or fees) | Regina MSc, UAlberta (credits, length), UNB MCSC |
+| Dates with no year shown on the university page | UAlberta Apr 7, MUN Jan 15, Dalhousie Apr 1, Regina |
+| Third-party sites used for some numbers (marked in each file) | Acadia |
 | The BDT rate is from an undated third-party page, so BDT amounts are rough | Many files |
-| Grade scale problem: your 3.34 is out of 4.00 but TMU and Ontario Tech use 4.33 / 4.3 scales | TMU, Ontario Tech |
 
 ## Part D. Next steps I suggest
 1. Fix first: programs with deadlines near (Dec 1, 2026).
-2. Ask the admissions office by email: how your BAIUST 3.34/4.00 converts (UCalgary, TMU, Carleton, Dalhousie).
+2. Ask the admissions office by email: how your BAIUST 3.34/4.00 converts (UCalgary, Dalhousie).
 3. Tell me which of the other 47 programs to re-check on official sites next. I can do them in groups of 10 to 12.

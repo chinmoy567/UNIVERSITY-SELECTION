@@ -13,6 +13,8 @@
 | Percentage | About **66%** |
 | Number of programs | Apply to about **2** universities |
 
+> **Full profile (CGPA, IELTS, semester results):** `My Profile - Check Eligibility.md` in the project root. Agents and skills must read it before any eligibility check.
+
 ### Countries
 - **Target: Canada only.**
 - **Do NOT research or suggest New Zealand or Australia.** The user changed their mind.
@@ -69,7 +71,18 @@ Each program file should follow this order:
 
 ---
 
-## 6. Folder Structure
+## 6. Git Rule: Commit and Push After Every Change
+
+- After **every change** to any file, even a small one, **commit and then push**.
+- Do this without asking each time. The user has approved it for this project.
+- One change = one commit. Use a short, clear message (what changed and why).
+- Run `git status` first. Stage only the files that changed. Never commit secrets (`.env`, credentials).
+- Push to the current branch. Do not force push. Do not push to `main` unless the user says so.
+- If the push fails, say so and show the error. Do not hide it.
+
+---
+
+## 7. Folder Structure
 
 `Canada / <Province> / <University> / <Program> / <Program>.md`
 

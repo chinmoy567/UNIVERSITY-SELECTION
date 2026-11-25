@@ -117,3 +117,16 @@ Source: [program page](https://www.mun.ca/engineering/graduate/programs/computer
 - No numeric conflicts found. Wording differs slightly: program page says "second-class degree", engineering page says "second class or B standing" (same meaning; Bangladesh equivalence Unverified, verify with the university).
 - Missing: numeric minimum GPA/% and Bangladesh equivalence, 4-year requirement, IELTS band minimums and whether this is a higher-requirement program, seat deposit, DLI number, study permit and biometrics fees, [Guard.me](http://Guard.me) rate, funding, work rules, co-op, per-term schedule, GRE/SOP statements, document and decision dates.
 - Blocked/unavailable: IRCC fees and DLI pages (404), some older [mun.ca](http://mun.ca) URLs (404). BDT rate is THIRD-PARTY.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | Second class or B standing. Wants an engineering degree. 65% needed in ENGI 9818 and 9819 after admission. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

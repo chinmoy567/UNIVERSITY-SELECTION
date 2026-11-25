@@ -124,3 +124,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Resolved: seat deposit 5,000 (not 3,000).
 - Missing: course table by term, number of courses, decision dates, whether the deposit is deducted from tuition, application fee waiver, PTE/Duolingo, medium-of-instruction waiver, scholarship amounts, IRCC DLI list confirmation, exact 4th-term tuition.
 - Blocked, not bypassed: Saint Mary's graduate calendar (connection refused).
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **NOT STATED** |
+| Why | No GPA or course grade published. Technical interview. Ask msc.cda@smu.ca. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

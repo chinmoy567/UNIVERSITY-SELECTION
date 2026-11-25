@@ -138,3 +138,17 @@ Source: [CS graduate page](https://cs.acadiau.ca/graduate.html), OFFICIAL (offer
 - Conflict – verify with the university: duration (16 months course / 2 years project vs 12-16 months snippet vs 24 months third-party).
 - Missing: seat deposit, CS fixed deadline, GRE, Canadian equivalent of 3.34, original vs provisional transcripts, IRCC DLI list check, Wolfville living cost, total program cost, employment rate, CS intake list.
 - Unverified: all fee figures (fee pages refused connections), Departmental Information form.
+
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL (strict reading)** |
+| Why | Guide: all listed courses incl. MATH 1013 at B- (70%) or better. Your Calculus I is C+. FAQ says average. Pages conflict. Supervisor question open. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

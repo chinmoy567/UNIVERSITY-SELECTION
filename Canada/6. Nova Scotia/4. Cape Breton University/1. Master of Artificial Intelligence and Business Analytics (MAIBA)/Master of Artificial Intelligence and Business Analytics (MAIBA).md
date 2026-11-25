@@ -123,3 +123,16 @@ Core (9 x 3 = 27 credits): MGSC-6251 Data Management and Modeling; MGSC-6263 Adv
 - Resolved: duration 16 months (official, planner shows 4 semesters) over 2 years (Kanan). Application fee 100 (official) over 80 (Canam).
 - Conflict – verify with the university: seat deposit (official: amount in offer letter; Kanan: at least 2,500; another summary: refundable minus 500).
 - Missing: per-semester fee split, health insurance premium, mandatory student fees, scholarships, work rules, document and decision deadlines, GRE/SOP/references, admitted GPA, employment rate, semester placement of courses, IRCC DLI list check.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **Maybe** |
+| Verdict | **RISKY** |
+| Why | Statistics 70% (program page) or 65% (Bangladesh page). Overall 3.0 (73-76%) in final 60 credits. Depends on conversion. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

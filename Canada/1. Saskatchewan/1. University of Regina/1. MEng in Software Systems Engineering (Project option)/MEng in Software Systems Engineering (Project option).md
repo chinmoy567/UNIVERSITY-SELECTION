@@ -126,3 +126,16 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Conflict – verify with the university: yearly tuition (about 16,000 CAD on the tuition page vs 5,387 per term on the schedule).
 - Missing: Engineering-specific minimum average and prerequisites, graduate deposit, study permit and biometrics fees, per-term course list, employment rate, scholarship amounts, Spring intake, work rules, IRCC DLI list check, Fall-start health premium, dated BDT rate (rate is from an undated third-party page).
 - Original vs provisional certificate and Bangladesh English waiver: Unverified.
+
+---
+
+## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+
+| Item | Result |
+| --- | --- |
+| Can I apply with my grades? | **No** |
+| Verdict | **FAIL** |
+| Why | 70% graduating average. Exception only if last two years are 75%+. No math course rule. |
+| Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
+| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
