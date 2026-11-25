@@ -7,7 +7,7 @@ Ranked on 2026-11-25 using `My Profile - Check Eligibility.md` (project root). P
 | Question | Answer |
 | --- | --- |
 | Can I get in anywhere? | **Maybe.** 5 programs are my best chances. None is a sure pass. |
-| Can I get in everywhere? | **No.** 8 of 21 programs fail a published rule. 8 more are risky. |
+| Can I get in everywhere? | **No.** 7 of 21 programs fail a published rule. 9 more are risky. |
 | Best 5 | 1) UCalgary MISP 2) Dalhousie MDI 3) Dalhousie MACSc 4) UWinnipeg MSc ACS 5) Saint Mary's MSc CDA |
 | If I apply to only 2 programs | Too risky. Apply to 4 or 5 from the top 8. |
 | Biggest risks | 1) Percentage under 70%. 2) Math grades mostly C+ / B-. 3) No IELTS yet. 4) Portal shows **3.29**, not 3.34. |
@@ -32,12 +32,12 @@ How to read: the % is my **own estimate** if I apply with IELTS at the required 
 | 6 | **~35%** | MUN MASc Software Engineering | "Second class" only. No number. |
 | 7 | **~30%** | MUN Master of Data Science | "Second class". Needs calculus knowledge. |
 | 8 | **~30%** | CBU MAIBA | Passes only if CBU reads 3.34 as a GPA, not 66%. |
-| 9 | **~15%** | UNB MCS Coursework | B vs B+ conflict. Leaning fail. |
-| 10 | **~15%** | UNB Applied Cybersecurity | Same. Strict background list. |
-| 11 | **~10%** | MUN MASc Computer Engineering | Wants an engineering degree. |
-| 12 | **~5%** | UAlberta MEng ECE | Highly competitive. FAQ says 3.7+. |
-| 13 | **~5%** | StFX MACS | Not verified. Maybe 70% minimum. |
-| 14 | **~5%** | UCalgary MEng Software | Needs an engineering degree. |
+| 9 | **~25%** | UCalgary MEng Software | Needs "engineering, or an equivalent" degree. Other fields "may be considered" with extra courses. No math-grade rule. 3.0 last two years (mine ~3.47). Costs 41k to 54k. Email first. |
+| 10 | **~15%** | UNB MCS Coursework | B vs B+ conflict. Leaning fail. |
+| 11 | **~15%** | UNB Applied Cybersecurity | Same. Strict background list. |
+| 12 | **~10%** | MUN MASc Computer Engineering | Wants an engineering degree. |
+| 13 | **~5%** | UAlberta MEng ECE | Highly competitive. FAQ says 3.7+. |
+| 14 | **~5%** | StFX MACS | Not verified. Maybe 70% minimum. |
 | 15 | **~3%** | Regina MEng Software Systems | 70% overall. |
 | 16 | **~2%** | MUN Master of AI | 75% / second class upper. |
 | 17 | **~2%** | MUN MSc CS (course route) | 75% overall. |
@@ -46,7 +46,7 @@ How to read: the % is my **own estimate** if I apply with IELTS at the required 
 | 20 | **0%** | Regina MSc CS (course route) | 70% / 75% rule. Admission suspended. |
 | 21 | **0%** | Regina MSc CS (project route) | Same. |
 
-**What this means:** Apply to ranks 1 to 8. Together they give a fair chance of at least one admit, but it is **not guaranteed**. Ranks 9 and below are not worth the fee unless the university confirms in writing.
+**What this means:** Apply to ranks 1 to 8 (rank 9 only if UCalgary confirms my CSE degree counts). Together they give a fair chance of at least one admit, but it is **not guaranteed**. Ranks 9 and below are not worth the fee unless the university confirms in writing.
 
 ---
 
@@ -147,12 +147,12 @@ Checked on **2026-11-25**. "Not stated" does **not** mean I pass.
 | 6 | B | **MUN MASc Software Engineering** | "Second class" (no number). No math grade before admission. Course-based with capstone. | Not re-checked |
 | 7 | B | **MUN Master of Data Science (MDSc)** | "Second class". Needs multivariate calculus "or equivalent knowledge", no grade. | Not re-checked |
 | 8 | B | **CBU MAIBA** (AI and Business Analytics) | Statistics 65% to 70% (my B+ likely passes). 3.0 in last 60 credits. Fails if CBU reads 3.34 as 66%. | Not re-checked |
-| 9 | C | **UNB MCS Coursework** | B (CS page) vs B+ (Grad Studies page). Leaning fail. | 7.0 |
-| 10 | C | **UNB Applied Cybersecurity (MACSec)** | Same as above. Strict background list. | 7.0 |
-| 11 | C | **MUN MASc Computer Engineering** | "Second class or B". Wants an engineering degree. Mine is CSE. | Not re-checked |
-| 12 | C | **UAlberta MEng ECE** | 3.0 on the page but "highly competitive". An FAQ reportedly says 3.7 to 3.8. | 7.0 |
-| 13 | C | **StFX MACS** | Not verified (pages blocked). Search summary says 70%. | Not verified |
-| 14 | D | **UCalgary MEng Software** | Needs an **engineering** degree "or equivalent". Mine is CSE. Closest to fixable: email meng@ucalgary.ca first. | Not re-checked |
+| 9 | B | **UCalgary MEng Software** | Degree must be engineering "or an equivalent". Other fields "may be considered" with extra undergraduate courses. No math-grade rule. 3.0 over last two years. If my CSE is not seen as engineering or software, I may need 3 foundation courses. [grad page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 6.5 / 6.0 |
+| 10 | C | **UNB MCS Coursework** | B (CS page) vs B+ (Grad Studies page). Leaning fail. | 7.0 |
+| 11 | C | **UNB Applied Cybersecurity (MACSec)** | Same as above. Strict background list. | 7.0 |
+| 12 | C | **MUN MASc Computer Engineering** | "Second class or B". Wants an engineering degree. Mine is CSE. | Not re-checked |
+| 13 | C | **UAlberta MEng ECE** | 3.0 on the page but "highly competitive". An FAQ reportedly says 3.7 to 3.8. | 7.0 |
+| 14 | C | **StFX MACS** | Not verified (pages blocked). Search summary says 70%. | Not verified |
 | 15 | D | **Regina MEng Software Systems (Project)** | 70% overall. Only exception: last two years 75%+. | Not re-checked |
 | 16 | D | **MUN Master of AI (MAI)** | "Second class upper (or 75% average)". | Not re-checked |
 | 17 | D | **MUN MSc CS, course route** | "Minimum average of 75% overall." | Not re-checked |
@@ -181,7 +181,7 @@ Costs come from the program files. Most are international student fees. Not all 
 | 7 | MUN MDSc | about 26,936 total | ≈ BDT 2,389,000 | |
 | 10 | UNB MACSec | about 30,740 | ≈ BDT 2,727,000 | |
 | 12 | UAlberta MEng ECE | 826 per credit | ≈ BDT 73,000 per credit | Total not verified |
-| 14 | UCalgary MEng Software | 41,487 to 53,933 | ≈ BDT 3,680,000 to 4,784,000 | Unverified |
+| 9 | UCalgary MEng Software | 41,487 to 53,933 | ≈ BDT 3,680,000 to 4,784,000 | Unverified |
 | 18 | UCalgary MDSA | about 47,453 | ≈ BDT 4,209,000 | Own math in notes |
 
 Costs for ranks 3, 5, 6, 8, 9, 11 and 13 are in each program file. Not repeated here.

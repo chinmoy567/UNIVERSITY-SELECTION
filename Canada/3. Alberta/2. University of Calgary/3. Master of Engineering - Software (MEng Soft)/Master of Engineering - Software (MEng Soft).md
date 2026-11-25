@@ -125,13 +125,19 @@ Source: [grad page](https://grad.ucalgary.ca/future-students/explore-programs/el
 
 ---
 
-## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
+## Math and grade check (re-checked 2026-11-25) - overrides older text above
 
 | Item | Result |
 | --- | --- |
-| Can I apply with my grades? | **No** |
-| Verdict | **FAIL** |
-| Why | Needs a four-year bachelor's in engineering or an equivalent. Your degree is CSE. Ask meng@ucalgary.ca. |
+| Can I apply with my grades? | **Maybe** (was marked "No", corrected) |
+| Verdict | **Unclear. Depends on whether my CSE degree counts as "engineering or equivalent".** |
+| Degree rule | Grad page: "A four-year baccalaureate degree in engineering, or an equivalent degree, from a recognized institution." Calendar: "Applicants with a four-year bachelor's degree in other disciplines may be considered but additional undergraduate courses ... may be required." ([grad page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course), [Calendar](https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI), checked 2026-11-25) |
+| Computer science degrees | Not named as eligible or not eligible on either page. Ask meng@ucalgary.ca. |
+| Math-grade rule | **None found.** My C+ in calculus and linear algebra is not a rule here. |
+| GPA rule | 3.0/4.0 over the past two years (60 units). My last 4 semesters average about 3.47. Bangladesh conversion not published. |
+| Foundation courses | 3 courses (9 units) for those with no software engineering background. Exemption for a Software Engineering degree "or equivalent". My CSE has Software Engineering and Design Patterns (A+). |
+| Deadline | Grad page lists International **Dec 1** for May 1 intake (non software background) and **Apr 1** for Sep 1 intake (software background). Year not stated. Dec 1 is close. Ask which applies to me. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
-| Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+| CGPA used | 3.34 (portal shows 3.29 until the 6-credit A+ capstone is added) |
+| Cost | 41,487 to 53,933 CAD (about BDT 3.68M to 4.78M) |
+| Next step | Email meng@ucalgary.ca: "I hold a 4-year BSc in CSE from BAIUST. Is it accepted as engineering or equivalent? Which intake and deadline apply? Is the foundation semester needed?" |
