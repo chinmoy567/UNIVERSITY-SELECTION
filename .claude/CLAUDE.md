@@ -77,7 +77,8 @@ Each program file should follow this order:
 - Do this without asking each time. The user has approved it for this project.
 - One change = one commit. Use a short, clear message (what changed and why).
 - Run `git status` first. Stage only the files that changed. Never commit secrets (`.env`, credentials).
-- Push to the current branch. Do not force push. Do not push to `main` unless the user says so.
+- After every simple change, commit and **push to `main`**. The user approved pushing to `main` (2026-11-25). Do not ask each time.
+- Do not force push.
 - If the push fails, say so and show the error. Do not hide it.
 
 ---
