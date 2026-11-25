@@ -8,7 +8,7 @@ Ranked on 2026-11-25 using `My Profile - Check Eligibility.md` (project root). P
 | --- | --- |
 | Can I get in anywhere? | **Maybe.** 5 programs are my best chances. None is a sure pass. |
 | Can I get in everywhere? | **No.** 7 of 21 programs fail a published rule. 9 more are risky. |
-| Best 5 | 1) UCalgary MISP 2) Dalhousie MDI 3) Dalhousie MACSc 4) UWinnipeg MSc ACS 5) Saint Mary's MSc CDA |
+| Best 5 | 1) Dalhousie MDI 2) UCalgary MISP 3) UWinnipeg MSc ACS 4) Dalhousie MACSc 5) Saint Mary's MSc CDA (see Section 1A) |
 | If I apply to only 2 programs | Too risky. Apply to 4 or 5 from the top 8. |
 | Biggest risks | 1) Percentage under 70%. 2) Math grades mostly C+ / B-. 3) No IELTS yet. 4) Portal shows **3.29**, not 3.34. |
 
@@ -16,37 +16,43 @@ These are **my ranking**, not university numbers. Universities do not publish th
 
 ---
 
-## 1A. Admit chance table (my estimates, easiest first)
+## 1A. Admit chance table (re-checked on the web 2026-11-25, my estimates, easiest first)
 
-**There is no 100% program.** No university will promise admission, and my marks are below 70% with weak math. The top chance is about 55%. Do not trust any source that says "100% sure".
+**There is no 100% program.** No university promises admission. My marks are below 70% and my math is weak. The top chance is about 55%.
 
-How to read: the % is my **own estimate** if I apply with IELTS at the required score and the university accepts 3.34 as a 3.0 or B average. If the university does not accept it, the chance falls to near 0. Email first.
+How to read: the % is **my own estimate** if I apply with the IELTS score needed and the university reads 3.34 as 3.0 / B. All rules below were re-read on official pages today. "Not verified" means I could not confirm it. **This order replaces the order in Section 5.**
 
-| # | Chance | University and program | Why this number |
-| --- | --- | --- | --- |
-| 1 | **~55%** | UCalgary MISP | No math rule. 3.0 over last two years (mine ~3.47). Still competitive. |
-| 2 | **~50%** | Dalhousie MDI | No prerequisites. B average. Conversion not published. |
-| 3 | **~45%** | Dalhousie MACSc | 3.0 in technical courses (strong). Interview. IELTS 7.0. |
-| 4 | **~45%** | UWinnipeg MSc ACS | 3.0 pooled with math. My math pulls it down. Cheapest. |
-| 5 | **~40%** | Saint Mary's MSc CDA | Rule not stated. Interview. |
-| 6 | **~35%** | MUN MASc Software Engineering | "Second class" only. No number. |
-| 7 | **~30%** | MUN Master of Data Science | "Second class". Needs calculus knowledge. |
-| 8 | **~30%** | CBU MAIBA | Passes only if CBU reads 3.34 as a GPA, not 66%. |
-| 9 | **~25%** | UCalgary MEng Software | Needs "engineering, or an equivalent" degree. Other fields "may be considered" with extra courses. No math-grade rule. 3.0 last two years (mine ~3.47). Costs 41k to 54k. Email first. |
-| 10 | **~15%** | UNB MCS Coursework | B vs B+ conflict. Leaning fail. |
-| 11 | **~15%** | UNB Applied Cybersecurity | Same. Strict background list. |
-| 12 | **~10%** | MUN MASc Computer Engineering | Wants an engineering degree. |
-| 13 | **~5%** | UAlberta MEng ECE | Highly competitive. FAQ says 3.7+. |
-| 14 | **~5%** | StFX MACS | Not verified. Maybe 70% minimum. |
-| 15 | **~3%** | Regina MEng Software Systems | 70% overall. |
-| 16 | **~2%** | MUN Master of AI | 75% / second class upper. |
-| 17 | **~2%** | MUN MSc CS (course route) | 75% overall. |
-| 18 | **~1%** | UCalgary MDSA | Needs B in calculus and linear algebra. Mine C+. |
-| 19 | **~1%** | Acadia MSc CS | Needs B- in Calculus I. Mine C+. |
-| 20 | **0%** | Regina MSc CS (course route) | 70% / 75% rule. Admission suspended. |
-| 21 | **0%** | Regina MSc CS (project route) | Same. |
+| # | Chance | University and program | Rule that matters (checked today) | IELTS | Deadline |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **~55%** | Dalhousie MDI | 3.0 in last 60 credits. Any 4-year degree. No math rule. | Not verified | Apr 1 (Sept) |
+| 2 | **~50%** | UCalgary MISP | 3.0. Science page wants "B" in programming, algorithms, OS or networks. My Networks is B. | 6.5 general, program Not verified | Mar 1 |
+| 3 | **~50%** | UWinnipeg MSc ACS | 3.0 pooled over computing, math, stats. My overall passes. Math-only GPA is close. | 6.5 | Feb 1 (Sept) |
+| 4 | **~45%** | Dalhousie MACSc | 3.0 with technical emphasis. Interview needed. | 7.0 "if required" | Apr 1 (Sept) |
+| 5 | **~40%** | Saint Mary's MSc CDA | No GPA number. Must email. Technical interview. | 6.5 | May 1, 2027 |
+| 6 | **~35%** | MUN Master of Data Science | "Second class". Needs calculus course, no grade stated. | Not verified | Jan 15 |
+| 7 | **~35%** | MUN MASc Software Eng. | "Second class", no number. Competitive. | 6.5 | Apr 1 |
+| 8 | **~30%** | CBU MAIBA | 3.0, but page also says 73-76%. My 66% is a risk. Stats 70%+ (mine B+). | Not verified | May 15 |
+| 9 | **~25%** | UCalgary MEng Software | "Engineering or equivalent". CSE may need 3 foundation courses. | 6.5 | Apr 1 / Dec 1 |
+| 10 | **~20%** | Regina MEng Software Systems | Page has no grade rule. General 70% (WES = 2.67/4.0, so 3.34 may pass). Email. | Not verified | Not verified |
+| 11 | **~15%** | UNB MCS Coursework | B (dept page) vs B+ (grad page). Top-20% note. | 7.0, writing 7.0 | Feb 28 |
+| 12 | **~15%** | UNB Applied Cybersecurity | Same as above. | 7.0, writing 7.0 | Feb 28 |
+| 13 | **~12%** | MUN MASc Computer Eng. | "Second class". CSE fits less well. | Not verified | Apr 1 |
+| 14 | **~8%** | UAlberta MEng ECE | 3.0 minimum, competitive. FAQ 3.7+ (search only). | 7.0, each band 6.0 | Not verified |
+| 15 | **~5%** | Acadia MSc CS | 2.67 GPA ok. But Calculus must be B- (mine C+). | 6.5 | Apr 1 |
+| 16 | **~5%** | StFX MACS | 70% line. Pages blocked. Not verified. | 6.5 | May 1 |
+| 17 | **~3%** | MUN Master of AI | "Normally" 75% / upper second. | 7.0 | Dec 1 |
+| 18 | **~3%** | MUN MSc CS (course) | 75% rule (search summary only). | Not verified | Dec 1 |
+| 19 | **~2%** | UCalgary MDSA | "B" in calculus or linear algebra. Mine C+. | 6.5 | Mar 1 |
+| 20 | **0%** | Regina MSc CS (course) | Admission suspended. 70% / 75% rule. | 6.5 | Suspended |
 
-**What this means:** Apply to ranks 1 to 8 (rank 9 only if UCalgary confirms my CSE degree counts). Together they give a fair chance of at least one admit, but it is **not guaranteed**. Ranks 9 and below are not worth the fee unless the university confirms in writing.
+(Regina MSc CS project route dropped: same suspended program.)
+
+**Changes from the old table**
+- UWinnipeg and Regina MEng look better. Regina MEng depends on WES conversion.
+- UCalgary MISP got a new risk: the "B" prerequisite wording.
+- Acadia is still near the bottom: Calculus C+ is below B-.
+
+**Next step:** Apply to #1 to #8. Email each first to ask how a Bangladesh CGPA 3.34/4.00 is read. Sources: official program pages checked 2026-11-25. BAIUST grade scale is Not verified.
 
 ---
 
