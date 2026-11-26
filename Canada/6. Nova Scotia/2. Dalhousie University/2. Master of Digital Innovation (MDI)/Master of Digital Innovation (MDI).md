@@ -137,3 +137,76 @@ Source: [Curriculum](https://dal.ca/study/program-sites/digital-innovation/curri
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis status: the program has three options (Professional/course-based, Internship, Thesis). The Thesis option is SKIPPED here. Only the Professional and Internship content is kept. Note: the page fetch tool returned summaries of the pages, not word-for-word text, so wording below is close to the official text but not guaranteed verbatim.
+
+### Program overview and options
+Source: https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details.html (checked 2026-11-27)
+
+- Master of Digital Innovation (MDI), Faculty of Computer Science with the Faculty of Graduate Studies. Halifax, September start.
+- Builds technical, business and leadership skills for managing change and creating value in the digital economy. Taught by faculty in Computer Science, Management and Law. Optional certificate in Digital Business, Health Informatics or Data Science.
+- Options: Professional (course-based master's); Internship (hands-on experience with how digital innovation changes organizations); Thesis (research under a supervisor) - thesis skipped.
+- Duration: standard length 16 months or longer. Full-time or part-time. Delivery: in person.
+- Possible careers: digital strategy consultant, technology product manager, technology director, senior health information analyst, ERP consultant. Graduates work in technology, health care and consulting.
+- The page says the Academic Calendar is the official reference if there is a discrepancy.
+
+### Curriculum (non-thesis route)
+Source: https://dal.ca/study/program-sites/digital-innovation/curriculum.html (checked 2026-11-27)
+
+- All MDI students take a similar core, whatever certificate they choose. Most full-time students finish in four terms. A Certificate in the Foundations of Digital Innovation is available if a student cannot finish the full MDI.
+- Term 1: two of the following (set by certificate) plus one elective or certificate course:
+  - DGIN 5100 Foundations in Web Technologies: hands-on IT infrastructure and web development, including web design, databases, security and user experience.
+  - DGIN 5200 Foundations in Business: innovation dynamics and strategic management of innovation in high-impact organizations.
+  - DGIN 5300 Law, Policy, and Ethics in Emerging Technologies: legal, policy and ethical issues of technologies such as AI and the Internet of Things.
+  - DGIN 5400 Statistics for Health Informatics: statistical methods for medical research, including descriptive analysis, inference and regression.
+- Term 2: DGIN 5201 Digital Transformation (core course on designing and managing digital innovation projects in public and private organizations) plus two elective or certificate courses.
+- Term 3: industry internship (thesis route skipped).
+- Term 4 (internship route): DGIN 5001 Capstone in Digital Innovation (team project across diverse digital innovation areas) plus two elective or certificate courses. (DGIN 5002 Research Methods is the thesis route - skipped.)
+- Credits per course and the elective/certificate course lists: Not verified (not shown on pages read; the Academic Calendar page I opened did not contain MDI).
+- Another dal.ca page (https://www.dal.ca/faculty/computerscience/college-digital-transformation/digital-innovation-curricula.html) returned only navigation text: Not verified.
+
+### Admission requirements
+Source: https://www.dal.ca/study/program-sites/digital-innovation/admissions.html (checked 2026-11-27)
+
+- Four-year undergraduate degree (or equivalent) and minimum GPA 3.0, plus program requirements. "Meeting the minimum requirements does not guarantee admission."
+- MDI: degrees from many disciplines accepted; work experience can be considered; intro programming recommended, not required. Single September intake.
+- Steps and documents: online Graduate Studies Application; unofficial transcripts from each institution; English proficiency proof (international); CV; statement of intent; two reference letters (referee needs a university, college or company email, or letter on official letterhead; can be emailed to graduate@cs.dal.ca); application fee CAD 115 (≈ BDT 10,120).
+- Check the GPA equivalency table for international applicants. Permanent residents must show proof of residency, or international fees apply.
+- English (existing note, FGS page): IELTS 7.0 overall. Not re-opened today: Not verified today.
+
+### Deadlines
+Source: https://www.dal.ca/study/program-sites/digital-innovation/admissions.html (checked 2026-11-27)
+
+| Applicant | September |
+| --- | --- |
+| International | April 1 |
+| Canadian citizens / permanent residents | June 1 |
+
+- MDI has no January or May intake. Applications must be complete (transcripts and letters) by the deadline.
+- Deferral: one request per student, to graduate@cs.dal.ca by August 18 (Fall).
+
+### Fees
+Source: https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details.html (checked 2026-11-27)
+
+- Program fee is paid each term. Full-time program fee period is 12 months. International tuition is payable for up to two years, based on the thesis-option rate.
+- Fee schedule PDF (https://www.dal.ca/content/dam/www/admissions/cost-and-payment/tuition-and-fee-schedules/masters-tuition-fee-schedule.pdf) could not be re-read today (PDF text not extractable). Figures in the Cost section above (CAD 19,134 program fee per year plus CAD 8,079 international tuition per year) remain from the 2026-11-22 check: not re-verified today.
+- Exchange rate: about 1 CAD = 88 BDT (Wise mid-market; search snapshots today ranged 86-90, no reliable timestamp), checked 2026-11-27. So CAD 19,134 ≈ BDT 1,683,800; CAD 8,079 ≈ BDT 710,950.
+- Living costs: page only links to Halifax cost of living. Not verified.
+
+### Contacts
+- Admissions: cs.admissions@dal.ca; graduate applications: graduate@cs.dal.ca; general: inquiries@cs.dal.ca, 902-494-2093; tuition: student.accounts@dal.ca, 902-494-3998.
+- Mailing address: Faculty of Computer Science, Dalhousie University, 6050 University Avenue, PO Box 15000, Halifax, NS B3H 4R2, Canada.
+
+### Not verified
+- Total credits, credits per course, full course descriptions beyond those above, elective lists, internship paid status, co-op, PGWP/immigration (see earlier sections, last checked 2026-11-22), funding details, FAQ.
+
+## Sources
+
+- https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details.html (checked 2026-11-27)
+- https://dal.ca/study/program-sites/digital-innovation/curriculum.html (checked 2026-11-27)
+- https://www.dal.ca/study/program-sites/digital-innovation/admissions.html (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate (checked 2026-11-27)
