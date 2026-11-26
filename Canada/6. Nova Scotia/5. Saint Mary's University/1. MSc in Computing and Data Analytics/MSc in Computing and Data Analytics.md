@@ -137,3 +137,61 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Format: project-based with paid internship. No thesis route. Thesis check: not thesis (program page, 2026-11-27).
+Note: the official page was read through a tool that paraphrases. The wording below is close to the page but not word-for-word. The graduate calendar returned HTTP 503, so course list and credits are Not verified.
+
+### Overview and structure
+Source: https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html (checked 2026-11-27)
+- 16-month professional master's, Faculty of Science. 4 terms: 8 months coursework + 8 months paid work experience.
+- Topics: AI, data analytics, software development, big data governance, business strategy. Generative AI is used in course delivery and student work.
+- On campus, project-based. Faculty from Science, industry experts and the Sobey School of Business.
+- Paid internships and industry-funded projects.
+- Registered Certified Analytics Professional (CAP) education provider.
+- Page says graduates are eligible for a 3-year PGWP and a pathway to permanent residency. Page claims nearly 100% of graduates got full-time job offers; 95% of surveyed graduates earned income while enrolled (self-reported).
+- Next cohort: September 2027. Applications open 2026-10-05.
+
+### Admission requirements
+Source: same page (checked 2026-11-27)
+- Online application form and CAD 125 (≈ BDT 10,880) processing fee
+- Four-year BSc in Computing Science or equivalent quantitative degree (check country-specific GPA requirements; no number published)
+- Unofficial transcripts plus grading scale or legend
+- Letter of intent
+- Current CV
+- Two recommendation forms
+- Successful technical interview (GenAI tools permitted). A preparation guide is linked on the page.
+- Admission follows general FGSR rules.
+
+### English (first language not English and no prior degree taught fully in English)
+- IELTS Academic: 6.5 overall, no band below 6.0
+- TOEFL: minimum 4.5 Listening, no other band below 4.0. SMU TOEFL code 0958.
+
+### Deadlines
+- Application and fee: 2027-05-01. All documents: 2027-05-31. Incomplete applications may close once capacity is reached.
+
+### Tuition and fees
+Source: same page (checked 2026-11-27). Rate used: 1 CAD = 87.04 BDT (XE, 2026-11-21, from existing notes; not re-looked-up today).
+- Canadian students: CAD 22,000 (≈ BDT 1,914,900)
+- International students: CAD 42,000 (≈ BDT 3,655,700) total, paid in 4 instalments at the start of each term (Sep 2027, Jan 2028, May 2028, Sep 2028)
+- Seat deposit: CAD 5,000 (≈ BDT 435,200), by the deadline in the admission letter
+- The 2026-27 fee schedule PDF (https://www.smu.ca/webfiles/2026-2027GradProgramFee.pdf) could not be read (compressed PDF). Figures in the sections above remain from earlier notes. Not re-verified today.
+
+### Courses
+Source: https://smu-ca-public.courseleaf.com/graduate/programs/computing-data-analytics-msc/ (HTTP 503 on 2026-11-27)
+Full course list, descriptions, credits: Not verified.
+
+### Contacts
+- MSc CDA Program: msc.cda@smu.ca
+- General: info@smu.ca, 902-420-5400 (Mon-Fri 9am-4pm)
+- Service Centre (accounts, payment, transcripts, enrolment): service.centre@smu.ca, 902-420-5582 (Mon-Fri 9:30am-4pm)
+- Address: 923 Robie Street, Halifax, NS, B3H 3C3
+- FAQ: none on the page.
+
+## Sources
+- https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html (checked 2026-11-27)
+- https://smu-ca-public.courseleaf.com/graduate/programs/computing-data-analytics-msc/ (503, not read)
+- https://www.smu.ca/webfiles/2026-2027GradProgramFee.pdf (not readable)
