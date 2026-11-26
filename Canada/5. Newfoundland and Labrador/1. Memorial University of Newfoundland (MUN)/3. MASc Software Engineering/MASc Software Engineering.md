@@ -127,6 +127,81 @@ Source: [Calendar 8.7](https://www.mun.ca/previous-university-calendars/2026-202
 
 ---
 
+## Full Official Program Information
+
+Thesis check: course-based, four terms, no thesis. Thesis route: none exists. Exchange rate used: 1 CAD = 88.69 BDT (Wise mid-market, undated cached page; other sites show about 86-90; checked 2026-11-27). All fees below are international rates.
+
+### Program overview (Faculty of Engineering page)
+
+- Course-based Master of Applied Science in Software Engineering (MASc.SE), offered jointly by the Faculty of Engineering and Applied Science and the Faculty of Science.
+- Four terms, no thesis component; a capstone course is taken instead.
+- For students with a computer science or computer engineering background who want to specialize in software engineering.
+- Graduates are prepared for software development, computer systems architecture and design, and distributed services roles.
+- Intake: once a year, in the Fall.
+- Taking more courses than required incurs additional tuition under university policy.
+
+Source: https://www.mun.ca/engineering/graduate/programs/software-engineering/ (checked 2026-11-27)
+
+### Admission (Graduate Calendar 8.7.1)
+
+- Admission is limited, competitive, and based on overall academic performance.
+- Applicants normally need a minimum second-class four-year bachelor's degree in computer science, computer engineering, or a related field from a recognized university.
+- Applicants must meet the School's English Proficiency Requirements.
+- The Dean of Graduate Studies grants admission on the recommendation of the program chair or either department head, along with a tentative program of study.
+
+Source: https://www.mun.ca/previous-university-calendars/2026-2027/school-of-graduate-studies/school-of-graduate-studies/8/7/ (checked 2026-11-27)
+
+### Degree requirements (Calendar 8.7.2): 30 credit hours
+
+| Part | Credits | Courses |
+| --- | --- | --- |
+| Capstone | 3 | ENGI 9837 (normally taken in the final term) |
+| Core | 18 | COMP 6901, COMP 6905, ENGI 9818, ENGI 9867, ENGI 9874, ENGI 9839 |
+| Electives | 9 | Three courses from the elective list below |
+
+The engineering page lists the same courses as "seven core courses (21 credits)" including the capstone. Same total.
+
+### Evaluation (Calendar 8.7.3)
+
+- A grade of at least 65% is required in every program course for credit toward the program.
+- A failed core course must be repeated. A failed elective must be repeated or replaced with another program course.
+- Less than 65% in two courses, or in a repeated course, requires withdrawal from the program.
+
+### Courses (Calendar 8.7.4 and engineering page)
+
+Core courses (3 credits each, per engineering page):
+
+| Code | Title |
+| --- | --- |
+| COMP 6901 | Applied Algorithms |
+| COMP 6905 | Software Engineering |
+| ENGI 9818 | Software Fundamentals (engineering page calls it "Software Foundations"; the calendar is more official) |
+| ENGI 9837 | Software Engineering Capstone |
+| ENGI 9839 | Software Verification and Validation |
+| ENGI 9867 | Advanced Computing Concepts for Engineering |
+| ENGI 9874 | Software Design and Specification |
+
+Elective courses (titles and full course descriptions: Not verified; the calendar section does not include them):
+AI 6001; COMP 6903 (credit restricted with ENGI 9869); COMP 6904 (restricted with ENGI 9861); COMP 6908; COMP 6910; COMP 6916 or ENGI 9807; COMP 6921; COMP 6922; COMP 6925 (restricted with ENGI 9875); COMP 6934; ENGI 9838; ENGI 9861 (restricted with COMP 6904); ENGI 9869 (restricted with COMP 6903); ENGI 9872; ENGI 9875 (restricted with COMP 6925); ENGI 9876; ENGI 9877.
+
+The engineering page says other approved courses may be substituted with the program chair's approval. Full course descriptions for core courses: Not verified. Term-by-term plan: Not verified.
+
+### Cost, deadlines, contacts
+
+- Tuition and special fee (international): CAD 9,666 tuition + CAD 20,282 special fee for 4 semesters = CAD 29,948 (≈ BDT 2,656,200). Per semester: CAD 7,487 (≈ BDT 664,000). See Section 5 above for the full table. Re-checking against the fees page: Not verified in this pass.
+- Deadline Fall 2027: April 1 (international), May 1 (Canadian). See Section 6. Not re-checked in this pass.
+- Contacts: Program Chair Dr. Stephen Czarnuch, sczarnuch@mun.ca (academic); Program Officer Nicole Parisi, nparisi@mun.ca (administrative).
+- Not verified: co-op or internship, scholarships, FAQ, ancillary fees, per-term plan.
+
+## Sources
+
+- https://www.mun.ca/previous-university-calendars/2026-2027/school-of-graduate-studies/school-of-graduate-studies/8/7/ (checked 2026-11-27)
+- https://www.mun.ca/engineering/graduate/programs/software-engineering/ (checked 2026-11-27)
+- https://mun.ca/become/graduate/programs-and-courses/software-engineering/ (earlier notes 2026-11-22, not re-opened)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate (exchange rate, 2026-11-27)
+
+---
+
 ## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
 
 | Item | Result |
