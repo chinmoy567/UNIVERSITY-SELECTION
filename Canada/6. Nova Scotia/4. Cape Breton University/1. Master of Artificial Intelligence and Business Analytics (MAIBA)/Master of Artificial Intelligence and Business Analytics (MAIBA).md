@@ -136,3 +136,83 @@ Core (9 x 3 = 27 credits): MGSC-6251 Data Management and Modeling; MGSC-6263 Adv
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis status: course-based. Final semester is a 420-hour internship or a Master's project. No thesis route found on the program page. Exchange rate used: 1 CAD = 88.69 BDT (Wise mid-market, GB page, undated; other pages show 86.4 to 90.3), looked up 2026-11-27.
+
+Note: the official pages could only be read through a tool that returns a summary, not word-for-word text. Wording below follows the pages as closely as the tool allowed. Course descriptions and term placement are Not verified (the PDF planner is compressed and the program page lists no descriptions).
+
+### Program overview
+Source: https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/ (checked 2026-11-27)
+
+- Master of Artificial Intelligence and Business Analytics, Cape Breton University.
+- 16 months, 36 credits, in person on campus. Full-time and part-time options (contact ssobgradstudies@cbu.ca).
+- Final semester: choose a 420-hour internship or a Master's project.
+- Covers AI, machine learning, analytics, and sustainability, with Indigenous perspectives.
+- Skills: data analysis, visualization and enterprise technology; predictive modeling and practical machine learning; applied AI and AI ethics; sustainability and supply-chain analytics grounded in Indigenous principles; research, writing and critical thinking; optimization and decision-making under uncertainty.
+- Potential careers: Business Analyst, Machine Learning Engineer, AI Specialist, Public Sector Data Analyst.
+
+### Admission requirements
+Source: https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/ (checked 2026-11-27)
+
+- Four-year undergraduate degree (or equivalent) in science, mathematics, computer science, business, economics, or engineering.
+- Minimum GPA of 3.0 (73-76%) or a B in the final 60 credits.
+- A statistics course with at least a 70% final grade.
+- Applicants who do not meet the academic criteria may be considered on GMAT scores and/or professional experience, as outlined in a CV.
+- English language requirements apply to international applicants (see English section above).
+
+### Deadlines (Fall 2027)
+Source: https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/ (checked 2026-11-27)
+
+| Applicants | Opens | Closes |
+| --- | --- | --- |
+| Canadian | October 1, 2026 | August 1, 2027 |
+| International | October 1, 2026 | May 15, 2027 |
+
+Applications may close early once all seats are filled.
+
+### Courses (codes from the official sample planner)
+Source: https://www.cbu.ca/wp-content/uploads/2026/11/MAIBA-Program-Sample-Schedule-2026.pdf (checked 2026-11-27)
+
+Codes read from the PDF links: MGSC-6251, MGSC-6263, MGSC-6253, MGSC-6255, MGSC-6267, MGSC-6257, MGSC-6265, MGSC-6269, MGSC-6261, MGSC-6600, HCMT-6115, MGSC-6259, MRKT-6103. Titles are as listed in the section "7. Courses and credits" above (from earlier notes). Course descriptions: Not verified (not on the program page). Term placement: Not verified.
+
+### Tuition and fees, 2026-2027 estimates for the entire program (36 credits)
+Source: https://www.cbu.ca/future-students/tuition-fees/graduate-tuition/ and the program page (checked 2026-11-27)
+
+| Student group | Total program estimate |
+| --- | --- |
+| Nova Scotia (includes provincial bursary) | CAD 17,265.56 (≈ BDT 1,531,300) |
+| Other Canadian provinces | CAD 18,805.16 (≈ BDT 1,667,800) |
+| International (the relevant row) | CAD 35,195.16 (≈ BDT 3,121,500) |
+
+Tuition per year: Not published separately (16-month program; whole-program estimate only).
+
+Extra fees, not in the totals (the page says applicable ones may apply):
+
+| Fee | Amount |
+| --- | --- |
+| Graduate application fee, non-refundable | CAD 100 (≈ BDT 8,869) |
+| Graduation fee, once at the end | CAD 100 (≈ BDT 8,869) |
+| SSOB Graduate Program Fee, one-time (page does not explicitly confirm MAIBA) | CAD 440 (≈ BDT 39,024) |
+| Online learning fee, per course taken online | CAD 99 (≈ BDT 8,780) |
+| Textbooks, about per 3-credit course (estimate) | CAD 150 (≈ BDT 13,304) |
+| Late payment fee | CAD 50 (≈ BDT 4,435) |
+| Late registration fee | CAD 50 (≈ BDT 4,435) |
+| Replacement parchment | CAD 50 (≈ BDT 4,435) |
+
+Accommodation, residence and meal plan are excluded. Financial aid contacts: Laura Doucet 902-563-1670, Peter Sutherland 902-563-1687.
+
+### Corrections
+- None. (Earlier note BDT 39,000 for CAD 440 rounded; now ≈ BDT 39,024.)
+
+### Not verified
+- Course titles/descriptions/credits per course word-for-word, term placement, co-op, scholarships, FAQ (none on page), PGWP/immigration pages not re-opened in this pass (earlier notes kept above).
+
+## Sources
+- https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/ (checked 2026-11-27)
+- https://www.cbu.ca/wp-content/uploads/2026/11/MAIBA-Program-Sample-Schedule-2026.pdf (checked 2026-11-27)
+- https://www.cbu.ca/future-students/tuition-fees/graduate-tuition/ (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate?amount=1 (rate, checked 2026-11-27)
