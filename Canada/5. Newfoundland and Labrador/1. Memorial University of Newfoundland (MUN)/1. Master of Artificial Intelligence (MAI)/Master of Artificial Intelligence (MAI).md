@@ -122,6 +122,70 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 
 ---
 
+## Full Official Program Information
+
+Thesis status: NOT thesis. Course-based, no thesis route; ends with capstone AI 6002. Course descriptions, credits and calendar 11.2 text could not be read by tools (Not verified). Exchange rate: see Section 5 (1 CAD = 88.69 BDT, approximate).
+
+### Program page (SGS)
+Source: https://mun.ca/become/graduate/programs-and-courses/artificial-intelligence/ (checked 2026-11-27)
+
+- Four-term, course-based master's, offered jointly by Computer Science (Faculty of Science) and Computer Engineering (Faculty of Engineering and Applied Sciences). Campus: St. John's. Full-time 16 months.
+- Core courses give AI foundations and an overview of several AI areas. Electives allow deeper study in areas such as robotics, machine learning and image processing. More AI focus than MSc Computer Science or MASc Computer Engineering.
+- No co-op or work term. No scholarships. A special fee applies on top of tuition.
+- Admission: four-year degree (or equivalent) in computer science, computer engineering or related field (data science, scientific computing, bioinformatics, computational chemistry); normally Second-Class Upper or about 75% average; at least one course each in linear algebra, vector calculus, statistics, computer programming; SGS English requirements.
+- Deadlines: December 1 all applicants (Fall); April 1 Canadian applicants; late international applications may be considered, subject to seats.
+- Tuition per semester: NL and other Canadian CAD 1,858.50 (≈ BDT 164,800); international CAD 2,416.50 (≈ BDT 214,300), plus special fee. Fees approved by the Board of Regents take precedence.
+- Career: applied roles such as autonomous vehicles, automated decision making, precision agriculture, personalized medicine, financial security; public and private sectors in NL and across Canada.
+- Contact: "Request More Information" form only; no phone or email listed.
+
+### Department page
+Source: https://mun.ca/computerscience/graduate-students/graduate-programs/master-of-ai (checked 2026-11-27)
+
+- Course-based, 16 months, September start. No financial aid for course-based students. Special program fee in addition to tuition.
+- Minimum 10 courses: 7 core + 3 electives. No thesis route. Capstone course AI 6002.
+- Semester 1 preparatory (maths and computing fundamentals); Semester 2 broad AI introduction; Semesters 3-4 electives and capstone.
+
+| Term | Courses |
+| --- | --- |
+| Sep-Dec | AI 6000 AI Foundations; COMP 6901 Applied Algorithms; ENGI 9818 Software Fundamentals |
+| Jan-Apr | COMP 6915 Introduction to Machine Learning; COMP 6980 Algorithmic Techniques for AI; AI 6001 Topics in AI |
+| May-Aug | Elective 1; AI 6002 Capstone Project |
+| Sep-Dec | Elective 2; Elective 3 |
+
+### Graduate calendar, Section 11.4 Courses
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/11/4/ (checked 2026-11-27). Credits and descriptions: Not verified (not shown on the page read).
+
+Core (11.4.1): AI 6000 AI Foundations; AI 6001 Topics in AI; AI 6002 Artificial Intelligence Capstone; COMP 6901; COMP 6915; COMP 6980; ENGI 9818.
+
+Electives (11.4.2):
+
+| Code | Title |
+| --- | --- |
+| COMP 6907 | Data Mining Techniques and Methodologies |
+| COMP 6912 | Autonomous Robotics |
+| COMP 6934 | Introduction to Data Visualization |
+| COMP 6981 | Data preparation techniques |
+| COMP 6936 | Advanced Machine Learning |
+| DSCI 6601 | Practical Machine Learning |
+| DSCI 6602 | Deep Learning and Artificial Intelligence, or MATH 6205 Deep Learning |
+| ENGI 9804 | Image Processing and Applications |
+| ENGI 9805 / COMP 6982 | Computer Vision |
+| ENGI 9821 | Digital Signal Processing |
+| ENGI 9826 | Advanced Control Systems |
+| ENGI 9940 | Advanced Robotics |
+
+Not verified: calendar 11.2 degree requirements text, credits, course descriptions, SOP, work experience, Bangladesh grade conversion, PGWP-specific notes beyond Section 8.
+
+---
+
+## Sources
+
+- https://mun.ca/become/graduate/programs-and-courses/artificial-intelligence/ (2026-11-27)
+- https://mun.ca/computerscience/graduate-students/graduate-programs/master-of-ai (2026-11-27)
+- https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/11/4/ (2026-11-27)
+
+---
+
 ## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
 
 | Item | Result |
