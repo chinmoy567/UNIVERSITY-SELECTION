@@ -40,9 +40,9 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Background: computer science, computer engineering or related (data science, scientific computing, bioinformatics, computational chemistry). 4-year bachelor's accepted. (OFFICIAL, same pages)
 - Prerequisites: at least one course each in linear algebra, vector calculus, statistics, computer programming. [SGS page](https://mun.ca/become/graduate/programs-and-courses/artificial-intelligence/) (OFFICIAL)
 - General SGS documents: online application, transcripts (upload PDF; degree-completion or anticipated-completion letter accepted), CV, proof of English, two reference letters. [SGS apply page](https://www.mun.ca/become/graduate/apply/) (OFFICIAL, updated 2026-11-19). GRE, work experience, SOP, portfolio for MAI: Not found / not published. Average admitted GPA: Not found.
-- Bangladesh grade equivalence (3.34/4.00 to percentage): Not found. Unverified.
+- Bangladesh grade equivalence (3.33/4.00 to percentage): Not found. Unverified.
 
-Do I meet it? Unclear, likely No. CGPA 3.34 (about 66.64%) is below the stated 75% / second-class upper, unless MUN converts the BAIUST scale higher. Ask admissions.
+Do I meet it? Unclear, likely No. CGPA 3.33 (about 66%) is below the stated 75% / second-class upper, unless MUN converts the BAIUST scale higher. Ask admissions.
 
 ## 4. English
 
@@ -109,7 +109,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Risk: Suggested risk: reach (CGPA about 66.64% vs 75% stated; higher English tier IELTS 7)
+- Risk: Suggested risk: reach (CGPA about 66% vs 75% stated; higher English tier IELTS 7)
 - Pros: 16-month course-based degree, no supervisor needed, PGWP-eligible degree level, 4-year bachelor's accepted, AI-focused.
 - Cons: total about CAD 29,948 before fees (no funding), 75% minimum above your CGPA, IELTS 7 / TOEFL 92, no co-op, one intake (Dec 1 deadline), credits unpublished.
 - Admissions contact: [sgs@mun.ca](mailto:sgs@mun.ca) (OFFICIAL, SGS apply page). The program page lists only a "Request More Information" form. [cs-gradapply@mun.ca](mailto:cs-gradapply@mun.ca) is Unverified (third-party).
@@ -194,5 +194,5 @@ Not verified: calendar 11.2 degree requirements text, credits, course descriptio
 | Verdict | **FAIL** |
 | Why | Second class upper or 75% average. Also needs vector calculus. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

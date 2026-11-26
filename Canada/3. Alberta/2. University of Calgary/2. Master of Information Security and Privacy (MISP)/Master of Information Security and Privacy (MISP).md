@@ -44,7 +44,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Documents: unofficial transcripts and degrees with grade scales, proof of prerequisites, GPA Calculation Worksheet. Original vs provisional certificates: Not found.
 - Average admitted GPA: Not found.
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 3.00 if BAIUST is a 4.0 scale, but the GPA is judged on the last 60 units with the university's conversion, and the CS prerequisites must be met.
+Do I meet it? Unclear. CGPA 3.33 (about 66%) is above 3.00 if BAIUST is a 4.0 scale, but the GPA is judged on the last 60 units with the university's conversion, and the CS prerequisites must be met.
 
 ## 4. English
 
@@ -124,7 +124,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **RISKY** |
 | Why | No math course. 3.0 over the last two years (you have about 3.4 to 3.5). Needs programming, algorithms, OS or networks. Bangladesh conversion not published. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

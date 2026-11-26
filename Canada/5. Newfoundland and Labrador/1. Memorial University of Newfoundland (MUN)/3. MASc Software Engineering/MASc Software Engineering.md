@@ -44,7 +44,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [mun.ca](http://mun.ca) or Governme
 - References: 2 letters (academic or professional; not family or friends). Statement of Interest: part of the online application, weighed heavily by most units. CV required. [Apply page](https://www.mun.ca/become/graduate/apply/) (OFFICIAL)
 - Documents: transcripts, confirmation of degree or anticipated completion letter (so provisional is accepted), CV, proof of English; non-English transcripts need an official or notarized translation ([Apply page](https://www.mun.ca/become/graduate/apply/), OFFICIAL).
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%, not First Class) probably lands in the "second class" range, but MUN does not publish a cutoff or how it converts the BAIUST scale. Ask admissions, and check that the degree is in a related field.
+Do I meet it? Unclear. CGPA 3.33 (about 66%, not First Class) probably lands in the "second class" range, but MUN does not publish a cutoff or how it converts the BAIUST scale. Ask admissions, and check that the degree is in a related field.
 
 ## 4. English
 
@@ -112,7 +112,7 @@ Source: [Calendar 8.7](https://www.mun.ca/previous-university-calendars/2026-202
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: reach to match (no published cutoff; 66.64% is below First Class; admission is competitive)
+- Suggested risk: reach to match (no published cutoff; 66% is below First Class; admission is competitive)
 - Pros: Master's level has no PGWP field restriction; 16 months only; course-based (no supervisor needed); relatively low English bar (IELTS 6.5); software engineering fit; provisional degree letter accepted.
 - Cons: Total tuition plus special fee is about CAD 29,948 before living costs; no co-op found; Fall only with an April 1 deadline; no numeric GPA cutoff; ancillary fees and deposit not published.
 - Admissions contact: Program Chair Dr. Stephen Czarnuch, [sczarnuch@mun.ca](mailto:sczarnuch@mun.ca); Program Officer Nicole Parisi, [nparisi@mun.ca](mailto:nparisi@mun.ca) ([engineering page](https://www.mun.ca/engineering/graduate/programs/software-engineering/), OFFICIAL); School of Graduate Studies [sgs@mun.ca](mailto:sgs@mun.ca) ([Apply page](https://www.mun.ca/become/graduate/apply/)).
@@ -210,5 +210,5 @@ The engineering page says other approved courses may be substituted with the pro
 | Verdict | **RISKY** |
 | Why | No math rule. Second class has no number. Course-based with capstone. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

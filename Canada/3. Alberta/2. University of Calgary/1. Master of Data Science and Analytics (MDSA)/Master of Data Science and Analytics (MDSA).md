@@ -71,7 +71,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Not required per program page: GRE, reference letters, work samples. SOP, CV, portfolio, supervisor, work experience: not listed (Unverified; confirm). Average admitted GPA: Not found.
 - Exceptional-circumstances route exists. OFFICIAL
 
-Do I meet it? Unclear (likely yes on GPA). CGPA 3.34 (about 66.64%) is above 3.0 if the BAIUST 4.0 scale is treated as a 4.0 scale, but the last-two-years GPA via the university worksheet and B-level prerequisite courses must be confirmed.
+Do I meet it? Unclear (likely yes on GPA). CGPA 3.33 (about 66%) is above 3.0 if the BAIUST 4.0 scale is treated as a 4.0 scale, but the last-two-years GPA via the university worksheet and B-level prerequisite courses must be confirmed.
 
 ## 4. English
 
@@ -135,7 +135,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 
 - Suggested: Shortlist (your call)
 - Suggested risk: Match
-- Pros: 12-month program, 4-year bachelor's accepted, no GRE or reference letters, built-in internship, master's PGWP eligible, 3.0/4.0 GPA bar below CGPA 3.34 if scales match.
+- Pros: 12-month program, 4-year bachelor's accepted, no GRE or reference letters, built-in internship, master's PGWP eligible, 3.0/4.0 GPA bar below CGPA 3.33 if scales match.
 - Cons: High tuition (about CAD 47k, Unverified), strict IELTS 7.0/6.5, B-level prerequisites needed, 3.0 is on a 4.0 scale and conversion from BAIUST unclear, early March 1 deadline, fees and units unpublished.
 - Admissions contact: [prograd.science@ucalgary.ca](mailto:prograd.science@ucalgary.ca), Science A 229, 2500 University Drive NW, Calgary AB T2N 1N4. [Program page](https://grad.ucalgary.ca/future-students/explore-programs/data-science-and-analytics-mdsa-course) OFFICIAL
 
@@ -155,7 +155,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **FAIL** |
 | Why | Programming, statistics and calculus or linear algebra courses each need at least a B. Your Calculus C+ and Linear Algebra C+ fail. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

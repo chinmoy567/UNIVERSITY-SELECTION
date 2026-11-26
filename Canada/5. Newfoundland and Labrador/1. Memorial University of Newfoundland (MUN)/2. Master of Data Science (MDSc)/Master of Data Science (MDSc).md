@@ -45,7 +45,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Documents: one transcript (with degree confirmation), resume/CV, proof of English or Medium of Instruction Letter, statement of interest ([Apply to Memorial](https://www.mun.ca/become/graduate/apply-to-memorial/), OFFICIAL). GRE not listed for MDSc. Notarized English translation if transcripts are not in English/French ([calendar 4.1.8](https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/4/1), OFFICIAL).
 - Work experience, portfolio, supervisor, original vs provisional certificate, average admitted GPA: Not found / not published.
 
-Do I meet it? Unclear (likely Yes). CGPA 3.34 (about 66.64%, not First Class) probably counts as second class, but MUN publishes no numeric cut-off and the equivalent for Bangladesh is not stated; also the degree must be in a relevant area with calculus, statistics and programming background.
+Do I meet it? Unclear (likely Yes). CGPA 3.33 (about 66%, not First Class) probably counts as second class, but MUN publishes no numeric cut-off and the equivalent for Bangladesh is not stated; also the degree must be in a relevant area with calculus, statistics and programming background.
 
 ## 4. English
 
@@ -116,7 +116,7 @@ Source: [Program of study](https://www.mun.ca/science/graduate-students/interdis
 ## 9. My decision block
 
 - Status: Suggested: Shortlist (your call)
-- Suggested risk: match (no numeric cut-off published; CGPA 3.34 is below First Class but likely second class)
+- Suggested risk: match (no numeric cut-off published; CGPA 3.33 is below First Class but likely second class)
 - Pros: 1-year program, joint Math/Stats and CS, 4-year bachelor's accepted, relatively low tuition plus special fee for a 1-year master's, degree level is PGWP-exempt from field-of-study list, two references only.
 - Cons: Fall-only with early deadline (January 15), non-refundable CAD 2,000 deposit, special fee unclear, 3 non-credit propaedeutic courses before start, prerequisites in calculus/statistics/programming, no co-op found, no scholarship details, no part-time info.
 - Admissions contact: [datascience@mun.ca](mailto:datascience@mun.ca) (program, OFFICIAL, Feb 6, 2025); [sgs@mun.ca](mailto:sgs@mun.ca) (School of Graduate Studies, OFFICIAL); apply at [apply.mun.ca](https://apply.mun.ca).
@@ -141,7 +141,7 @@ Last checked: 2026-11-22
 | Verdict | **RISKY** |
 | Why | Needs multivariate calculus or equivalent knowledge. No grade. Second class has no number. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

@@ -42,7 +42,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Background: four-year bachelor's or equivalent (accepted) with second-year core CS knowledge; non-CS applicants may need qualifying courses; CSCI 5990 may be added. Away from academia: recent industry experience needed. [Admission process](https://www.dal.ca/study/program-sites/applied-computer-science/admissions/macs-admission-process-and-application-state.html) OFFICIAL
 - Documents: 2 reference letters (institution or company email, or letterhead), statement of intent, CV, unofficial transcripts for every institution (official copies after offer: Unverified). GRE, portfolio, average admitted GPA: Not found / not published. [Admissions](https://www.dal.ca/study/program-sites/applied-computer-science/admissions.html) OFFICIAL
 - Mandatory online interview (about 30 min; reply within 2 business days). Supervisor: not required. [Interview](https://www.dal.ca/study/program-sites/applied-computer-science/admissions/macs-admission-interview.html) OFFICIAL
-- Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is likely near or above a 3.0 cut-off only if Dal converts BAIUST 3.34/4.0 to about 3.0 or higher on its 4.3 scale; conversion is not published, the CS-technical GPA and degree field are unknown, and the interview decides.
+- Do I meet it? Unclear. CGPA 3.33 (about 66%) is likely near or above a 3.0 cut-off only if Dal converts BAIUST 3.33/4.0 to about 3.0 or higher on its 4.3 scale; conversion is not published, the CS-technical GPA and degree field are unknown, and the interview decides.
 
 ## 4. English
 
@@ -131,7 +131,7 @@ Source: [Courses page](https://www.dal.ca/study/program-sites/applied-computer-s
 | Verdict | **RISKY** |
 | Why | 3.0 in technical courses. Interview. No math grade. Bangladesh conversion not published. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

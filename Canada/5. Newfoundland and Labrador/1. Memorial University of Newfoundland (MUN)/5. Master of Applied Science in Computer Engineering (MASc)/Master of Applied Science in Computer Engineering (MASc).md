@@ -41,7 +41,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - 4-year bachelor's: the page only says "a bachelor's degree"; Unverified whether a 4-year degree is explicitly required.
 - Documents ([SGS how to apply](https://www.mun.ca/become/graduate/apply/), OFFICIAL, updated 2026-11-19): online application, transcripts and degree confirmation, two academic reference letters, CV, English proof if required, self-declared average. GRE: not listed for this program (Unverified). SOP: not listed. Supervisor: none (course-based). Work experience, original vs provisional transcripts: Not found.
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%, below 70%) may or may not count as "second class / B" for a BAIUST degree; MUN publishes no numeric cut-off or Bangladesh conversion. Ask the university before paying the fee.
+Do I meet it? Unclear. CGPA 3.33 (about 66%, below 70%) may or may not count as "second class / B" for a BAIUST degree; MUN publishes no numeric cut-off or Bangladesh conversion. Ask the university before paying the fee.
 
 ## 4. English
 
@@ -109,7 +109,7 @@ Source: [program page](https://www.mun.ca/engineering/graduate/programs/computer
 - Status: Suggested: Maybe (your call)
 - Suggested risk: reach (numeric cut-off unknown, CGPA below 70%, competitive program)
 - Pros: Course-based, about 2 years, no supervisor needed, no field restriction for PGWP, deadline April 1 gives time, English tests widely accepted.
-- Cons: Tuition about CAD 29,948 plus fees (special fee is high), "second class" equivalence unclear for 66.64%, no co-op found, no funding for course-based students found, Fall only.
+- Cons: Tuition about CAD 29,948 plus fees (special fee is high), "second class" equivalence unclear for 66%, no co-op found, no funding for course-based students found, Fall only.
 - Admissions contacts: Program Chair Dr. Thumeera Wanasinghe, [thumeerawa@mun.ca](mailto:thumeerawa@mun.ca) ([program page](https://www.mun.ca/engineering/graduate/programs/computer-engineering/masc/)); Program Officer Nicole Parisi, [nparisi@mun.ca](mailto:nparisi@mun.ca), (709) 864-7831, CSF 3115; Engineering Graduate Office [engrdoffice@mun.ca](mailto:engrdoffice@mun.ca), (709) 864-8901, Room 3118 Core Science Facility, St. John's NL A1B 3X5 ([contact page](https://www.mun.ca/engineering/graduate/contact-us/), 2026-04-22).
 
 ## Conflicts / missing
@@ -188,5 +188,5 @@ Source: https://www.mun.ca/become/graduate/programs/engineering.php (checked 202
 | Verdict | **RISKY** |
 | Why | Second class or B standing. Wants an engineering degree. 65% needed in ENGI 9818 and 9819 after admission. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

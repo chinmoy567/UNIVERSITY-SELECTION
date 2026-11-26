@@ -1,7 +1,7 @@
 # My Profile — Check Eligibility Here
 
 > **Rule for the user, agents and skills:** Read this file before any eligibility check. Use the numbers below. Do not guess.
-> Last updated: 2026-11-25. Update this file when the result or IELTS changes.
+> Last updated: 2026-11-27. Update this file when the result or IELTS changes.
 
 ---
 
@@ -16,7 +16,7 @@
 | Bachelor's | BSc in CSE, BAIUST (Bangladesh Army International University of Science and Technology) |
 | Started | Fall-2022 |
 | Last semester finished | Spring-2026 |
-| **CGPA to use** | **3.34 / 4.00** (see section 3) |
+| **CGPA to use** | **3.33 / 4.00** (see section 3) |
 | Percentage | **About 66%** (below 70%) |
 | Last 2 years | **About 68%** (below 70%) |
 | Class | **Not First Class** (First Class = 3.75+) |
@@ -48,13 +48,13 @@
 | Official portal CGPA now | **3.29** for **148 credits** |
 | Missing course | **6-credit capstone/final project** — not yet added to the portal |
 | Grade in that course | **A+** (told by me, not yet on portal) |
-| **Real CGPA after update** | **3.34 / 4.00** (my figure) |
+| **Real CGPA after update** | **3.33 / 4.00** (my figure) |
 | Total credits after update | About 154 |
 | Source | Portal screenshots in `g:\dump\UG RESULT.pdf` (checked 2026-11-25) |
 
-**Use 3.34 as my CGPA.** Always add this note: "Portal shows 3.29 now. Capstone (6 credits, A+) will be added later."
+**Use 3.33 as my CGPA.** Always add this note: "Portal shows 3.29 now. Capstone (6 credits, A+) will be added later."
 
-> **Confirmed by the student (2026-11-25):** the CGPA is **exactly 3.34** after the 6-credit capstone (A+) is added. Not 3.3x lower, not 3.4x higher. Do not recalculate it. The portal shows 3.29 only because the capstone is not added yet.
+> **Updated by the student (2026-11-27):** the CGPA is **3.33** after the 6-credit capstone (A+) is added. Earlier note said 3.34; that is replaced. Do not recalculate it. The portal shows 3.29 only because the capstone is not added yet.
 
 ### Percentage
 | Item | Value |
@@ -273,7 +273,7 @@ For every program, show these lines:
 
 | Check | How to answer |
 |---|---|
-| Min CGPA / grade | Compare with **3.34/4.00 (~66%)**. Also compare with **last 2 years ~68%**. |
+| Min CGPA / grade | Compare with **3.33/4.00 (~66%)**. Also compare with **last 2 years ~68%**. |
 | Min percentage 70% | **Fail on overall.** Fail on last 2 years too. Flag clearly. |
 | "B average" / "second-class upper" | Maybe. Check the exact conversion on the official page. |
 | IELTS | Compare with my estimate 6.5–7.0. Say "no official score yet". |
@@ -308,7 +308,7 @@ For every program, show these lines:
 
 - [ ] Get capstone (6 credits, A+) added to the portal.
 - [ ] Download the updated official transcript showing the real CGPA.
-- [ ] When the portal updates, check it shows 3.34.
+- [ ] When the portal updates, check it shows 3.33.
 - [ ] Book IELTS early if a chosen program needs an official score at application.
 - [ ] Get BAIUST's official grading scale (marks, letter, grade point). Try the Prospectus 2025 PDF, Bulletin PDFs, or ask the Controller of Examination.
 - [ ] Check each program's math/stats grade rule (B+ risk, see 4C).

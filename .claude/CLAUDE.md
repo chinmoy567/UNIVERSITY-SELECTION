@@ -8,8 +8,8 @@
 | Goal | Master's degree in **Canada** |
 | Subjects | Computer Science (CSC), AI/ML, IT, Software Engineering |
 | Degree type | **Course-based only** (no thesis, no research-based) |
-| CGPA | **3.34 / 4.00** (university scale) |
-| University class | Not First Class (First Class = 3.75+). 3.34 counts as "below 70%" |
+| CGPA | **3.33 / 4.00** (university scale) |
+| University class | Not First Class (First Class = 3.75+). 3.33 counts as "below 70%" |
 | Percentage | About **66%** |
 | Number of programs | Apply to about **2** universities |
 
@@ -23,7 +23,7 @@
 ### Program rules
 - Only course-based, project-based or capstone/internship programs. No thesis route.
 - Skip programs that need a thesis or a research supervisor.
-- Check that a 3.34 CGPA (about 66%) can meet the minimum. Flag programs where it is too low.
+- Check that a 3.33 CGPA (about 66%) can meet the minimum. Flag programs where it is too low.
 
 ---
 
@@ -64,7 +64,7 @@ Each program file should follow this order:
 1. **Quick summary table** (University, Program, City/Province, Degree type, Duration)
 2. **Cost table** (CAD + BDT)
 3. **Admission table** (CGPA needed, IELTS, degree needed, documents, deadlines)
-4. **Can I apply with 3.34 CGPA?** Yes / Maybe / No, and why
+4. **Can I apply with 3.33 CGPA?** Yes / Maybe / No, and why
 5. **Program format** (course-based? project? thesis?)
 6. **Work and immigration** (co-op, PGWP, provincial pathway)
 7. **Sources** (links + date checked)

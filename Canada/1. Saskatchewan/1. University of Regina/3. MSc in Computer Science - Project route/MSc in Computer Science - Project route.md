@@ -44,7 +44,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Supervisor: required for project route (OFFICIAL).
 - GRE: not required. Recommendation letters: confidential, number not stated. Letter of intent, transcripts, WES report for international applicants (OFFICIAL).
 - Work experience, CV, portfolio, original vs provisional certificates, average admitted GPA: Not found / not published.
-- Do I meet it? No. CGPA 3.34 (about 66.64%) is below the 70% overall minimum; CS average unknown (75% needed) and the route may be suspended.
+- Do I meet it? No. CGPA 3.33 (about 66%) is below the 70% overall minimum; CS average unknown (75% needed) and the route may be suspended.
 
 ## 4. English
 
@@ -108,7 +108,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 - Suggested: Rejected (your call) (below 70% minimum and admission possibly suspended)
 - Suggested risk: Reach
 - Pros: 2-year MSc, GRE not required, optional co-op, moderate fees (about 3,881 per 6-credit term).
-- Cons: 66.64% below 70% (and CS 75%), supervisor required, project route listed as suspended, no PhD pathway, deposit and health insurance unclear.
+- Cons: 66% below 70% (and CS 75%), supervisor required, project route listed as suspended, no PhD pathway, deposit and health insurance unclear.
 - Admissions contact: [grad.science@uregina.ca](mailto:grad.science@uregina.ca), [CS@uregina.ca](mailto:CS@uregina.ca), [CSGrad.Coord@uregina.ca](mailto:CSGrad.Coord@uregina.ca) (OFFICIAL)
 
 ## Conflicts / missing
@@ -127,7 +127,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **FAIL** |
 | Why | 70% overall, 75% CS average. Admission suspended from 202810. Needs a supervisor. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

@@ -42,7 +42,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - GRE: not required (OFFICIAL snippet). Documents: Statement of Intent 250-500 words, CV, reference names and emails (number not found), proof of English. Work experience, supervisor (none, course-based), portfolio, transcript type, average admitted GPA: Not found / not published.
 - Admission is competitive; meeting the minimum is no guarantee.
 
-Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the stated 70% minimum; exceptions are not published. Also confirm that your degree has about 12 CS courses. Ask [macs@stfx.ca](mailto:macs@stfx.ca) whether BAIUST 3.34 is converted to a different percentage.
+Do I meet it? No / Unclear. CGPA 3.33 (about 66%) is below the stated 70% minimum; exceptions are not published. Also confirm that your degree has about 12 CS courses. Ask [macs@stfx.ca](mailto:macs@stfx.ca) whether BAIUST 3.33 is converted to a different percentage.
 
 ## 4. English
 
@@ -104,7 +104,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: reach (CGPA about 66.64% is under the 70% minimum)
+- Suggested risk: reach (CGPA about 66% is under the 70% minimum)
 - Pros: 2-year course-based professional master's, co-op option, no GRE, PGWP-eligible degree level, tuition appears modest.
 - Cons: below the 70% minimum, needs CS background (about 12 courses), costs and deadline unconfirmed, small program, StFX site blocks automated checks.
 - Admissions contact: [macs@stfx.ca](mailto:macs@stfx.ca) (OFFICIAL snippet); fees: [studentaccounts@stfx.ca](mailto:studentaccounts@stfx.ca) (snippet).
@@ -127,7 +127,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **NOT VERIFIED** |
 | Why | Official pages blocked. Search summary says 70%. Treat as fail until StFX confirms. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

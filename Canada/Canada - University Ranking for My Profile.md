@@ -2,7 +2,7 @@
 
 Made 2026-11-27. Updated 2026-11-27 (percentage rules added). Profile source: `My Profile - Check Eligibility.md`.
 
-**My numbers:** CGPA 3.34/4.00. **Overall about 66%. Last 2 years about 68%.** Both are below 70%. Last 4 semesters GPA about 3.47 (rising). IELTS: not taken (I expect 6.5 to 7.0). Math is weak (Calculus C+, Linear Algebra C+).
+**My numbers:** CGPA 3.33/4.00. **Overall about 66%. Last 2 years about 68%.** Both are below 70%. Last 4 semesters GPA about 3.47 (rising). IELTS: not taken (I expect 6.5 to 7.0). Math is weak (Calculus C+, Linear Algebra C+).
 
 > **Rank 1 = best match. Rank 21 = worst.**
 
@@ -35,7 +35,7 @@ Then I looked at IELTS (7.0+ is a risk), thesis (skip), and cost.
 | Symbol | Meaning |
 |---|---|
 | ❌ Fail | University publishes a percent above mine |
-| ⚠️ Borderline | Rule is GPA 3.0 (about "B", roughly 70%). My GPA is 3.34 overall and about 3.47 in the last 4 semesters, but a percent conversion of 68% could fall just under B |
+| ⚠️ Borderline | Rule is GPA 3.0 (about "B", roughly 70%). My GPA is 3.33 overall and about 3.47 in the last 4 semesters, but a percent conversion of 68% could fall just under B |
 | ❓ Not published | University gives no number. Email them |
 
 | Rank | University | Program | Check 1: overall rule (me 66%) | Check 2: last-2-years rule (me 68%) | Other blocker | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
@@ -80,7 +80,7 @@ Tiers: **1–4** best (no percent rule, no math rule). **5–12** borderline GPA
 
 ## Before I apply (to-do)
 
-- Email each university: "How is BAIUST 3.34/4.00 converted to your scale and to percent?" (SMU, MUN, UCalgary first).
+- Email each university: "How is BAIUST 3.33/4.00 converted to your scale and to percent?" (SMU, MUN, UCalgary first).
 - Ask StFX only if I want to try the 70% program. The answer decides it.
 - Get the capstone (6 credits, A+) added to the portal. Get the official transcript.
 - Book IELTS early. Aim for 7.0 overall to keep Tier B open.

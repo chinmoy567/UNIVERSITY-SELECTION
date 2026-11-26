@@ -35,13 +35,13 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 
 ## 3. Admission requirements
 
-- Minimum GPA 3.0 (B average; scale and percentage equivalent not stated; Bangladesh conversion not found). [Admissions](https://www.dal.ca/study/program-sites/digital-innovation/admissions.html) (OFFICIAL). Conflict - verify with the university: THIRD-PARTY [CanAm](https://www.canamgroup.com/program/canada/dalhousie-university/master-of-digital-innovation) says 73%, which would be above 66.64%. Prefer the official 3.0.
+- Minimum GPA 3.0 (B average; scale and percentage equivalent not stated; Bangladesh conversion not found). [Admissions](https://www.dal.ca/study/program-sites/digital-innovation/admissions.html) (OFFICIAL). Conflict - verify with the university: THIRD-PARTY [CanAm](https://www.canamgroup.com/program/canada/dalhousie-university/master-of-digital-innovation) says 73%, which would be above 66%. Prefer the official 3.0.
 - Four-year bachelor's required, any discipline; a 4-year bachelor's is accepted (OFFICIAL, same page).
 - Prerequisites: introductory programming recommended, not required (OFFICIAL).
 - Work experience, GRE: not stated. Average admitted GPA: Not found. Meeting the minimum does not guarantee admission.
 - Documents: online FGS application, unofficial transcripts from every institution, CV, statement of intent, proof of English, 2 reference letters ([admissions](https://www.dal.ca/study/program-sites/digital-innovation/admissions.html), OFFICIAL). Official transcripts after admission: Unverified. Portfolio: not required. Supervisor: only for the thesis option.
 
-Do I meet it? Unclear (likely Yes): 3.34 on a 4.0 scale is above 3.0, but the university has not confirmed how BAIUST 3.34 (about 66.64%) converts, and one third party says 73%.
+Do I meet it? Unclear (likely Yes): 3.33 on a 4.0 scale is above 3.0, but the university has not confirmed how BAIUST 3.33 (about 66%) converts, and one third party says 73%.
 
 ## 4. English
 
@@ -135,7 +135,7 @@ Source: [Curriculum](https://dal.ca/study/program-sites/digital-innovation/curri
 | Verdict | **RISKY** |
 | Why | No course rule. 3.0 B average in last 60 credits. Bangladesh conversion not published. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

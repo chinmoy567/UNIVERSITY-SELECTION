@@ -46,7 +46,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [uregina.ca](http://uregina.ca) / [
 - Supervisor: not needed in advance for DS and HCC (admission page).
 - Transcripts: unofficial copies for review; official transcripts or degree certificate needed for a conditional offer (how to apply). Provisional vs original certificate: Not found.
 - Average admitted GPA: Not found / not published.
-- Do I meet it? No / Unclear. CGPA 3.34 (about 66.64%) is below the 70% overall and 75% CS minimums on a simple conversion. The final answer depends on the WES conversion of BAIUST grades, the CS average, and whether the program is open at all. Treat as unlikely unless WES converts higher or the last-two-years 75% exception applies.
+- Do I meet it? No / Unclear. CGPA 3.33 (about 66%) is below the 70% overall and 75% CS minimums on a simple conversion. The final answer depends on the WES conversion of BAIUST grades, the CS average, and whether the program is open at all. Treat as unlikely unless WES converts higher or the last-two-years 75% exception applies.
 
 ## 4. English
 
@@ -122,7 +122,7 @@ DS plan ([DS page](https://uregina.ca/science/computer-science/graduate-programs
 ## 9. My decision block
 
 - Suggested: Maybe (your call) (leaning Rejected unless the program reopens and the WES conversion reaches 70%)
-- Suggested risk: Reach (66.64% is below the 70% minimum and 75% CS average; admission suspended per Calendar)
+- Suggested risk: Reach (66% is below the 70% minimum and 75% CS average; admission suspended per Calendar)
 - Pros: 2-year course-based program with capstone project, optional co-op, no supervisor needed in advance, GRE not required, PGWP-eligible degree level, tuition about 580 per credit.
 - Cons: Admission status conflicting/suspended, GPA below minimum, international surcharge brings cost to about 5,234 per term, DS Fall deadline February 15, grades below B-level auto-rejected, IELTS 6.5.
 - Admissions contact: [grad.science@uregina.ca](mailto:grad.science@uregina.ca); CS administration [CS@uregina.ca](mailto:CS@uregina.ca); Graduate Coordinator Lisa Fan [lisa.fan@uregina.ca](mailto:lisa.fan@uregina.ca) (OFFICIAL, Calendar).
@@ -131,7 +131,7 @@ DS plan ([DS page](https://uregina.ca/science/computer-science/graduate-programs
 
 - Conflict – verify with the university: admission "temporarily suspended" (Calendar, DS program page) versus deadlines and intakes still published (department admission page).
 - Conflict – verify with the university: generic FGSR deadlines versus the department's February 15 / June 15.
-- Likely not meeting minimum: 66.64% versus 70% and 75% CS average; WES conversion unknown.
+- Likely not meeting minimum: 66% versus 70% and 75% CS average; WES conversion unknown.
 - Missing: seat deposit, fee waiver, IELTS band minimums, iBT/Duolingo/PTE, HCC course titles and term plan, 2026-27 tuition schedule, study permit and biometrics fees, health insurance applicability, scholarships, work rules, off-campus living cost, employment rate, DLI check on IRCC list, WES BAIUST conversion, paid co-op.
 
 ---
@@ -144,7 +144,7 @@ DS plan ([DS page](https://uregina.ca/science/computer-science/graduate-programs
 | Verdict | **FAIL** |
 | Why | 70% overall, 75% CS average. Admission temporarily suspended. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

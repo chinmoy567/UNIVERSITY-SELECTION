@@ -42,7 +42,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Prerequisite courses, work experience, portfolio, transcript format, average admitted GPA: Not found / not published. GRE: Unverified (not on program page).
 - References: 3 letters; CV required (program page, OFFICIAL). SOP: not stated. Supervisor: not needed upfront (dept page).
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 60% and 3.0 on the face of it, but 66.64% is not First Class and the conversion to the U of A 4.0 scale is not published; confirm with the department.
+Do I meet it? Unclear. CGPA 3.33 (about 66%) is above 60% and 3.0 on the face of it, but 66% is not First Class and the conversion to the U of A 4.0 scale is not published; confirm with the department.
 
 ## 4. English
 
@@ -110,7 +110,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Suggested: Shortlist (your call)
-- Suggested risk: reach (First Class guideline not met at 66.64%; IELTS 7.0; high tuition)
+- Suggested risk: reach (First Class guideline not met at 66%; IELTS 7.0; high tuition)
 - Pros: Fall-intake course-based MEng, no supervisor needed, many specializations, master's PGWP-eligible, 3.0/60% threshold met on its face.
 - Cons: Tuition about CAD 20-22k plus fees, no co-op found, IELTS 7.0, early deadline (Apr 7 or May 1), conflicting credits and duration, no seat deposit info.
 - Admissions contact: [engg.gradadm@ualberta.ca](mailto:engg.gradadm@ualberta.ca), [ecegadv@ualberta.ca](mailto:ecegadv@ualberta.ca), [eceinfo@ualberta.ca](mailto:eceinfo@ualberta.ca), 780-492-3332 (dept page, OFFICIAL); program page lists [gradinfo@ece.ualberta.ca](mailto:gradinfo@ece.ualberta.ca); central: [grad.admissions@ualberta.ca](mailto:grad.admissions@ualberta.ca).
@@ -134,7 +134,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **RISKY** |
 | Why | Page says 3.0 but program is highly competitive. An FAQ reportedly says 3.7 to 3.8. Degree rule unclear. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

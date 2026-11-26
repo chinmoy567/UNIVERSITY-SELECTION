@@ -43,7 +43,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university or government site; THIR
 - Transcripts: unofficial copies for review, official required later. WES ICAP course-by-course evaluation required for Engineering applicants with international education. Original vs provisional certificate: Not found / not published. (OFFICIAL, same page)
 - Supervisor: not required for MEng (contacting professors is recommended). [Engineering graduate page](https://www.uregina.ca/engineering/graduate-students/Index.html) (OFFICIAL). GRE, work experience, portfolio, average admitted GPA: Not found / not published.
 
-Do I meet it? No on the face of the rule (unclear). CGPA 3.34 is about 66.64%, below the 70% minimum and below First Class. The only route is the exception (last two years at 75% or more), and that is not confirmed for a BAIUST transcript. Confirm the percentage conversion with the university.
+Do I meet it? No on the face of the rule (unclear). CGPA 3.33 is about 66%, below the 70% minimum and below First Class. The only route is the exception (last two years at 75% or more), and that is not confirmed for a BAIUST transcript. Confirm the percentage conversion with the university.
 
 ## 4. English
 
@@ -116,7 +116,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Suggested: Maybe (your call)
-- Suggested risk: reach (CGPA 3.34 is about 66.64%, below the 70% minimum; admission relies on the last-two-years 75% exception)
+- Suggested risk: reach (CGPA 3.33 is about 66%, below the 70% minimum; admission relies on the last-two-years 75% exception)
 - Pros: Course-based project route with no supervisor needed; 4-year bachelor's accepted; master's PGWP exempt from field-of-study list; PhD pathway; no GRE listed.
 - Cons: Below the 70% minimum; project route has no co-op; about 27,000 CAD tuition and fees plus about 23,448 CAD living funds; early Fall deadline (Jan 31); WES ICAP evaluation needed; MEng aimed at practising engineers.
 - Admissions contact: [engg.grad@uregina.ca](mailto:engg.grad@uregina.ca); Graduate Program Coordinator Craig Gelowitz; Associate Dean Raman Paranjape ([Raman.Paranjape@uregina.ca](mailto:Raman.Paranjape@uregina.ca)). [Calendar](https://uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html) (OFFICIAL)
@@ -137,7 +137,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **FAIL** |
 | Why | 70% graduating average. Exception only if last two years are 75%+. No math course rule. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

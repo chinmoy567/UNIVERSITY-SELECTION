@@ -43,7 +43,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Technical interview (programming, web development, databases; GenAI tools permitted), part of the process (program page).
 - Transcripts: unofficial accepted at application with grading scale; original/provisional rule: Not found. Average admitted GPA: Not found.
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%) is above 3.0/4.3 only if the BAIUST scale converts that way, but it is below the roughly 70% third-party figure, and the official GPA minimum for Bangladesh is not published. The degree field (computing) must also match.
+Do I meet it? Unclear. CGPA 3.33 (about 66%) is above 3.0/4.3 only if the BAIUST scale converts that way, but it is below the roughly 70% third-party figure, and the official GPA minimum for Bangladesh is not published. The degree field (computing) must also match.
 
 ## 4. English
 
@@ -111,9 +111,9 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Suggested: Maybe (your call)
-- Suggested risk: reach (Bangladesh GPA minimum unpublished, third-party figure about 70% is above 66.64%, technical interview required)
+- Suggested risk: reach (Bangladesh GPA minimum unpublished, third-party figure about 70% is above 66%, technical interview required)
 - Pros: paid internship included, 16-month program, 4-year bachelor's accepted, PGWP-eligible, one September 2027 cohort with a late deadline (2027-05-01), IELTS 6.5 only.
-- Cons: about 41,000 to 43,400 CAD total, 5,000 non-refundable deposit, CGPA 66.64% may be below the real cutoff, technical interview, total credits and course list unverified.
+- Cons: about 41,000 to 43,400 CAD total, 5,000 non-refundable deposit, CGPA 66% may be below the real cutoff, technical interview, total credits and course list unverified.
 - Admissions contact: [msc.cda@smu.ca](mailto:msc.cda@smu.ca); general [info@smu.ca](mailto:info@smu.ca), 902-420-5400; Service Centre [service.centre@smu.ca](mailto:service.centre@smu.ca), 902-420-5582 ([program page](https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html), OFFICIAL).
 
 ## Conflicts / missing
@@ -135,7 +135,7 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Verdict | **NOT STATED** |
 | Why | No GPA or course grade published. Technical interview. Ask msc.cda@smu.ca. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

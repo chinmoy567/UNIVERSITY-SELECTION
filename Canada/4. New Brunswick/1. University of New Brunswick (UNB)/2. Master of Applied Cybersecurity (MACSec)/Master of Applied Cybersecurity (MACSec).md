@@ -44,7 +44,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Documents: official transcripts and degree confirmation, 3 reference letters (at least 2 academic), CV, application form ([OFFICIAL](https://www.unb.ca/gradstudies/programs/computer-science.html), via summarizing fetch). SOP, portfolio: not mentioned. Supervisor: not needed for MACSec. Original vs provisional certificates: Not found.
 - Conflict – verify with the university: the MACSec requirements page does not itself require references (only mentions them as evidence); the CS grad page lists 3.
 
-Do I meet it? Unclear. CGPA 3.34 (about 66.64%) has no published conversion to UNB's B, and the CS-related degree and prerequisite courses must be confirmed.
+Do I meet it? Unclear. CGPA 3.33 (about 66%) has no published conversion to UNB's B, and the CS-related degree and prerequisite courses must be confirmed.
 
 ## 4. English
 
@@ -110,7 +110,7 @@ Source: [program page](https://www.unb.ca/fredericton/cs/grad/masters/macsec/ind
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: reach (no published conversion for 66.64%; competitive; prerequisites strict)
+- Suggested risk: reach (no published conversion for 66%; competitive; prerequisites strict)
 - Pros: 1-year course-based master's, cybersecurity focus with CIC, GRE not required, PGWP-eligible degree level, flat transparent fees.
 - Cons: about 30,740 CAD tuition and fees in one year, IELTS 7 is high, no co-op, Fall only, strict prerequisite courses, credits not published, CGPA conversion unclear.
 - Admissions contact: [cic@unb.ca](mailto:cic@unb.ca), [csgrad@unb.ca](mailto:csgrad@unb.ca) (program page, OFFICIAL). Dr. Patricia Evans, Director of Graduate Studies, [graduate-csasstdean@unb.ca](mailto:graduate-csasstdean@unb.ca), +1-506-453-4566 ([OFFICIAL](https://www.unb.ca/gradstudies/programs/computer-science.html)).
@@ -134,7 +134,7 @@ Last checked: 2026-11-22
 | Verdict | **RISKY, leaning FAIL** |
 | Why | Same as MCSC. Strict background list (OS, architecture, algorithms). |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---
@@ -188,7 +188,7 @@ Source: https://www.unb.ca/academics/calendar/graduate/current/courses-/frederic
 ### Admission requirements (MCS coursework and MACSec)
 - An undergraduate degree in computer science or a related field such as engineering or science.
 - A minimum GPA of B for the MCS by coursework and MACSec programs. MCS by thesis or report normally requires B+.
-- If the degree has a class classification, a first-class or second-class upper degree is required. How UNB maps Bangladesh classes and CGPA 3.34: Not verified.
+- If the degree has a class classification, a first-class or second-class upper degree is required. How UNB maps Bangladesh classes and CGPA 3.33: Not verified.
 - A formal background in software engineering, data structures, operating systems, algorithms, and computer architecture or machine-level programming. Professional experience does not count toward minimum requirements.
 - English proficiency is required for international applicants whose mother tongue is not English; it will not be waived and the final Certificate of Acceptance is not issued until it is met.
 - GRE not required; may be requested for applicants with non-Canadian backgrounds that are hard to assess (suggested 600 Quantitative and 3.5 Analytical Writing), sent directly by the testing agency.

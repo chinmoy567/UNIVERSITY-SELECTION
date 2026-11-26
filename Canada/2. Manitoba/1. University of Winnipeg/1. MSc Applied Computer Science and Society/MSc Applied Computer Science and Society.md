@@ -45,7 +45,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Supervisor: thesis route needs a supervisor selection before admission (Calendar PDF, OFFICIAL). Course route: none stated.
 - Documents (program page, OFFICIAL, 2026-11-24): transcripts from ALL post-secondary institutions (unofficial copies fine for first review, official only if recommended), contact details of **two** referees, English test result if needed, statement of interest and/or research proposal. Other: CV, name change papers. Course route needs no faculty contact. Earlier snippet also listed: plan of study. [Admission procedures](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-admission.pdf) (PDF not readable by tools). Number of references, GRE, work experience, portfolio, original vs provisional transcripts, average admitted GPA: Not found / not published.
 
-Do I meet it? Yes (likely). CGPA 3.34 (about 66.64%) is above 3.0 and above 60/100, but the scale and the computing-course GPA must be confirmed, and the 4-year degree must be in a related field. Unclear on field match and supervisor.
+Do I meet it? Yes (likely). CGPA 3.33 (about 66%) is above 3.0 and above 60/100, but the scale and the computing-course GPA must be confirmed, and the 4-year degree must be in a related field. Unclear on field match and supervisor.
 
 ## 4. English
 
@@ -112,8 +112,8 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 ## 9. My decision block
 
 - Suggested: Shortlist (your call)
-- Suggested risk: Match (CGPA 3.34 above the 3.0 minimum; thesis route needs a supervisor)
-- Pros: 2-year MSc, 4-year bachelor's accepted, Bangladesh 60/100 threshold below 66.64%, thesis and course routes, PGWP-eligible degree level, relatively low flat tuition.
+- Suggested risk: Match (CGPA 3.33 above the 3.0 minimum; thesis route needs a supervisor)
+- Pros: 2-year MSc, 4-year bachelor's accepted, Bangladesh 60/100 threshold below 66%, thesis and course routes, PGWP-eligible degree level, relatively low flat tuition.
 - Cons: Tuition and many fees not confirmed for 2026-27, no co-op found, early deadline (Feb 1 for September), IELTS 6.5 needed, 3.0/4.5 versus 3.0/4.0 ambiguity.
 - Admissions contact: [graduateadmissions@uwinnipeg.ca](mailto:graduateadmissions@uwinnipeg.ca), 204.786.9309 (from search result, Unverified). Program page (2026-11-24) lists Graduate Chair **Dr. Qian Liu**, q.liu@uwinnipeg.ca, 204.786.9712 (the Calendar named S. Ramanna earlier), and Graduate Studies Admissions Office 204.786.9309. International Student Services: [iss@uwinnipeg.ca](mailto:iss@uwinnipeg.ca), 204.982.1703.
 
@@ -214,5 +214,5 @@ Not verified: scholarships and funding, co-op, FAQ, numbers of references, per-c
 | Verdict | **RISKY** |
 | Why | Rule: 3.0 in all computing, math and statistics courses (pooled). Your math-only average is 2.75 to 2.92. Depends on computing grades and on Bangladesh conversion. Not calculated. Ask graduateadmissions@uwinnipeg.ca. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |

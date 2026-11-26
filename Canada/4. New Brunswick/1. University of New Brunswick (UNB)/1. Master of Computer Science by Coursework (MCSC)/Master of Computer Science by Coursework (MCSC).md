@@ -45,7 +45,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Documents: official transcripts and degree confirmation, 3 letters of recommendation (at least 2 academic), CV, online application at [apply.unb.ca](http://apply.unb.ca) ([program page](https://www.unb.ca/gradstudies/programs/computer-science.html), OFFICIAL). Note: the CS page does not give a number of references (minor mismatch; use 3). SOP and portfolio: not listed. Supervisor: not required for MCSC (only MCS/PhD). Original vs provisional certificates: Not found.
 - Average admitted GPA: Not found / not published.
 
-Do I meet it? Unclear, leaning No. CGPA 3.34 on the BAIUST scale is about 66.64%, below 70% and not First Class. UNB states B or B+ (conflict), and first or upper-second class where classes exist; how UNB converts a Bangladesh CGPA is not published. Ask the department for the conversion and whether a 4-year degree plus 3.34 is competitive.
+Do I meet it? Unclear, leaning No. CGPA 3.33 on the BAIUST scale is about 66%, below 70% and not First Class. UNB states B or B+ (conflict), and first or upper-second class where classes exist; how UNB converts a Bangladesh CGPA is not published. Ask the department for the conversion and whether a 4-year degree plus 3.33 is competitive.
 
 ## 4. English
 
@@ -125,7 +125,7 @@ Source: [CS grad admission requirements](https://www.unb.ca/fredericton/cs/grad/
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: reach (CGPA 3.34, about 66.64%, below B+/upper-second expectation)
+- Suggested risk: reach (CGPA 3.33, about 66%, below B+/upper-second expectation)
 - Pros: course-based with no thesis or supervisor needed, no GRE, optional co-op, master's PGWP exemption from field-of-study list, May 31 deadline for January intake.
 - Cons: GPA conflict (B vs B+), conversion of Bangladesh CGPA not published, IELTS 7.0 is high, no waiver for tests, 4-year bachelor's not stated, cost about CAD 19,000+ tuition and fees before living costs, no scholarships found.
 - Admissions contact: Dr. Patricia Evans, Director of Graduate Studies, [graduate-csasstdean@unb.ca](mailto:graduate-csasstdean@unb.ca), +1-506-453-4566, ITC Room 315 ([program page](https://www.unb.ca/gradstudies/programs/computer-science.html), OFFICIAL).
@@ -147,7 +147,7 @@ Source: [CS grad admission requirements](https://www.unb.ca/fredericton/cs/grad/
 | Verdict | **RISKY, leaning FAIL** |
 | Why | B (CS page) vs B+ (Grad Studies page). First or upper-second class if classed. No math rule. Conversion not published. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

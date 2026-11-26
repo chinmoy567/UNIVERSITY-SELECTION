@@ -38,14 +38,14 @@ Last checked: 2026-11-22. Labels: OFFICIAL = university/government site; THIRD-P
 
 - Minimum: bachelor's with major in Computer Science or Computer Engineering and 75% overall average and/or Upper Second Class; Head of Department may waive when circumstances warrant ([Calendar 32.9](https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/32/9/), OFFICIAL; same on [program overview](https://www.mun.ca/become/graduate/programs-and-courses/computer-science/), OFFICIAL, Oct 27, 2026).
 - Conflict – verify with the university: course-route page says CS or related background (Computer Engineering, IT, other computing science) while the calendar says major in CS or Computer Engineering.
-- Canadian equivalent: percentage (75%). BAIUST 3.34/4.0 conversion Not published; dept refers to the WES guide ([FAQ](https://mun.ca/computerscience/graduate-students/application-process-frequently-asked-questions), OFFICIAL, updated 2022, old).
+- Canadian equivalent: percentage (75%). BAIUST 3.33/4.0 conversion Not published; dept refers to the WES guide ([FAQ](https://mun.ca/computerscience/graduate-students/application-process-frequently-asked-questions), OFFICIAL, updated 2022, old).
 - 4-year bachelor's: bachelor's required; "4-year" wording Not found.
 - GRE: calendar says international applicants "strongly encouraged"; FAQ says highly recommended, not required (OFFICIAL).
 - References: 2 letters of appraisal; referees not family, friends or students ([apply page](https://www.mun.ca/become/graduate/apply-to-memorial/), OFFICIAL, Nov 19, 2026). Transcripts uploaded after applying; original vs provisional Not found.
 - SOP, CV, portfolio, work experience, prerequisite courses, supervisor (none for course route), average admitted GPA: Not found / not published.
 - Funding: none for course-route students ([program page](https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/), OFFICIAL).
 
-**Do I meet it? No** on the published 75% minimum (CGPA 3.34 is about 66.64%). Unclear only if the Head of Department waives it or a WES-style conversion lifts the grade; also the degree must be in CS/Computer Engineering. Unclear on field match.
+**Do I meet it? No** on the published 75% minimum (CGPA 3.33 is about 66%). Unclear only if the Head of Department waives it or a WES-style conversion lifts the grade; also the degree must be in CS/Computer Engineering. Unclear on field match.
 
 ## 4. English
 
@@ -123,7 +123,7 @@ Winter start swaps the order. The page also shows a 5th term (2 COMP + 1 electiv
 - Status: Suggested: Rejected unless the 75% rule can be waived (your call)
 - Suggested risk: reach
 - Pros: course-based with a paid co-op option, 16 months, no GRE required, flat CAD 15,600 tuition, St. John's lower cost of living, PGWP-eligible degree level.
-- Cons: 66.64% is below the 75% minimum, CS/CE degree needed, no funding, possible 6,000 admin fee, 65% rule per course, English tier unclear.
+- Cons: 66% is below the 75% minimum, CS/CE degree needed, no funding, possible 6,000 admin fee, 65% rule per course, English tier unclear.
 - Admissions contact: School of Graduate Studies [gradapply@mun.ca](mailto:gradapply@mun.ca) ([apply page](https://www.mun.ca/become/graduate/apply-to-memorial/), OFFICIAL); department [cs-gradapply@mun.ca](mailto:cs-gradapply@mun.ca) (Unverified, from search result); [request info](https://www.mun.ca/become/graduate/contact/knowmore.php).
 
 ## Conflicts / missing
@@ -143,7 +143,7 @@ Winter start swaps the order. The page also shows a 5th term (2 COMP + 1 electiv
 | Verdict | **FAIL** |
 | Why | 75% overall average. Only the department head can waive it. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

@@ -48,7 +48,7 @@ Last checked: 2026-11-22. Note: [cs.acadiau.ca](http://cs.acadiau.ca) and [www2.
 - GRE: "may be required" generally, CS not stated: Not found. Work experience, portfolio, average admitted GPA: Not found / not published.
 - Process: rolling review; may close when capacity is reached; funding is limited ([Guide](https://cs.acadiau.ca/grad_guide.html), OFFICIAL).
 
-Do I meet it? Unclear, leaning No. CGPA 3.34 (about 66.64%) is below the 70% / B- bar for the required CS and Math prerequisite courses if the BAIUST percentage maps directly; the 4.0-scale conversion of 3.34 is not published, and course-level grades (not CGPA) decide it. Also needs a CS-equivalent degree and all nine prerequisites.
+Do I meet it? Unclear, leaning No. CGPA 3.33 (about 66%) is below the 70% / B- bar for the required CS and Math prerequisite courses if the BAIUST percentage maps directly; the 4.0-scale conversion of 3.33 is not published, and course-level grades (not CGPA) decide it. Also needs a CS-equivalent degree and all nine prerequisites.
 
 ## 4. English
 
@@ -125,7 +125,7 @@ Source: [CS graduate page](https://cs.acadiau.ca/graduate.html), OFFICIAL (offer
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: reach (CGPA 66.64% is under the 70% / B- prerequisite-course bar; prerequisites and CS degree must match)
+- Suggested risk: reach (CGPA 66% is under the 70% / B- prerequisite-course bar; prerequisites and CS degree must match)
 - Pros: 16-month course route, co-op option, PGWP-eligible degree level, small program in Nova Scotia, rolling review, up to 2 missing prerequisites may be waived with a supervisor.
 - Cons: 70% required in nine prerequisite courses, CS-equivalent degree needed, English minimums rose in 2026 (IELTS 7.0), international per-course tuition may be high, funding limited, official fee pages unreadable, no published CS deadline.
 - Admissions contact: [gradadmissions@acadiau.ca](mailto:gradadmissions@acadiau.ca) (OFFICIAL, via FAQ/guide). CS Graduate Coordinator: Dr. Esteve Hassan, [esteve.hassan@acadiau.ca](mailto:esteve.hassan@acadiau.ca) ([FAQ](https://cs.acadiau.ca/graduate-faq.html), OFFICIAL).
@@ -136,7 +136,7 @@ Source: [CS graduate page](https://cs.acadiau.ca/graduate.html), OFFICIAL (offer
 - Conflict – verify with the university: per-course tuition 3,286.14 vs 1,420.26; which fee row applies to MSc CS.
 - Conflict – verify with the university: deadlines (rolling / Feb 1 funding vs third-party Dec 15, Jun 15).
 - Conflict – verify with the university: duration (16 months course / 2 years project vs 12-16 months snippet vs 24 months third-party).
-- Missing: seat deposit, CS fixed deadline, GRE, Canadian equivalent of 3.34, original vs provisional transcripts, IRCC DLI list check, Wolfville living cost, total program cost, employment rate, CS intake list.
+- Missing: seat deposit, CS fixed deadline, GRE, Canadian equivalent of 3.33, original vs provisional transcripts, IRCC DLI list check, Wolfville living cost, total program cost, employment rate, CS intake list.
 - Unverified: all fee figures (fee pages refused connections), Departmental Information form.
 
 
@@ -150,7 +150,7 @@ Source: [CS graduate page](https://cs.acadiau.ca/graduate.html), OFFICIAL (offer
 | Verdict | **FAIL (strict reading)** |
 | Why | Guide: all listed courses incl. MATH 1013 at B- (70%) or better. Your Calculus I is C+. FAQ says average. Pages conflict. Supervisor question open. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

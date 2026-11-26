@@ -42,7 +42,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Exception: applicants who do not meet the criteria may be considered on GMAT and/or professional experience (CV) (same page, OFFICIAL).
 - GRE, references, SOP, portfolio, supervisor, transcript type, average admitted GPA: Not found / not published. Work experience is not required on the page.
 
-Do I meet it? No on the stated minimum (CGPA 3.34 on the BAIUST scale is about 66.64%, below 73-76%); possible only through the GMAT/professional-experience exception. Statistics course at 70%+ and degree field: Unclear.
+Do I meet it? No on the stated minimum (CGPA 3.33 on the BAIUST scale is about 66%, below 73-76%); possible only through the GMAT/professional-experience exception. Statistics course at 70%+ and degree field: Unclear.
 
 ## 4. English
 
@@ -113,7 +113,7 @@ Core (9 x 3 = 27 credits): MGSC-6251 Data Management and Modeling; MGSC-6263 Adv
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Risk: Suggested risk: reach (CGPA about 66.64% is under the 73-76% minimum; needs the GMAT/experience exception)
+- Risk: Suggested risk: reach (CGPA about 66% is under the 73-76% minimum; needs the GMAT/experience exception)
 - Pros: 16-month program, 4-year bachelor's accepted, internship or project option, master's PGWP rule, 100 CAD application fee, AI and analytics focus.
 - Cons: stated minimum 73-76% not met, statistics course at 70%+ needed, about 35,200 CAD total tuition and fees, deposit and insurance amounts unpublished, no co-op or scholarship found.
 - Admissions contact: [ssobgradstudies@cbu.ca](mailto:ssobgradstudies@cbu.ca) ([program page](https://www.cbu.ca/academics/programs/master-of-artificial-intelligence-and-business-analytics/), OFFICIAL); apply at [cbu.ca/apply](http://cbu.ca/apply).
@@ -134,7 +134,7 @@ Core (9 x 3 = 27 credits): MGSC-6251 Data Management and Modeling; MGSC-6263 Adv
 | Verdict | **RISKY** |
 | Why | Statistics 70% (program page) or 65% (Bangladesh page). Overall 3.0 (73-76%) in final 60 credits. Depends on conversion. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
+| CGPA used | CGPA 3.33 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
 
 ---

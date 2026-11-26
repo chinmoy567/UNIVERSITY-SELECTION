@@ -43,7 +43,7 @@ All money is in CAD. Official links are in the full details below. "Not found" m
 - Documents: unofficial transcripts (one PDF per institution) uploaded after applying; provisional and degree certificates where available; official transcripts sent directly by the institution only after an offer ([FGS apply page](https://grad.ucalgary.ca/future-students/apply), OFFICIAL).
 - Average admitted GPA: Not found / not published.
 
-Do I meet it? Unclear (leaning Yes if the degree is engineering). CGPA 3.34 on the BAIUST scale (about 66.64%) is not converted by UCalgary on any page I found; the 3.0/4.0 minimum is applied to the Canadian-equivalent GPA of the last two years. The degree must be in engineering.
+Do I meet it? Unclear (leaning Yes if the degree is engineering). CGPA 3.33 on the BAIUST scale (about 66%) is not converted by UCalgary on any page I found; the 3.0/4.0 minimum is applied to the Canadian-equivalent GPA of the last two years. The degree must be in engineering.
 
 ## 4. English
 
@@ -111,7 +111,7 @@ Source: [grad page](https://grad.ucalgary.ca/future-students/explore-programs/el
 ## 9. My decision block
 
 - Status: Suggested: Maybe (your call)
-- Suggested risk: match (3.0/4.0 conversion of 66.64% not confirmed; degree must be engineering)
+- Suggested risk: match (3.0/4.0 conversion of 66% not confirmed; degree must be engineering)
 - Pros: course-based, no GRE, no references or supervisor listed, optional paid internship, PGWP-eligible degree level, 8-12 month fast options.
 - Cons: tuition about 41,500 to 53,900 CAD plus fees, self-funded, no seat deposit or work rules published, unclear intake dates, English waiver unknown, accelerated path may affect PGWP length.
 - Admissions contact: [meng@ucalgary.ca](mailto:meng@ucalgary.ca), 403-220-2001, ENC 205, 2500 University Drive NW, Calgary AB T2N 1N4 ([grad page](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course), OFFICIAL)
@@ -138,7 +138,7 @@ Source: [grad page](https://grad.ucalgary.ca/future-students/explore-programs/el
 | Foundation courses | 3 courses (9 units) for those with no software engineering background. Exemption for a Software Engineering degree "or equivalent". My CSE has Software Engineering and Design Patterns (A+). |
 | Deadline | Grad page lists International **Dec 1** for May 1 intake (non software background) and **Apr 1** for Sep 1 intake (software background). Year not stated. Dec 1 is close. Ask which applies to me. |
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
-| CGPA used | 3.34 (portal shows 3.29 until the 6-credit A+ capstone is added) |
+| CGPA used | 3.33 (portal shows 3.29 until the 6-credit A+ capstone is added) |
 | Cost | 41,487 to 53,933 CAD (about BDT 3.68M to 4.78M) |
 | Next step | Email meng@ucalgary.ca: "I hold a 4-year BSc in CSE from BAIUST. Is it accepted as engineering or equivalent? Which intake and deadline apply? Is the foundation semester needed?" |
 
