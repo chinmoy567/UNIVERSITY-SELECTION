@@ -139,3 +139,107 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check (2026-11-27): the MEng (project) is course-based. The calendar says: "The MEng is effectively a course-based program of which the project is a required course." No thesis and no research supervisor needed (a project supervisor is assigned). The MASc (thesis) and PhD routes need a supervisor and are skipped here. Wording below is copied from the 2026-2027 Graduate Calendar. Money rate used: 1 CAD = 90.3 BDT (Wise mid-market, about 90.35 seen 2026-11-27; other providers show 86 to 89, so BDT is approximate).
+
+### Program description (official)
+Source: https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html (checked 2026-11-27)
+
+Associate Dean, Graduate Studies and Research: Raman Paranjape, PhD. Graduate Program Coordinator: Craig Gelowitz, PhD. For more information about Graduate programs, contact engg.grad@uregina.ca.
+
+"Software Systems Engineering's objective is to train students to study, analyze, design and develop different software systems including web-based software systems, transaction-based systems, interactive multimedia systems, and management information systems, and to become knowledgeable in the process and life-cycle aspects of software development. The program also aims to teach students to apply computational theories to real-life programming techniques; analyze requirements; design, implement and test software systems; plan and manage software projects; solve technical problems; practice co-design and embedded systems construction."
+
+### Admissions (official calendar wording)
+Source: https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html (checked 2026-11-27)
+
+"In accordance with the general admission policy, students who may not have a complete background in the program area as determined by SSE may be admitted conditionally as qualifying students, and may be asked to complete additional graduate courses to qualify for the program. In some cases, students may also be assigned additional undergraduate courses to be taken as non-degree undergraduate students before being admitted as graduate students. Qualifying students are expected to become fully qualified students within their first year of studies."
+
+"Students may transfer from the MEng/SSE to the MASc/SSE degree. Transfer to the MASc program must be approved by SSE. Students are expected to satisfactorily complete at least two ENSE graduate-level courses and any additional requirements as determined by SSE before they are eligible to transfer to the MASc program."
+
+(PhD and MASc admission rules are skipped: thesis routes.)
+
+### Supervision (official)
+"The MEng is effectively a course-based program of which the project is a required course. MEng students will normally be assigned a project supervisor just prior to starting their project or during the first semester of the MEng project course."
+
+"Qualifying students must normally complete all qualifying courses within one year of beginning course work at the University of Regina. ... SSE will recommend that a student be required to discontinue if they are not performing satisfactorily in course or research work."
+
+### Degree requirements: MEng in Software Systems Engineering (project)
+Source: https://www.uregina.ca/graduate-studies-research/assets/docs/fgsr-docs/2026-2027-graduate-calendar.pdf, pages 93 to 95 (checked 2026-11-27)
+
+"The Master of Engineering degree program with a project report attracts practicing engineers. It complements the Graduate Cooperative Education Program, which seeks to integrate the academic experience with professional, on-the-job experience to facilitate professional development. This degree is particularly indicated for professional development."
+
+| Credit hours | Requirement |
+| --- | --- |
+| 3.0 | ENSE 8xx |
+| 3.0 | ENSE 8xx |
+| 3.0 | ENSE 3xx to 8xx* |
+| 3.0 | ENSE 3xx to 8xx* |
+| 3.0 | ENxx 8xx |
+| 3.0 | ENxx or related discipline 3xx to 8xx* |
+| 3.0 | ENxx or related discipline 3xx to 8xx* |
+| 1.0 | ENGG 701 |
+| 1.0 | ENGG 702 |
+| 1.0 | ENGG 703 |
+| 6.0 | ENSE 902 (over 2 semesters at 3 credit hours each) |
+| **30.0** | **Total** |
+
+*Only two courses may be at the Undergraduate level (3xx-4xx).
+
+Note: the PDF text layout is misaligned, so credits are paired with courses as laid out in the calendar. Both the program page and calendar give 30 credits (7 x 3 + 3 x 1 + 6).
+
+Co-op version (separate route, not the project option): adds ENGG 600, ENGG 601, ENGG 602. The program page says 38 credit hours and 2 years 8 months; the calendar PDF total reads 30.0. These two official pages differ; the calendar is the more official rule, but which is right is Not verified.
+
+Course titles and descriptions: the calendar gives only course patterns (ENSE 8xx etc.). Named course titles, full descriptions and a per-term plan for ENGG 701/702/703, ENSE 902 and the ENSE 8xx list are Not verified (the old catalogue PDF link returned HTTP 404 on 2026-11-27).
+
+### Embedded certificate (official)
+The "Master's Certificate (MCert) in Artificial Intelligence in Engineering" may be embedded in the MEng (project and co-op route). Requirements (9 credits): choose 1 of ENSE 811, ENSE 812, ENSE 817 or ENGG 817, ENSE 818, ENSE 873; choose 2 of ENSE 811, 812, 817 or ENGG 817, 818, 873, 805, 819, 828, 834, 865 or ENEL 865, 870, 871, 874, 883. Admission is suspended for one year, effective 202630.
+
+### Program page (official)
+Source: https://uregina.ca/academics/programs/engineering/masters-phd-software-systems-engineering.html (checked 2026-11-27)
+
+| Route | Credit hours | Duration |
+| --- | --- | --- |
+| MEng, Project (this file) | 30 | 2 years |
+| MEng, Co-op | 38 | 2 years, 8 months |
+
+- The page says the MEng Project is aimed at practising engineers.
+- Emphasis: applied research, industry partnerships, a systems approach to the whole development process. Popular course areas: networking, full-stack development, Internet of Things, people-centred design, artificial intelligence.
+- Careers: software systems engineer, test engineer, engineering manager. Employers listed: SaskPower, SaskTel, Suncor Energy, Stantec, Canada Post, several Government of Saskatchewan ministries.
+- Funding listed: Edgar A. Wahn Scholarship; Esam Hussein Engineering and Applied Science Graduate Scholarship for Excellence; J.D. Mollard Graduate Award; Faculty Sponsorship; GSB Funding; Harald Liebe Graduate Scholarship in Petroleum Engineering; IEA Greenhouse Gas R&D Programme Climate Change Graduate Travel Scholarship; National Scholarships (Tri-Council); PTRC 10th Anniversary Graduate Student Scholarship; Regina Engineering Society Scholarship; Sampson J. Goodfellow Scholarship; Saskatchewan Innovation and Excellence Graduate Scholarship; SaskPower Graduate Scholarship; STEM Women Scholarship; Miklos F. Barabas P.Eng. Graduate Scholarship; Thesis Student Scholarships (thesis only). Graduate teaching assistantships are mentioned. Amounts: Not verified.
+- The page lists no admission requirements and no named contact.
+
+### How to apply, deadlines, documents
+Source: https://www.uregina.ca/graduate-studies-research/future-students/how-to-apply.html (checked 2026-11-27)
+
+- Portal opens the year before the start: Winter first week of February, Spring/Summer first week of April, Fall first week of August.
+- Engineering and Applied Science deadlines: **January 31 (Fall); July 31 (Winter)**. Late applications are not accepted. The year is not stated.
+- Review: FGSR about 1 to 2 weeks, faculty up to 45 days, Dean 3 to 7 days.
+- Application fee: CAD 125 (≈ BDT 11,288), non-refundable, paid online by MasterCard, VISA or American Express (no prepaid or debit cards). One application and fee per program.
+- Documents: online application; unofficial transcripts for review, official transcripts from all institutions later; WES ICAP course-by-course evaluation (strongly recommended for all international credentials); resume; Letter of Intent; letters of recommendation; official test scores; program Supplementary Materials. Do not send unrequested documents.
+- References: at least two official letters from academics or employers; not family, friends, educational consultants or current graduate students; give an institutional email for each referee.
+
+### Fees (international)
+Source: https://www.uregina.ca/financial-services/assets/202710-grad-studies-tuition-schedule-oct-16.pdf (see Section 5 above; not re-read in this pass)
+
+Per full-time term (6 credits), international: CAD 5,387 (≈ BDT 486,446). Estimated total, 30 credits over about 5 terms: CAD 26,935 (≈ BDT 2,432,231), excluding health plan. Tuition per year: Not verified (see the conflict note in Section 5).
+
+### Contact
+engg.grad@uregina.ca. Graduate Program Coordinator: Craig Gelowitz, PhD. Associate Dean: Raman Paranjape, PhD.
+
+### Not verified in this pass
+Course titles and descriptions; term-by-term plan; English score table, PGWP and living cost pages were not re-read (existing content kept); FAQ.
+
+## Sources
+
+| Source | Checked |
+| --- | --- |
+| https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/engg-sse.html | 2026-11-27 |
+| https://www.uregina.ca/graduate-studies-research/assets/docs/fgsr-docs/2026-2027-graduate-calendar.pdf | 2026-11-27 |
+| https://uregina.ca/academics/programs/engineering/masters-phd-software-systems-engineering.html | 2026-11-27 |
+| https://www.uregina.ca/graduate-studies-research/future-students/how-to-apply.html | 2026-11-27 |
+| https://www.uregina.ca/financial-services/assets/202710-grad-studies-tuition-schedule-oct-16.pdf | 2026-11-22 |
+| https://www.wise.com/us/currency-converter/cad-to-bdt-rate (rate) | 2026-11-27 |
