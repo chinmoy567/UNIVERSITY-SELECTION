@@ -129,3 +129,85 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check (2026-11-27): the project route is NOT a thesis degree (9 credits CS 902 project research, project report and defence). The thesis route exists separately and is skipped here. WARNING: the graduate calendar lists admission to the project route as suspended (effective 202810).
+
+Exchange rate used: 1 CAD = about 88.69 BDT (Wise mid-market, undated cached page, checked 2026-11-27; other pages show 86 to 90). All BDT values are approximate.
+
+### Program structure (official wording, tidied)
+
+Source: https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/computer-science.html (checked 2026-11-27)
+
+| Item | Official content |
+| --- | --- |
+| Admission status | MSc project route: suspended, effective 202810. MSc course route: suspended effective 202130. MSc thesis route and PhD: no suspension listed. |
+| Total | 30 credits |
+| Coursework | 21 credits (seven 3-credit courses) |
+| Project research | 9 credits: CS 902 (or CS 901 for students transferring from another route) |
+| Seminars | Two non-credit CS 900 seminar presentations |
+| Final | Project report, presentation and defence |
+| Level rule | Four CS 800-level courses; at most two 700-level courses; others 800-level; not directed study or selected topics reading class |
+
+Pre-approved non-CS courses: ENEL 489, 492, 495, 811, 812, 813, 850, 857; ENSE 483, 882, 885AJ; MATH 809, 827, 869; STAT 852, 871; GBUS 866.
+
+Not verified: per-term study plan.
+
+### Project report, defence and co-op
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-project.html (checked 2026-11-27)
+
+- Report is written to the supervisor's satisfaction, with thesis-like structure.
+- Formal defence, no external examiner; a committee member is primary examiner. Successful defence is required.
+- Associate Head (Graduate) must approve the report before defence; student emails a cloud link to CSGrad.Coord@uregina.ca; review can take up to one week.
+- Evaluation forms for supervisor and committee, plus a defence checklist, go to the CS Department Office.
+- After defence the Department prepares a memo to FGSR confirming requirements are met.
+- Co-op: full-time registration, at least two UofR CS 800-level courses with minimum 80%, supervisor permission.
+
+### Course list
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/courses/index.html (checked 2026-11-27)
+
+Credits per the calendar: CS 8xx = 3 credits; CS 900 = 0; CS 902 = 9. Full course descriptions: Not verified (not shown on these pages; see calendar and course catalogue).
+
+800-level (selected core list as published): CS 802 Parallel Algorithm; CS 805 Computer Graphics; CS 807 Interactive Hardware and Embedded Computing; CS 808 Adv Animation Software Design; CS 809 Interactive Entertainment SW; CS 811 Theory of Computing; CS 815 Computer Vision; CS 820 Artificial Intelligence; CS 824 Informational Retrieval; CS 825 Computer Vision; CS 826 Bioinformatics and Biomedical Applications; CS 827 Computer Audio; CS 828 Human Computer Communication; CS 829 Information Theory and Applications; CS 830 Machine Learning; CS 831 Knowledge Discov in Databases; CS 834 Fundamentals of Computer Systems Security; CS 835 Pattern Recognition; CS 836 Rough Sets & Applications; CS 837 Information Visualization; CS 838 Uncertain Reasoning in AI; CS 839 Web Intelligence & E-commerce; CS 842 Introduction to Data Science; CS 855 Mobile Computing; CS 858 Virtual and Augmented Reality; CS 872 Software Engineering; CS 875 Database Systems.
+
+Special topics: CS 890 series (many letter-suffixed offerings, for example CS 890AG Natural Language Processing, CS 890EZ Deep Learning: Foundations and Research Trends, CS 890EN Topics in Machine Learning). Note: the calendar says directed study or selected topics reading classes do not count toward the required 800-level courses.
+
+900-level: CS 900 Computer Science Graduate Seminar; CS 901 Research; CS 902 Project Research; CS 905 PhD Research Proposal.
+
+### Admission, English and deadlines
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html (checked 2026-11-27)
+
+- Apply through FGSR (questions: grad.science@uregina.ca).
+- Four-year bachelor's in CS; others need equivalent BSc CS plus 10 CS courses at 300/400 level (theory, software, systems, applications).
+- Overall average at least 70% and CS average 75%; meeting minimums does not guarantee admission.
+- MSc project applicants must find a faculty supervisor accepting students and contact them before applying.
+- International: WES-verified transcripts and WES report. "Any applications with grades below a B-level will automatically be rejected." 70% at UofR = 2.67/4.00 on WES.
+- GRE not required. English: IELTS 6.5, paper TOEFL 580; exemption possible if degree taught in English.
+- Deadlines: Feb 15 (Fall), Jun 15 (Winter), Oct 15 (Spring/Summer). Thesis and project MSc may apply in all three cycles per this page (conflicts with the calendar suspension; calendar is the more official statement of program status, confirm with the department). Review may take up to two months.
+
+### Cost
+
+Source: https://www.uregina.ca/financial-services/assets/202610-grad-studies-tuition-schedule-nov-6-25.pdf (from earlier check; not re-opened 2026-11-27)
+
+International rates: tuition CAD 354.75 per credit hour; CAD 3,881.25 per 6-credit term (about BDT 344,200); application fee CAD 125 (about BDT 11,100). Annual tuition estimate about CAD 16,000 (about BDT 1,419,000). Total program cost, living cost, insurance, permit fees: Not verified.
+
+### Not verified
+
+Course descriptions, per-term plan, references count, IELTS band minimums, other English tests, fee waiver, CS 902 charging, employment outcomes.
+
+## Sources
+
+| Source | Checked |
+| --- | --- |
+| https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/computer-science.html | 2026-11-27 |
+| https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-project.html | 2026-11-27 |
+| https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html | 2026-11-27 |
+| https://www.uregina.ca/science/computer-science/graduate-programs/courses/index.html | 2026-11-27 |
+| https://www.uregina.ca/financial-services/assets/202610-grad-studies-tuition-schedule-nov-6-25.pdf | 2026-11-25 (earlier) |
+| https://wise.com/gb/currency-converter/cad-to-bdt-rate?amount=1 | 2026-11-27 |
