@@ -126,6 +126,86 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 
 ---
 
+## Full Official Program Information
+
+Thesis check (2026-11-27): the program has TWO routes, thesis-based and course-based. This file keeps only the **course-based** route. The thesis route (12 credit hours plus GACS-7500 Graduate Thesis, oral defense, supervisor needed before admission) is skipped.
+Course descriptions: Not verified. The Graduate Calendar program PDF lists course codes and titles only. The uwinnipeg.ca HTML pages (program page, fee pages, course descriptions) returned HTTP 403 to automated tools on 2026-11-27, so they could not be re-read today. Items below that were read in a real browser on 2026-11-24 are in the sections above.
+
+### Overview (official wording)
+
+Source: https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf (Graduate Calendar, dated April 23, 2026; checked 2026-11-27)
+
+"The department offers a Master's program at the graduate level in Applied Computer Science and Society with a focus on issues of technology and ethical/human/social aspects of computing. We offer courses in three core clusters that represent frontiers of the discipline. These are: i) Information Representation, ii) Search and Management, Intelligent Systems, and iii) Systems Development."
+
+"We offer both thesis-based and course programs. Our thesis-based program is designed to provide an excellent basis for a PhD in computer science or other related fields. Our graduates in the course-based program are well-qualified for employment in industry, the public-sector, and academia."
+
+Areas of research (faculty): advanced research computing, algorithms and complexity, autonomous networks, cloud computing, computational intelligence, computer vision, cybersecurity, data analysis, digital forensics, granular computing, health informatics, image processing, internet of things, machine learning, networks, parallel processing, pattern recognition, security and privacy, smart systems, software engineering, web and document databases, and wireless sensor networks.
+
+| Item | Official text |
+| --- | --- |
+| Degree | M.Sc. (Applied Computer Science and Society) |
+| Graduate Program Chair (Calendar) | S. Ramanna |
+| Administrative Supervisor of Grad Students | Connie Arnhold |
+| Second language requirement | None |
+| Expected time to graduate | 2 years |
+| Maximum time to graduate | 5 years |
+| Intakes | September or January |
+
+### Course-based route: admission and requirements (official wording)
+
+Source: https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf (checked 2026-11-27)
+
+- Admission: "Students may be admitted to the course-based Master's program if they hold an Honours or 4-year Bachelor of Science degree in Applied Computer Science, Computer Science and/or Engineering, Mathematics or equivalent and if they present a suitable selection of courses."
+- Minimum entry requirement: "overall GPA of 3.0 in all computing, mathematics and statistics courses."
+- English: "TOEFL minimum overall score of 4.5, with no less than 4.0 in each component (For tests taken prior to Jan. 21, 2026, a minimum overall score of 86, with no less than 20 in each component, is required.), or IELTS minimum score of 6.5, or Duolingo minimum score of 120. Other tests are acceptable." The test should have been taken within two years of the date a completed application is filed.
+- Deadlines: "The Department allows students to begin their program in September or January. The application deadline for a September start date is February 1, and the deadline for January start date is July 1." Apply online: http://www.uwinnipeg.ca/index/grad-studies-programs
+- Program requirements: a minimum of 21 credit hours of GACS-7xxx/3 courses (excluding the GACS-7500 thesis course), and a minimum of 9 credit hours of GACS-4xxx/3 courses. (Total about 30 credit hours is my arithmetic, not stated.)
+- Switching, course to thesis: "at any time during the program provided a thesis supervisor is willing to accept them. The department is not responsible for finding thesis supervisors."
+- Switching, thesis to course: "after the first term from the date of registration ... only with the written approval of their thesis Supervisor and the Graduate Program Committee Chair."
+
+### Course list (codes and titles only; descriptions Not verified)
+
+Source: https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf (checked 2026-11-27). Every course is /3 (3 credit hours).
+
+| Cluster | Code | Title |
+| --- | --- | --- |
+| Information Representation, Search and Management | GACS-7101/3 | Advanced Data Structures and Algorithms |
+| | GACS-7102/3 | Web and Document Databases |
+| | GACS-7103/3 | Semantic Web |
+| | GACS-7104/3 | Theory and Practice of Security and Privacy |
+| | GACS-7105/3 | Operations Research in Computer Science |
+| Intelligent Systems | GACS-7201/3 | Biometrics |
+| | GACS-7202/3 | Granular Computing: Foundations and Applications |
+| | GACS-7203/3 | Pattern Recognition |
+| | GACS-7204/3 | Multimedia Computing and Applications |
+| | GACS-7205/3 | Digital Image Processing |
+| | GACS-7206/3 | Advanced Machine Learning |
+| Systems Development | GACS-7301/3 | Implementation and Impact of Peer-to-Peer Systems |
+| | GACS-7302/3 | Global Software Project Management |
+| | GACS-7303/3 | Advanced Topics in Software Design and Architecture |
+| | GACS-7304/3 | Computer Systems for Society |
+| | GACS-7305/3 | Graduate Project |
+| | GACS-7306/3 | Applied Parallel Programming |
+| | GACS-7307/3 | Advanced Concepts in Cloud Computing |
+| Topics | GACS-7401/3 | Current Topics in Computing |
+| Thesis (thesis route only, skipped) | GACS-7500 | Graduate Thesis |
+| Course-based 4xxx/3 | GACS-4306/3 | Applied Parallel Programming |
+| | GACS-4902/3 | Advanced Database Systems |
+| | GACS-4904/3 | Data Warehousing |
+| | GACS-4906/3 | Conceptual Modelling |
+| | GACS-4921/3 | Computer Security and Privacy |
+| | GACS-4953/3 | Introduction to Machine Learning |
+| | GACS-4954/3 | Introduction to Distributed Systems |
+
+Term-by-term study plan, co-op or internship: Not published / Not verified.
+
+### Fees, money, immigration, contacts
+
+Fees (2026-27 international tuition and fees), application fee, deposit, IRCC proof of funds, DLI, PGWP and contacts are in the sections above (read in a real browser 2026-11-24). They were not re-opened on 2026-11-27 because uwinnipeg.ca returns 403 to tools. Rate check 2026-11-27: Wise UK page shows 1 CAD = 88.69 BDT, other pages 86.55 to 90.35; all BDT amounts in this file use 88.69 and are approximate.
+Not verified: scholarships and funding, co-op, FAQ, numbers of references, per-course descriptions.
+
+---
+
 ## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
 
 | Item | Result |
