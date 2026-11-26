@@ -149,3 +149,197 @@ Source: [CS grad admission requirements](https://www.unb.ca/fredericton/cs/grad/
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check: MCSC is course-based. No thesis and no supervisor. The thesis and report routes belong to the MCS degree and are skipped here. (Checked 2026-11-27.)
+Note: the page reader used for this check returned condensed text, so wording is quoted where exact and otherwise close to the official text.
+Rate used for BDT: 1 CAD = 88.69 BDT (Wise mid-market, as in Section 5; rates on other sites ranged 86.4 to 90.3, checked 2026-11-27).
+
+### Overview
+- Programs at UNB Fredericton Computer Science: MCS (research), MACSec (Master of Applied Cybersecurity), MCSC (Master of Computer Science by Coursework), PhD. MCSC and MACSec are course-based.
+- "The Master of Computer Science by Coursework (MCSC) program provides advanced education at the graduate level" for students who want further study without research. It suits IT professionals who want to upgrade their skills.
+- Requires "a minimum of 10 graduate and undergraduate courses". A co-op designation is optional, earned after two graduate co-op terms.
+- Length: about 12 to 24 months for master's programs. Offered only on the Fredericton campus.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/mcsc.html (checked 2026-11-27)
+Source: https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+
+### Course requirements (MCSC)
+- Six 6xxx-level courses, or four graduate courses plus CS*6995 Master's Project with the Director of Graduate Studies' approval.
+- Four additional approved courses at the 3xxx level or above. These may include selected undergraduate CS and SWE courses and up to three courses from other faculties, with approval.
+- At least two-thirds of coursework must come from the Faculty of Computer Science.
+- One Directed Studies course (CS6999) may be included.
+- Requirements are minimums. Students may need extra undergraduate or graduate courses to fill gaps.
+- Extra courses are marked "X", do not count toward the program CGPA, and normally carry an extra fee. Audited courses need approval, earn no grade and cannot count toward a degree.
+- CS6003 Research Methods is listed as required for "all MCS students". The page does not say MCSC needs it.
+- Course codes, titles, credits and course descriptions for graduate courses: Not verified (course list not read). Credits per course: Not verified.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/mcs-courses.html (checked 2026-11-27)
+
+### Admission requirements
+- Entry: an undergraduate degree in computer science, "with a minimum GPA of B for the MCS by coursework and MACSec programs". Thesis/report MCS: "normally a minimum GPA of B+".
+- "If your degree was awarded with a class classification, a first-class degree or a second-class upper degree is required."
+- Expected background: software engineering, data structures, operating systems, algorithms, computer architecture or machine-level programming.
+- "Related professional experience is not considered towards minimum entry requirements."
+- GRE not required. It may be required if a non-Canadian academic background "cannot be adequately assessed" (normally 600 Quantitative, 3.5 Analytical Writing).
+- "Admission ... is a competitive process. The above-mentioned minimum entry requirements are necessary but not sufficient." Acceptance can be unconditional, conditional or probationary. Admission does not imply financial assistance.
+- International applicants outside Canada "should apply at least six months in advance". Applications are reviewed only when complete and the fee is paid.
+- Part-time: master's applicants "need to have arranged for a supervisor and need to submit a study plan prior to admission". Normal limit four years.
+- Documents (Grad Studies page): official transcripts and degree confirmation; three letters of recommendation (at least two academic); CV; completed application form; language scores.
+- Note: Grad Studies page says minimum GPA B+; the CS department page says B for MCS by coursework. The CS department page is more specific to MCSC. Verify with the university.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+Source: https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+
+### English language
+- Required for applicants whose mother tongue is not English, even landed immigrants. UNB "will not issue waivers based on language tests". Applications are incomplete without scores.
+- Exempt: more than two years at an English-speaking institution in the last five years, or applying from a listed country (Canada, USA, UK, Australia, New Zealand and others).
+
+| Test | Minimum |
+| --- | --- |
+| IELTS Academic | 7.0 overall (one-skill retake accepted; online version not accepted). Program page: 7.0 overall and in writing |
+| TOEFL iBT (before 2026) | 94, TWE 25 (program page says 23: conflict, intl page is the general rule) |
+| TOEFL iBT (Jan 2026 or later) | 5 overall, at least 4.5 in speaking and writing |
+| Duolingo | 125 overall, subscore 105 |
+| PTE Academic | 65 |
+| MET (four-skill) | 64, no section below 59 |
+| CAEL | 80 |
+| Cambridge C1 Advanced | 180, no area below 169 |
+
+TOEFL ITP is not accepted. After admission, UNB may require AESL 6021 and/or AESL 6022.
+
+Source: https://www.unb.ca/gradstudies/admissions/international.html (checked 2026-11-27)
+
+### Deadlines and intakes
+| Intake | Deadline |
+| --- | --- |
+| Fall (September), early | Dec 15 (early review) |
+| Fall (September) | Jan 15, "Deadline extended to February 28"; decisions March 31 for applications complete by Jan 15 |
+| Winter (January), MCSC | May 31 |
+
+Intake terms: MCSC Fall and Winter. Summer is PhD only.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+
+### Co-op
+- Open to MCS and MCSC students. At least two work terms (eight months). "The final work term cannot be the final term of the student's program." Eight consecutive months must start in January or May.
+- Needs good standing, a cumulative GPA of at least 3.3 in CS graduate courses, and written permission from the Director of Graduate Studies (MCSC).
+- AESL 6021 (if required) must be finished before applying. "There is no guarantee that all applicants will be successful in securing a co-op position." Students must be legally entitled to work in Canada.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/masters-coop.html (checked 2026-11-27)
+
+### Fees, contact, immigration
+- Tuition and fees: see Section 5 above (UNB fee sheet, Stage 1 read). Not re-verified on 2026-11-27. The Grad Studies program page does not list fees.
+- Contact: Dr. Patricia Evans, Director of Graduate Studies, graduate-csasstdean@unb.ca, 1-506-453-4566, ITC Room 315.
+- Application link: apply.unb.ca. PGWP and living cost: not re-verified (see Section 8).
+- Scholarships, FAQ, career outcomes: Not verified.
+
+## Sources
+
+- https://www.unb.ca/fredericton/cs/grad/masters/mcsc.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/masters/mcs-courses.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/masters/masters-coop.html (checked 2026-11-27)
+- https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+- https://www.unb.ca/gradstudies/admissions/international.html (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate (rate, 2026-11-27)
+
+---
+
+## Full Official Program Information
+
+Thesis check: MCSC is course-based. No thesis and no supervisor. The thesis and report routes belong to the MCS degree and are skipped here. (Checked 2026-11-27.)
+Note: the page reader used for this check returned condensed text, so wording is quoted where exact and otherwise close to the official text.
+Rate used for BDT: 1 CAD = 88.69 BDT (Wise mid-market, as in Section 5; rates on other sites ranged 86.4 to 90.3, checked 2026-11-27).
+
+### Overview
+- Programs at UNB Fredericton Computer Science: MCS (research), MACSec (Master of Applied Cybersecurity), MCSC (Master of Computer Science by Coursework), PhD. MCSC and MACSec are course-based.
+- "The Master of Computer Science by Coursework (MCSC) program provides advanced education at the graduate level" for students who want further study without research. It suits IT professionals who want to upgrade their skills.
+- Requires "a minimum of 10 graduate and undergraduate courses". A co-op designation is optional, earned after two graduate co-op terms.
+- Length: about 12 to 24 months for master's programs. Offered only on the Fredericton campus.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/mcsc.html (checked 2026-11-27)
+Source: https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+
+### Course requirements (MCSC)
+- Six 6xxx-level courses, or four graduate courses plus CS*6995 Master's Project with the Director of Graduate Studies' approval.
+- Four additional approved courses at the 3xxx level or above. These may include selected undergraduate CS and SWE courses and up to three courses from other faculties, with approval.
+- At least two-thirds of coursework must come from the Faculty of Computer Science.
+- One Directed Studies course (CS6999) may be included.
+- Requirements are minimums. Students may need extra undergraduate or graduate courses to fill gaps.
+- Extra courses are marked "X", do not count toward the program CGPA, and normally carry an extra fee. Audited courses need approval, earn no grade and cannot count toward a degree.
+- CS6003 Research Methods is listed as required for "all MCS students". The page does not say MCSC needs it.
+- Course codes, titles, credits and course descriptions for graduate courses: Not verified (course list not read). Credits per course: Not verified.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/mcs-courses.html (checked 2026-11-27)
+
+### Admission requirements
+- Entry: an undergraduate degree in computer science, "with a minimum GPA of B for the MCS by coursework and MACSec programs". Thesis/report MCS: "normally a minimum GPA of B+".
+- "If your degree was awarded with a class classification, a first-class degree or a second-class upper degree is required."
+- Expected background: software engineering, data structures, operating systems, algorithms, computer architecture or machine-level programming.
+- "Related professional experience is not considered towards minimum entry requirements."
+- GRE not required. It may be required if a non-Canadian academic background "cannot be adequately assessed" (normally 600 Quantitative, 3.5 Analytical Writing).
+- "Admission ... is a competitive process. The above-mentioned minimum entry requirements are necessary but not sufficient." Acceptance can be unconditional, conditional or probationary. Admission does not imply financial assistance.
+- International applicants outside Canada "should apply at least six months in advance". Applications are reviewed only when complete and the fee is paid.
+- Part-time: master's applicants "need to have arranged for a supervisor and need to submit a study plan prior to admission". Normal limit four years.
+- Documents (Grad Studies page): official transcripts and degree confirmation; three letters of recommendation (at least two academic); CV; completed application form; language scores.
+- Note: Grad Studies page says minimum GPA B+; the CS department page says B for MCS by coursework. The CS department page is more specific to MCSC. Verify with the university.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+Source: https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+
+### English language
+- Required for applicants whose mother tongue is not English, even landed immigrants. UNB "will not issue waivers based on language tests". Applications are incomplete without scores.
+- Exempt: more than two years at an English-speaking institution in the last five years, or applying from a listed country (Canada, USA, UK, Australia, New Zealand and others).
+
+| Test | Minimum |
+| --- | --- |
+| IELTS Academic | 7.0 overall (one-skill retake accepted; online version not accepted). Program page: 7.0 overall and in writing |
+| TOEFL iBT (before 2026) | 94, TWE 25 (program page says 23: conflict, intl page is the general rule) |
+| TOEFL iBT (Jan 2026 or later) | 5 overall, at least 4.5 in speaking and writing |
+| Duolingo | 125 overall, subscore 105 |
+| PTE Academic | 65 |
+| MET (four-skill) | 64, no section below 59 |
+| CAEL | 80 |
+| Cambridge C1 Advanced | 180, no area below 169 |
+
+TOEFL ITP is not accepted. After admission, UNB may require AESL 6021 and/or AESL 6022.
+
+Source: https://www.unb.ca/gradstudies/admissions/international.html (checked 2026-11-27)
+
+### Deadlines and intakes
+| Intake | Deadline |
+| --- | --- |
+| Fall (September), early | Dec 15 (early review) |
+| Fall (September) | Jan 15, "Deadline extended to February 28"; decisions March 31 for applications complete by Jan 15 |
+| Winter (January), MCSC | May 31 |
+
+Intake terms: MCSC Fall and Winter. Summer is PhD only.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+
+### Co-op
+- Open to MCS and MCSC students. At least two work terms (eight months). "The final work term cannot be the final term of the student's program." Eight consecutive months must start in January or May.
+- Needs good standing, a cumulative GPA of at least 3.3 in CS graduate courses, and written permission from the Director of Graduate Studies (MCSC).
+- AESL 6021 (if required) must be finished before applying. "There is no guarantee that all applicants will be successful in securing a co-op position." Students must be legally entitled to work in Canada.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/masters-coop.html (checked 2026-11-27)
+
+### Fees, contact, immigration
+- Tuition and fees: see Section 5 above (UNB fee sheet, Stage 1 read). Not re-verified on 2026-11-27. The Grad Studies program page does not list fees.
+- Contact: Dr. Patricia Evans, Director of Graduate Studies, graduate-csasstdean@unb.ca, 1-506-453-4566, ITC Room 315.
+- Application link: apply.unb.ca. PGWP and living cost: not re-verified (see Section 8).
+- Scholarships, FAQ, career outcomes: Not verified.
+
+## Sources
+
+- https://www.unb.ca/fredericton/cs/grad/masters/mcsc.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/masters/mcs-courses.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/admission.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/masters/masters-coop.html (checked 2026-11-27)
+- https://www.unb.ca/gradstudies/programs/computer-science.html (checked 2026-11-27)
+- https://www.unb.ca/gradstudies/admissions/international.html (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate (rate, 2026-11-27)
