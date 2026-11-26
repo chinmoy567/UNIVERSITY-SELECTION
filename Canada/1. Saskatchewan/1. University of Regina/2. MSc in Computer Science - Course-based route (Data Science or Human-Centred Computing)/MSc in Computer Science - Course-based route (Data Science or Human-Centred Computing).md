@@ -30,7 +30,7 @@ Last checked: 2026-11-22. Labels: OFFICIAL = [uregina.ca](http://uregina.ca) / [
 
 ## 2. Duration and structure
 
-- Length: 2 years (program overview, OFFICIAL). DS plan = 5 semesters: Fall, Winter, Spring/Summer, Fall, Winter ([DS page](https://uregina.ca/science/computer-science/graduate-programs/msc-cs-data-science.html), OFFICIAL). HCC term plan: Not found.
+- Length: 2 years (program overview, OFFICIAL). DS plan = 5 semesters: Fall, Winter, Spring/Summer, Fall, Winter ([DS page](https://uregina.ca/science/computer-science/graduate-programs/msc-cs-data-science.html), OFFICIAL). HCC term plan: see Full Official Program Information below (found 2026-11-27).
 - Intake: DS = Fall; HCC = Winter (admission page, OFFICIAL). One cohort a year each.
 - Part-time: Not found / not published.
 - Co-op: optional designation. Needs full-time registration, at least two CS 800-level courses, minimum 80% average, competitive selection, core courses done before any work term; co-op fee CAD 1,115.50 ([tuition schedule](https://www.uregina.ca/financial-services/assets/202610-grad-studies-tuition-schedule-nov-6-25.pdf), OFFICIAL). Whether work terms are paid: Not found.
@@ -146,3 +146,139 @@ DS plan ([DS page](https://uregina.ca/science/computer-science/graduate-programs
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Checked 2026-11-27. Both streams are course-based, no thesis (30 credits of coursework including a capstone project). The CS MSc thesis route is not covered here. Note: the fetch tool could not copy page text word for word, so course descriptions below are close summaries with short quoted phrases, not the full official wording. Read the full text on the course page linked below.
+
+### Thesis status
+
+- DS and HCC: "course-based, with no thesis. A fully qualified student completes 30 credits of coursework."
+Source: https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/computer-science.html (checked 2026-11-27)
+- Admission status: the Calendar and both program pages say "Admission to this program has been temporarily suspended." The department admission page still lists deadlines. Not verified which is current; ask the university.
+
+### Overview (Data Science)
+
+Professionally focused, course-based MSc in Data Science, 30 credits. Covers data-focused programming, the data science lifecycle, statistics, machine learning, big data, cloud computing, and communicating data science work. Ends with a seminar series and a capstone project. Optional Co-op Designation.
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-data-science.html (checked 2026-11-27)
+
+### Overview (Human-Centred Computing)
+
+Course-based professional MSc, 30 credits of coursework. Covers human-computer interaction theory, interface design and implementation, and human-subject evaluation methods; also graphics and animation, mobile computing, VR/AR and information visualization. Ends with a professionally focused seminar series and a capstone project. Co-op Designation can be added.
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-human-centred-computing.html (checked 2026-11-27)
+
+### Term plan: Data Science (30 credits)
+
+| Term | Code | Title | Credits |
+| --- | --- | --- | --- |
+| 1 Fall | CS 700 | Software Development Fundamentals | 3 |
+| 1 Fall | CS 710 | Python & Data Fundamentals | 3 |
+| 2 Winter | CS 711 | Foundations of Data Science | 3 |
+| 2 Winter | CS 712 | Foundations of Statistics & Machine Learning | 3 |
+| 3 Spring/Summer | CS 713 | Applied Machine Learning | 3 |
+| 3 Spring/Summer | CS 714 | Big Data Analytics & Cloud Computing | 3 |
+| 4 Fall | CS 715 | Advanced Data Science & Machine Learning | 3 |
+| 4 Fall | CS 716 | Communication in Data Science | 3 |
+| 5 Winter | CS 718 | Data Science Seminar | 0 |
+| 5 Winter | CS 719 | Data Science Project | 6 |
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-data-science.html (checked 2026-11-27)
+
+### Term plan: Human-Centred Computing (30 credits)
+
+| Term | Code | Title | Credits |
+| --- | --- | --- | --- |
+| 1 Winter | CS 700 | Software Development Fundamentals | 3 |
+| 1 Winter | CS 730 | Human-Computer Interaction Fundamentals | 3 |
+| 2 Spring/Summer | CS 731 | Human-Centered Interface Design & Implementation | 3 |
+| 2 Spring/Summer | CS 732 | Foundations of Human-Centred Evaluation Methods | 3 |
+| 3 Fall | CS 733 | Computer Graphics & Animation | 3 |
+| 3 Fall | CS 734 | Mobile Computing | 3 |
+| 4 Winter | CS 735 | Virtual and Augmented Reality | 3 |
+| 4 Winter | CS 736 | Information Visualization | 3 |
+| 5 Spring/Summer | CS 738 | Human-Centred Computing Seminar | 0 |
+| 5 Spring/Summer | CS 739 | Human-Centred Computing Project | 6 |
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-human-centred-computing.html (checked 2026-11-27)
+
+Co-op: DS students must complete CS 700, 710, 711, 712, 713, 714, 715 and 716 before any co-op work term. HCC students must complete CS 700, 730, 731, 732, 733, 734, 735 and 736 before any co-op work term.
+
+Source: https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/computer-science.html (checked 2026-11-27)
+
+### Course descriptions (close summary of official text)
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/courses/index.html (checked 2026-11-27). Credits are not shown on this page; credits come from the term plans above. The page has no CS 717 or CS 737.
+
+| Code | Title | Description |
+| --- | --- | --- |
+| CS 700 | Software Development Fundamentals | Modern development principles and practices, including "unit testing," "source code control," and "teamwork." |
+| CS 710 | Python & Data Fundamentals | "Data-centred programming in Python": object-oriented design, ETL, pandas/NumPy/SciPy/scikit-learn, SQL and NoSQL databases. |
+| CS 711 | Foundations of Data Science | Overview of the data science lifecycle: data ethics, data discovery, data preparation, model planning, machine learning model implementation and evaluation, visualization, delivery. |
+| CS 712 | Foundations of Statistics & Machine Learning | Statistical basis of ML: probability, sampling, Bayes' theorem, gradient descent, neural networks. "A laboratory component is required." Credit for CS 712 or STAT 712, not both. |
+| CS 713 | Applied Machine Learning | ML methods for "real-world problems": classification, clustering, deep learning, machine translation. |
+| CS 714 | Big Data Analytics & Cloud Computing | Big data analytics in the cloud (containers, MapReduce, cloud ML); "milestone-based project" on a major cloud platform. |
+| CS 715 | Advanced Data Science & Machine Learning | "State-of-the-art" topics such as reinforcement learning and spatio-temporal forecasting, applied in a real-world project. |
+| CS 716 | Communication in Data Science | Communicating data science work with notebooks and visualization libraries: abstract, poster, notebook, oral presentation. |
+| CS 718 | Data Science Seminar | "Professionally focused seminar series": entrepreneurship, ethics, intellectual property, EDI. |
+| CS 719 | Data Science Project | "Capstone for the Data Science Stream", built through milestones and presented publicly. |
+| CS 730 | Human-Computer Interaction Fundamentals | Theory for designing "usable software": contexts for interaction, usability foundations, cognitive and social models, accessibility, principles of good design. |
+| CS 731 | Human-Centered Interface Design & Implementation | Task analysis, prototyping, design patterns, GUI tools; milestone-based project building a web application. |
+| CS 732 | Foundations of Human-Centred Evaluation Methods | Usability testing, heuristic evaluation, "Research Ethics Board applications"; students study a real interface. |
+| CS 733 | Computer Graphics & Animation | Geometric modelling, "image rendering and synthesis," animation principles, frameworks. |
+| CS 734 | Mobile Computing | Software for a "networked mobile environment": networking, sensors, small-screen design, touch and voice interaction, hybrid apps. |
+| CS 735 | Virtual and Augmented Reality | VR/AR software design (3D modelling, locomotion, interaction, audio); "milestone-based project" building a VR or AR app. |
+| CS 736 | Information Visualization | Interactive visualization for "large collections of abstract information": perception, visual encodings, interaction methods. |
+| CS 738 | Human Centred Computing Seminar | "Professionally focused seminar series": entrepreneurship, ethics, intellectual property, innovation, EDI. |
+| CS 739 | Human-Centred Computing Project | "Capstone for the Human-Centred Computing Stream", built through milestones and presented publicly. |
+
+### Admission (department page)
+
+Source: https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html (checked 2026-11-27)
+
+- Apply through the Faculty of Graduate Studies and Research (FGSR). Questions: grad.science@uregina.ca. The department reviews applications only after they are complete.
+- Package: transcripts, confidential letters of recommendation, letter of intent, proof of English proficiency.
+- MSc: ordinarily a four-year bachelor's in Computer Science. Other disciplines: equivalent BSc CS plus 10 CS courses at 300/400 level (theory, software, systems, applications). Minimum 70% overall and 75% CS average; meeting it does not guarantee admission.
+- Supervisor: MSc Data Science and Human-Centred Computing applicants do not need one in advance; one is assigned on admission.
+- International: transcripts verified by WES and the WES report submitted. Applications with grades below B-level are automatically rejected. 70% at U of R = 2.67/4.00 on the WES calculator. GRE not required.
+- English: official scores sent directly from the testing service to FGSR. Minimum TOEFL paper-based 580 or IELTS 6.5. Exemption possible if the degree was taught in English; see the FGSR eligibility page.
+- Deadlines: Feb 15 = Fall intake (MSc Data Science accepts only this cycle). June 15 = Winter intake (MSc Human-Centred Computing accepts only this cycle). Oct 15 = Spring/Summer intake. Missing a deadline means waiting for next year's cohort. Review can take up to two months after the deadline.
+
+### Tuition and fees (international, per term)
+
+Source: https://www.uregina.ca/financial-services/assets/202710-grad-studies-tuition-schedule-oct-16.pdf (Winter 2027 schedule "as of October 16, 2026, subject to change", checked 2026-11-27). Column: Master of Science in Computer Science (Data Science and Human Centered Computing). Amounts are international student totals. Exchange rate used: 1 CAD = about 88 BDT (third-party converters Wise and Revolut showed 86.4 to 90.3 on 2026-11-27; not an official rate).
+
+| Item | Amount |
+| --- | --- |
+| Tuition per credit | CAD 597.75 (≈ BDT 52,600) |
+| Tuition per 6-credit term | CAD 3,586.50 (≈ BDT 315,600) |
+| International surcharge per term | CAD 1,487.25 (≈ BDT 130,900) |
+| Mandatory student fees, 6 credits | CAD 313.25 (≈ BDT 27,600) |
+| Total per 6-credit term, international | CAD 5,387.00 (≈ BDT 474,100) |
+| Tuition for 30 credits | CAD 17,932.50 (≈ BDT 1,578,100) |
+| Illustration: 5 terms at 6 credits | CAD 26,935.00 (≈ BDT 2,370,300) |
+
+The PDF text layer was garbled, so rows were read by calculation; the 1-credit total (CAD 2,369.75) and the 6-credit total (CAD 5,387.00) match the schedule. This is higher than the Winter 2026 figure in section 5 (CAD 5,234.25). Spring/Summer fee rules for the illustration were not checked.
+
+Other: https://www.uregina.ca/graduate-studies-research/future-students/tuition-and-fees.html (international "all other programs" about CAD 16,000 per year, estimate, excludes living costs) (checked 2026-11-27).
+
+### Contacts
+
+- Admissions: grad.science@uregina.ca; CS administration CS@uregina.ca
+- Apply: https://www.uregina.ca/admissions/apply.html (linked from the program page)
+
+### Not verified in this pass
+
+Word-for-word course descriptions; whether admission is open for the 2027 intake; 2026-27 co-op fee; scholarships and funding; whether co-op is paid; career outcomes; provincial immigration pathway.
+
+### Sources
+
+- https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-data-science.html (2026-11-27)
+- https://www.uregina.ca/science/computer-science/graduate-programs/msc-cs-human-centred-computing.html (2026-11-27)
+- https://www.uregina.ca/science/computer-science/graduate-programs/courses/index.html (2026-11-27)
+- https://www.uregina.ca/graduate-studies-research/graduate-calendar/all-programs/computer-science.html (2026-11-27)
+- https://www.uregina.ca/science/computer-science/graduate-programs/application-process.html (2026-11-27)
+- https://www.uregina.ca/financial-services/assets/202710-grad-studies-tuition-schedule-oct-16.pdf (2026-11-27)
