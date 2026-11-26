@@ -136,3 +136,70 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check: course-based MEng ending in a capstone (ECE 910). No thesis route is listed. Thesis required: NO. Page text was read through a summarising fetch tool, so wording below is close to the page but not guaranteed word for word.
+
+### Program overview and format
+Source: https://www.ualberta.ca/en/engineering/electrical-computer-engineering/graduate-studies/degrees-and-programs/master-of-engineering.html (checked 2026-11-27)
+
+- The MEng in electrical and computer engineering is a course-based program that ends in a capstone project. It is aimed at engineers at any career stage and offers flexible delivery modes.
+- No supervisor is needed before applying.
+- Capstone: ECE 910, a mandatory capstone project supervised by a professor.
+- Can be completed in as little as nine months; four-year maximum (dept page).
+- Specializations: 13 listed (including Control Systems, Communications, Energy Systems); full list in section 7 above.
+- Learning outcomes (six): research ethics; professional conduct; professional development (at least four hours of workshops through ENGG 601/602); an individual development plan; applying advanced engineering knowledge; communication.
+
+### Program requirements and admission (graduate programs page)
+Source: https://www.ualberta.ca/en/graduate-programs/master-of-engineering-electrical-and-computer-engineering.html (checked 2026-11-27)
+
+- On-campus, course-based master's, Faculty of Engineering.
+- At least 27.0 units of coursework, including a 3-unit capstone project (ECE 910, Directed Research Project).
+- Eight 3-unit graduate courses approved by the Associate Chair, plus possible additional coursework.
+- Ethics and professional development requirements.
+- Cumulative GPA of at least 3.0 throughout the program.
+- Residence: one four-month term of full-time study at the University of Alberta.
+- Duration: typically 1.5 to 2 years; maximum six years.
+- Minimum admission GPA 3.0 on the 4-point scale, on the last 60 units of graded coursework (or last two full-time years).
+- CV and three reference letters. Current U of A students need no references.
+- Master's holders in ECE or a related field are eligible only for the PhD. Doctoral holders are not eligible.
+- English proficiency where applicable: TOEFL iBT, IELTS, CAEL, PTE Academic, Cambridge, each with its own minimum (scores in section 4 above).
+- Deadlines: Fall term April 7 (international), August 1 (domestic); Winter term no intake (dept page, no year stated). The graduate programs page lists no deadline.
+
+### Courses
+Source: https://apps.ualberta.ca/catalogue/course/ece/910 and per-course pages `https://apps.ualberta.ca/catalogue/course/ece/<number>` (checked 2026-11-27). All are 3 units (fi 6), "(EITHER, 3-0-0)". Only courses named on the dept page are listed; the full approved course list is Not verified.
+
+| Code | Title | Description (official catalogue) |
+| --- | --- | --- |
+| ECE 910 | Directed Research Project (capstone, 3 units) | Catalogue: no course description available. Dept procedures call it a "capping exercise". Registered in the term the project is finished; MEng advisor converts the grade to pass once the report is approved. |
+| ECE 541 | Digital Signal Processing | Discrete-time signals and systems, Discrete Fourier Transform, Fast Fourier Transform, Fourier analysis, short-time Fourier transform, wavelet transform. Digital filters, optimal filter design, polyphase filterbanks, subband analysis. Random signal analysis, Karhunen-Loève expansion, power spectrum estimation, autoregressive models. |
+| ECE 547 | Fundamentals of Solid State Devices | Reviews semiconductor fundamentals; analyzes metal-semiconductor, metal-insulator-semiconductor and semiconductor heterojunction devices (band diagrams, depletion approximation, C-V and I-V characteristics); advanced MOSFETs incl. short-channel effects and scaling theory; introduction to III-V FETs. (Paraphrased by the fetch tool; exact wording Not verified.) |
+| ECE 558 | Microfabrication and Nanofabrication Topics I | Vacuum principles: gas kinetics and flow, pumping speed theory, pumping methods, pressure, measurement, sorption processes, vacuum system design basics. Thin film growth by sputtering, evaporation and chemical techniques. Characterization and classification of optical, electrical and mechanical properties. Applications of thin films. Note: May not be taken for credit if credit has already been obtained in either E E 641 or 642. |
+| ECE 560 | Modern Control Theory | State space models of linear systems, solutions of linear state equations (time-invariant and time-varying systems). Controllability and observability. State space realizations, multivariable system descriptions, matrix polynomial and factorization. State feedback, eigenvalue assignment. State observers. Observer based state feedback control. Youla parameterization and all stabilizing controllers. |
+| ECE 576 | Advanced Engineering Electromagnetics | Review of basic electromagnetic concepts, wave equations, propagation and its solutions, reflection, transmission and scattering, waveguides and resonators, electromagnetic theorems and principles, vector potentials, construction of solutions, and radiation, analytical techniques and applications. |
+| ECE 582 | Information Theory and Channel Coding | Information theory as applied to digital signals. Source coding. The channel coding theorem, linear error control codes, and algebraic error correction coding. Concatenation of codes and iterative decoding. |
+| ECE 631 | HVDC Systems | HVDC transmission systems and their power electronic converters (line-commutated and modular multilevel converters): classical HVDC with six-pulse and multi-pulse converters, voltage-sourced converter HVDC, modular multilevel converters for HVDC, multiterminal schemes such as HVDC grids; brief introduction to HVDC line power tapping and FACTS controllers. (Paraphrased by the fetch tool; exact wording Not verified.) |
+
+Offerings change by term (ECE 541 Winter 2027; ECE 560 and ECE 547 Fall 2026; ECE 558, 576, 582, 631 had no scheduled offering on 2026-11-27).
+
+### Fees, money and funding
+- Tuition, mandatory fees, application fee and proof of funds (international rates) are in section 5 above, with sources. Rate used in this file: 1 CAD = about 88.7 BDT (Wise, checked 2026-11-22; not re-checked 2026-11-27). Tuition per year is not published; total for 27 units at CAD 826.36 per unit = CAD 22,311.72 (≈ BDT 1,979,000), derived.
+- Funding: competitive research and teaching assistantships, tuition scholarships and awards; limited for part-time or certificate students (graduate programs page).
+
+### Contact
+- Program inquiries: gradinfo@ece.ualberta.ca
+- Graduate Advisors (MEng and MSc): ecegadv@ualberta.ca; MEng and MSc: eceadv@ualberta.ca; Graduate Admissions: engg.gradadm@ualberta.ca; General: eceinfo@ualberta.ca, 780-492-3332. Advising hours Monday to Friday, 8:30 a.m. to 4 p.m.
+- Address: 11th Floor, Donadeo Innovation Centre for Engineering, Edmonton, Alberta, T6G 1H9. Faculty of Graduate & Postdoctoral Studies, Killam Centre for Advanced Studies, 2-29 Triffo Hall, Edmonton, AB T6G 2E1.
+
+### Not verified in this pass
+Full list of approved courses, per-term plan, co-op/internship, employment outcomes, FAQ, application link wording, living cost, exact full program-page wording.
+
+## Sources
+
+- https://www.ualberta.ca/en/graduate-programs/master-of-engineering-electrical-and-computer-engineering.html (checked 2026-11-27)
+- https://www.ualberta.ca/en/engineering/electrical-computer-engineering/graduate-studies/degrees-and-programs/master-of-engineering.html (checked 2026-11-27)
+- https://apps.ualberta.ca/catalogue/course/ece/910 and /541, /547, /558, /560, /576, /582, /631 (checked 2026-11-27)
+- All other links are in the sections above (last checked 2026-11-22 to 2026-11-24).
