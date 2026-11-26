@@ -133,3 +133,99 @@ Source: [Courses page](https://www.dal.ca/study/program-sites/applied-computer-s
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check: MACSc is course-based (Project, Internship, Entrepreneurship streams). No thesis. Thesis status verified on the program and courses pages (checked 2026-11-27).
+
+Note: the page-reading tool returned summaries, not word-for-word text. Course descriptions were not on the program pages and the Academic Calendar page could not be opened: course descriptions are Not verified.
+
+Money rate: 1 CAD = 88.69 BDT (Wise mid-market, undated page; other sources show about 86 to 90, so BDT is approximate; checked 2026-11-27).
+
+### Program overview
+Source: https://www.dal.ca/academics/programs/graduate/applied-computer-science.html (checked 2026-11-27)
+
+- Course-based professional master's in Applied Computer Science, in person, Halifax. Full-time only. Optional internship and entrepreneurship tracks.
+- Tagline: "Become a better designer and builder of software technologies."
+- Duration: about 16 months or longer, without scheduled breaks. Program fee is payable each term over a 12-month full-time duration.
+- Careers listed: software engineer, solutions architect, software developer, chief technology officer.
+- Scholarships: Faculty of Computer Science awards, including Leadership and Citizenship Awards of CAD 1,000 to CAD 3,000 (≈ BDT 88,690 to 266,070).
+- Tuition note: international tuition is payable for up to 2 years, at the thesis-option rate. (Page's "why choose" text describes the Master of Digital Innovation: likely copy error, Not verified.)
+- Contacts: admissions graduate@cs.dal.ca; tuition student.accounts@dal.ca, 902-494-3998.
+
+### Courses and requirements
+Source: https://www.dal.ca/study/program-sites/applied-computer-science/program-overview/courses.html (checked 2026-11-27)
+
+Total: 30 credit hours. Revised MACS program is "subject to final MPHEC approval".
+
+Required (all streams, 9 credit hours):
+- CSCI 5100 Communicating Computer Science Ideas (3)
+- CSCI 5308 Advanced Topics in Software Development (3)
+- CSCI 5408 Data Management, Warehousing, & Analytics (3)
+
+Electives (5000-level CSCI, 3 credits each):
+- CSCI 5001 Privacy & IT
+- CSCI 5193 Technology Innovation
+- CSCI 5306 Software Comprehension
+- CSCI 5409 Advanced Topics in Cloud Computing
+- CSCI 5410 Serverless Data Processing
+- CSCI 5411 Advanced Cloud Architecting
+- CSCI 5501 Deep Learning Applications
+- CSCI 5601 Designing for User Experience
+- CSCI 5708 Mobile Computing
+- CSCI 5709 Advanced Topics in Web Development
+- CSCI 5901.03 and CSCI 5902.03 Special Graduate Topics in Applied Computer Science (3 each)
+
+Streams:
+
+| Stream | Structure |
+| --- | --- |
+| Internship (30 cr) | 9 required + 18 elective + 3 work term. Two graduate CSCI electives (5000/6000 level); CSCI 9890 Internship Preparation (0 cr, mandatory); CSCI 9100 Industrial Internship (3) |
+| Entrepreneurship | 9 required + 6 stream-specific + 12 elective + 3 work term. Two of: BUSI 5902 Starting Lean, BUSI 6002 New Venture Creation, BUSI 6007 Innovation Management (3 each); CSCI 9200 Entrepreneurial Internship (3) |
+| Project | 9 required + 15 elective + 6 research project. One graduate CSCI elective (5000/6000); CSCI 9301 Research Project 1 (3); CSCI 9302 Research Project 2 (3) |
+
+Course descriptions: Not verified.
+
+### Admission requirements
+Source: https://www.dal.ca/study/program-sites/applied-computer-science/admissions.html (checked 2026-11-27)
+
+- Four-year undergraduate degree (or equivalent), minimum GPA 3.0, plus program-specific requirements. Meeting the minimum does not guarantee admission.
+- MACS: GPA of at least 3.0 in technical courses, knowledge equivalent to second-year core CS, and an admissions interview. Non-CS applicants may need qualifying year courses. Applicants away from academia: relevant recent industry experience.
+- Documents: unofficial transcripts from every institution (including transfer credit grades); proof of English proficiency (international); CV; statement of intent; two reference letters (university, college or company email, or official letterhead; may be emailed signed to graduate@cs.dal.ca); CAD 115 application fee (≈ BDT 10,200).
+- English: IELTS Academic 7 or TOEFL iBT 92, if required (program page).
+- Interview required; must be scheduled within one month of request or the application may close.
+- Permanent residents must show proof of residency or pay international fees.
+- Questions: cs.admissions@dal.ca
+
+### Admission process
+Source: https://www.dal.ca/study/program-sites/applied-computer-science/admissions/macs-admission-process-and-application-state.html (checked 2026-11-27)
+
+1. Initial screening: GPA from last two years, English, computing background, reference letters, transcripts. "We do not consider applications until they are complete."
+2. Interview for applicants who pass screening.
+3. Final review: offer (rolling), decline, or conditional path requiring CSCI 5990 Software Development Concepts in the Fall semester.
+4. Faculty of Graduate Studies issues the final decision.
+- "conditional offers of admission to the MACS program are only for exceptional circumstances and are rare."
+- Deferral: once; September deferrals due August 18, January due December 18, summer April 18.
+
+### Deadlines (MACS)
+
+| Intake | International | Canadian |
+| --- | --- | --- |
+| September | April 1 | June 1 |
+| January | August 1 | October 1 |
+| May | January 15 | February 28 |
+
+May admission is not offered to students required to take CSCI 5990 (Fall only).
+
+### Cost
+Fees: see section 5 above (international; fee schedule PDF https://www.dal.ca/content/dam/www/admissions/cost-and-payment/tuition-and-fee-schedules/masters-tuition-fee-schedule.pdf, not re-opened on 2026-11-27, so those amounts remain as earlier noted). Year total vs program total: Not verified.
+
+## Sources
+
+- https://www.dal.ca/academics/programs/graduate/applied-computer-science.html (2026-11-27)
+- https://www.dal.ca/study/program-sites/applied-computer-science/program-overview/courses.html (2026-11-27)
+- https://www.dal.ca/study/program-sites/applied-computer-science/admissions.html (2026-11-27)
+- https://www.dal.ca/study/program-sites/applied-computer-science/admissions/macs-admission-process-and-application-state.html (2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate?amount=1 (2026-11-27)
