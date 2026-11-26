@@ -120,6 +120,66 @@ Source: [program page](https://www.mun.ca/engineering/graduate/programs/computer
 
 ---
 
+## Full Official Program Information
+
+Thesis check (2026-11-27): course-based, no thesis. The Calendar says "The Faculty of Engineering and Applied Science offers a course-based M.A.Sc. in Computer Engineering." The thesis route is not part of this program.
+
+### Program page (official wording, as read)
+Source: https://www.mun.ca/engineering/graduate/programs/computer-engineering/masc/ (checked 2026-11-27)
+
+- Course-based. Prepares graduates for further post-graduate study or careers in telecommunications, information technology, software development and digital hardware design.
+- Balanced background in computer hardware and software: software development, hardware design, telecommunication systems, computer networks, parallel computing.
+- About 2 years. Intake: Fall. Total 33 credit hours: core courses, elective courses and a project course.
+- Admission: "normally a second-class degree" in computer engineering or a closely related field (information and computer science, electrical and information engineering, computer information technology) from a university of recognized standing.
+- Project: ENGI 981A (0 credit hours) and ENGI 981B (3 credit hours). "The project should be taken in the last two semesters."
+- ENGI 9818 and ENGI 9819 must be completed with a final grade of no less than 65% before registering for other program courses.
+- Other elective courses may be approved by the Program Chair. Extra courses beyond requirements incur tuition for each extra course.
+- Contacts: Program Chair Dr. Thumeera Wanasinghe (thumeerawa@mun.ca); Program Officer Nicole Parisi (nparisi@mun.ca).
+
+| Core (5 x 3 credits) | Title |
+| --- | --- |
+| ENGI 9818 | Computer Software Foundations |
+| ENGI 9819 | Computer Hardware Foundations |
+| ENGI 9865 | Advanced Digital Systems |
+| ENGI 9867 | Advanced Computing Concepts for Engineering |
+| ENGI 9874 | Software Design and Specification |
+
+| Electives (choose 5 x 3 credits) | Title |
+| --- | --- |
+| ENGI 9804 | Industrial Machine Vision |
+| ENGI 9823 | Computer Security |
+| ENGI 9861 | High-Performance Computer Architecture |
+| ENGI 9868 | ASIC Design |
+| ENGI 9869 | Advanced Concurrent Programming |
+| ENGI 9871 | Information Theory and Coding |
+| ENGI 9872 | Digital Communications |
+| ENGI 9875 | Embedded and Real-Time Systems Design |
+| ENGI 9876 | Advanced Data Networks |
+| ENGI 9877 | Cryptography |
+| ENGI 9878 | Wireless and Mobile Communications |
+
+### Graduate Calendar, section 8.2 (summary of regulations)
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/8/2/ (checked 2026-11-27)
+
+- 8.2.2 Admission: limited and competitive. At least a second-class degree in computer engineering, computer science, electrical engineering or a related discipline, with background in programming, data structures, digital hardware, discrete mathematics, statistics and engineering design. Must meet the English Proficiency Requirements of the School of Graduate Studies.
+- 8.2.3 Degree requirements: 33 credit hours. Core: six courses, 18 credits, including the project course (ENGI 981A/B). Electives: five courses, 15 credits; each semester the ECE Department Head gives eligible options or approves others. ENGI 9818 and 9819 need at least 65% before other courses, unless the Head approves an exception.
+- ENGI 981A/B is "a two-semester, 3 credit hour, linked course". A PAS in the first semester is needed to proceed to 981B. At least four core courses must be completed before starting 981A.
+- 8.2.4 Evaluation: minimum 65% in all program courses. A failed core course must be repeated; a failed elective may be repeated or replaced. Only two repetitions or replacements are allowed. Below 65% on a repeat or replacement means withdrawal.
+- Course descriptions: not on this page. Course descriptions and prerequisites: Not verified.
+
+### Engineering graduate admissions page
+Source: https://www.mun.ca/become/graduate/programs/engineering.php (checked 2026-11-27)
+
+- "minimum second class or 'B' standing" in a bachelor's degree in an appropriate area. The MASc in Computer Engineering is course-only and can be completed in less than two years of full-time study.
+- Fall deadline: April 1 (MASc, all disciplines). Winter (August 1) does not include Computer Engineering.
+- International tuition: CAD 1,074 to 1,611 (≈ BDT 93,500 to 140,200) per semester, plus a MASc special fee (amount in Minimum Expense Form, see Cost section above). Rate used: 1 CAD = 87.0358 BDT (xe.com, 2026-11-21). A fresh web search on 2026-11-27 showed rates from 86 to 90 BDT, so the figure is approximate.
+- No English requirement listed on this page; no funding amounts listed for MASc.
+
+### Not verified
+- Course descriptions and prerequisites, per-term plan, numeric GPA or Bangladesh equivalent, co-op, DLI number, IRCC fees (see sections above).
+
+---
+
 ## Math and grade check (strict, 2026-11-25) - overrides older 'Can I apply' text above
 
 | Item | Result |
