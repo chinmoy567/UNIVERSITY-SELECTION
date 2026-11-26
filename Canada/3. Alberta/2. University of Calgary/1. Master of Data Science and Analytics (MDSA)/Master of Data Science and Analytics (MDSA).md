@@ -157,3 +157,75 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check: course-based, no thesis, no supervisor needed. Source: https://grad.ucalgary.ca/future-students/explore-programs/data-science-and-analytics-mdsa-course (checked 2026-11-27)
+
+### Overview, format and structure
+Source: https://grad.ucalgary.ca/future-students/explore-programs/data-science-and-analytics-mdsa-course (checked 2026-11-27)
+
+- The Faculty of Science, Haskayne School of Business and Cumming School of Medicine developed the curriculum together.
+- Course-based; a course-based degree is usually considered a final degree. Continuous, no scheduled break.
+- Designed for 12 months full-time (4 months if moving from the Diploma). Maximum 6 years.
+- Structure: four core courses (Working with Data and Visualization; Statistical Data Analysis; Statistical Modeling with Data; Big Data Management), four courses in one specialization, an Integrated Topics in Data Science and Analytics course, and a professional or research internship.
+- Specializations: Business Analytics; Data Science; Financial and Energy Markets Data Modelling; Health Data Science and Biostatistics.
+
+### Degree requirements (Graduate Calendar, Direct-entry)
+Source: https://calendar.ucalgary.ca/programs/DSANMDSAN/program-details-krhha (checked 2026-11-27)
+
+| Item | Official text |
+| --- | --- |
+| Total coursework | 33 units |
+| Internship | Paid internship is registered as DATA 693. Unpaid internship is registered as DATA 695. |
+| Withdrawing/dropping | Needs approval of the Academic Coordinator |
+| Extra-to-program courses | Need Program Director approval |
+| Advanced credit | Normally not given for Data Science and Analytics credentials |
+| Flexible Grade Option (CG) | Available; affects eligibility for internal awards |
+| Time limit | Expected 12 months; maximum six years from program start |
+
+- Conflict: the 2023 archived graduate calendar says 36 units (https://ucalgary.ca/pubs/calendar/grad/archives/2023/data-science-analytics.html, seen only in a search result, not opened). The current calendar (33 units) is more official. This also means the old note "about 30 units" above is wrong; use 33 units.
+- Core course codes seen in a search result only (Not verified on the live page): DATA 601 Working with Data and Visualization; DATA 602 Statistical Data Analysis; DATA 603 Statistical Modelling with Data; DATA 604 (title varies by year).
+- Full course list with codes, units and descriptions, and term plan: Not verified (the calendar tab did not load course details).
+
+### Admission requirements
+Source: https://calendar.ucalgary.ca/programs/DSANMDSAN/admissions-cMwRI (checked 2026-11-27)
+
+- Must meet the Faculty of Graduate Studies admission requirements.
+- One course in computer programming (such as Computer Science 217, Computer Science 231, Data Science 211, or equivalent).
+- One course in statistics (such as Statistics 205, 217, 321, 327, or equivalent).
+- One course in either calculus or linear algebra (such as Mathematics 211, 249, 265, 275, or equivalent).
+- English language proficiency under the Faculty of Science ELP requirements for graduate programs.
+- Exceptional circumstances: applicants without the formal academic requirements but with significant life achievement may be considered. They give the Data Science Program Director evidence of their potential, and may need an in-person interview or assessment tests.
+
+Source: https://grad.ucalgary.ca/future-students/explore-programs/data-science-and-analytics-mdsa-course (checked 2026-11-27)
+
+- Minimum 3.0 GPA on a 4.0 scale over the last two years of full-time undergraduate study; 4-year degree from a recognized institution.
+- At least a "B" in one programming, one statistics and one calculus or linear algebra course (or equivalents).
+- Unofficial transcripts for all post-secondary education, proof of prerequisites, and a GPA calculation worksheet.
+- No work samples, reference letters or test scores required.
+
+### Deadlines
+Source: same program page (checked 2026-11-27)
+
+- Application opens September 1. International: March 1. Iranian applicants for Fall: December 1.
+- Canadian and permanent resident applicants: not applicable; domestic students apply to the Graduate Certificate (laddered pathway). (This corrects the older note above that said May 1 from the Science page.)
+
+### Tuition, funding, immigration
+- The program page lists no tuition amounts and refers to the Graduate Calendar. Tuition figures above come from the calendar tuition table (see Section 5). Total cost, CAD to BDT rate and date: Not verified in this pass (the rate above, 88.7, is from an undated third-party page).
+- Scholarships, internship pay, PGWP details: see Section 8 above; not re-verified in this pass.
+
+### Contact
+Graduate Program Administrator: prograd.science@ucalgary.ca. Science A 229, 2500 University Drive NW, Calgary, AB T2N 1N4. Each cohort has an Academic Coordinator. The page has no FAQ section.
+
+## Sources
+
+| Source | Checked |
+| --- | --- |
+| https://grad.ucalgary.ca/future-students/explore-programs/data-science-and-analytics-mdsa-course | 2026-11-27 |
+| https://calendar.ucalgary.ca/programs/DSANMDSAN | 2026-11-27 |
+| https://calendar.ucalgary.ca/programs/DSANMDSAN/admissions-cMwRI | 2026-11-27 |
+| https://calendar.ucalgary.ca/programs/DSANMDSAN/program-details-krhha | 2026-11-27 |
+| https://science.ucalgary.ca/future-students/professional-programs/application-information | 2026-11-24 |
