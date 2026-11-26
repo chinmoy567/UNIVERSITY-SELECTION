@@ -141,3 +141,75 @@ Source: [grad page](https://grad.ucalgary.ca/future-students/explore-programs/el
 | CGPA used | 3.34 (portal shows 3.29 until the 6-credit A+ capstone is added) |
 | Cost | 41,487 to 53,933 CAD (about BDT 3.68M to 4.78M) |
 | Next step | Email meng@ucalgary.ca: "I hold a 4-year BSc in CSE from BAIUST. Is it accepted as engineering or equivalent? Which intake and deadline apply? Is the foundation semester needed?" |
+
+---
+
+## Full Official Program Information
+
+Note: the page-reading tool returned summaries, not word-for-word text. Wording below is as close to official as the tool allowed. Thesis status: course-based, no thesis, no supervisor (verified).
+
+Exchange rate used: 1 CAD = about 88.61 BDT ([Wise search snippet](https://wise.com/gb/currency-converter/cad-to-bdt-rate), THIRD-PARTY, checked 2026-11-27; sources range 86 to 90, so approximate).
+
+### Program page (Faculty of Graduate Studies)
+
+Source: https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course (checked 2026-11-27)
+
+- Overview: two-year, course-based Master of Engineering in Software. "Foundation courses are built into the program for those with no software engineering background." Offers Fall and Winter intake.
+- Duration: two years full-time; accelerate to 8 months (Fall start) or 12 months (Spring start); internship stream extends to 3 years.
+- Structure: foundation semester of three courses (Spring and Summer) for students without a software engineering background. Core: 10 to 13 courses depending on foundation need; includes Agile Software Engineering, Software Release Planning, Advanced Software Testing, Automated Software Engineering; two courses are a team design project. General engineering: up to two courses (e.g. innovation and entrepreneurship, ethics and law, project management, engineering tools).
+- Admission: minimum 3.0 on a 4.0 scale over the past two years of full-time undergraduate study; four-year engineering baccalaureate or equivalent; unofficial transcripts accepted for initial evaluation, offers conditional on official transcripts; no work samples, references or test scores required; English proficiency applies if primary language is not English.
+- Deadlines:
+
+| Intake | Background | International | Domestic |
+| --- | --- | --- | --- |
+| May 1 | No software engineering | December 1 | April 1 |
+| September 1 | Software engineering | April 1 | April 1 |
+| January 1 | Software engineering | August 1 | Closed |
+
+  Iranian applicants have extended windows. Rolling review; program fills quickly. Year of deadlines not stated.
+- Internship: 8 to 16 month full-time paid internship with companies across Canada; limited spots.
+- Tuition: self-funded; amounts not on this page (refers to Graduate Calendar and Graduate Tuition and Fee Estimator).
+- Outcomes: graduates work as software engineers in public or private sector, consulting, or management. A course-based master's is usually a final degree.
+- Contact: Department of Electrical and Software Engineering, Schulich School of Engineering, ENC 205, 2500 University Drive NW, Calgary, AB T2N 1N4; 403.220.2001; meng@ucalgary.ca. No FAQ on page.
+
+### Schulich program page
+
+Source: https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software (checked 2026-11-27)
+
+- MEng in Electrical and Computer Engineering, Software Engineering specialization; course-based, "two years or less"; no supervisor required.
+- Pathway for engineers from other backgrounds: foundation courses (C, Python, Java, file handling, basic program design, data structures, testing and debugging); 3 courses; free tutoring and academic support.
+- Pathway for software/computer engineering background: advanced software skills, hands-on learning, project-management courses.
+- Advanced skills (Fall and Winter): ten core advanced courses including data engineering, large-scale data analytics systems, virtual reality, machine learning and artificial intelligence.
+- Skills: software engineering fundamentals, design and architecture, machine learning and data engineering, innovation and entrepreneurship, project management.
+- MEng Internship Program runs through the Engineering Career Centre. Info webinar on YouTube. Apply early; rolling offers.
+
+### Graduate Calendar
+
+Source: https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI (checked 2026-11-27)
+
+- Software Engineering specialization: four-year bachelor's degree in engineering from a recognized institution. Applicants with a four-year Software Engineering degree or equivalent may be exempt from the 9 units of foundation courses; decided at admission. Faculty of Graduate Studies and Schulich requirements also apply.
+- Other disciplines (general MEng ECE): may be considered with additional undergraduate courses set by the Graduate Program Director.
+
+Source: https://calendar.ucalgary.ca/programs/ENECMENG/program-details-krhha (checked 2026-11-27)
+
+- "Specialization in Software Engineering students may not take any undergraduate courses for credit."
+- Foundation courses are taken in Spring and Summer, then continue in Fall (exception to the usual Fall-and-Winter schedule).
+
+### Course list and descriptions
+
+- Official 2026-27 requirements PDF: Not verified (Schulich PDF link returned 404; calendar requirement sets were empty when read).
+- Search result for the 2025-2026 PDF (not opened) names foundation courses ENSF 692, 693, 694 and core courses ENSF 607, 608, 611, 614; winter choice of ENSF 617 or SENG 637. 2024-2025 PDF (not opened) also named ENSF 609 and 610 (Team Design Project I and II) and ENSF 612. Titles, units and descriptions: Not verified. A C+ or lower in a course normally requires withdrawal (search snippet, Not verified on page).
+- Per-course credits, term plan, full course descriptions: Not verified.
+
+### Cost, funding, immigration
+
+- Tuition and fees: see section 5 above (already sourced from Calendar P.2.3.1). Total: 10 courses CAD 41,487.30 (≈ BDT 3,676,000); 13 courses CAD 53,933.49 (≈ BDT 4,779,000) at 88.61. International fee rate.
+- Funding: self-funded. Career outcomes, PGWP: see section 8.
+
+### Sources
+
+- https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course (checked 2026-11-27)
+- https://schulich.ucalgary.ca/electrical-computer/programs/graduate/master-engineering-course-based-software (checked 2026-11-27)
+- https://calendar.ucalgary.ca/programs/ENECMENG/admissions-cMwRI (checked 2026-11-27)
+- https://calendar.ucalgary.ca/programs/ENECMENG/program-details-krhha (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate (checked 2026-11-27)
