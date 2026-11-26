@@ -126,3 +126,113 @@ Only the Fall (September) intake is shown here. Other intakes were removed.
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check (2026-11-27): No thesis and no research supervisor is required. The program is course-based with an internship (ISEC 691) or capstone (ISEC 681). Thesis status: OK.
+
+Money rate used in this section: 1 CAD = 88.69 BDT (Wise mid-market, checked 2026-11-27; other pages showed 85.9 to 90.35, so approximate). Fees below are international rates unless said otherwise.
+
+### Overview and format
+Source: https://grad.ucalgary.ca/future-students/explore-programs/information-security-and-privacy-misp-course (checked 2026-11-27)
+
+- The Master of Information Security and Privacy (MISP) is a course-based, in-person program offered by the Faculty of Graduate Studies, with the Faculty of Science as the home faculty.
+- It prepares students to defend software and network systems against current and future threats, and includes an optional internship.
+- It is a continuous program with no scheduled break.
+- Graduates may pursue technology, business start-ups, computer science research, government, and IT roles.
+- Complete 8 courses (24 credits) across 2 of 3 Certificate options: Data Privacy, Network Security, or Software Security. Complete either an internship or a capstone project (6 credits), for 30 credits total.
+- Laddered pathway: students who complete two graduate certificates (Software Security, Data Privacy, or Network Security) can apply to the Master's and receive credit for the 24 units (12 per certificate). Certificates must be completed within five years of enrolling in the next credential. Parchments are issued for each credential.
+- Time: direct-entry full-time about 12 months expected, maximum four years. Laddered about two years expected, maximum four years from the start of the first certificate. An Academic Advisor is assigned to each cohort.
+
+Source: https://science.ucalgary.ca/information-security (checked 2026-11-27)
+
+- Professional Graduate Program in Information Security & Privacy focuses on practical cybersecurity and privacy skills, using real-world scenarios and industry tools.
+- First program in Canada designated an International Academic Partner by ISC2 (CISSP pathway).
+- The MISP requires 30 units: Graduate Certificate in Network Security (12 units), Graduate Certificate in Data Privacy (12 units), and either a competitive professional internship in industry or a research/capstone project (6 units). Entry routes: Direct Entry and Laddered Pathway.
+- Be the First Scholarship: up to CAD 12,000 (≈ BDT 1,064,280) toward tuition for eligible Canadian citizens and permanent residents enrolled full-time in a laddered Professional Graduate Program (CAD 6,000 in Fall and CAD 6,000 in Winter). Not for international students.
+- Conflict: the Science page names Network Security + Data Privacy; the Grad Studies page says any 2 of 3 certificates. Not resolved; ask the university.
+
+### Calendar program entry
+Source: https://calendar.ucalgary.ca/programs/MISPMISP (checked 2026-11-27)
+
+- "The Master of Information Security and Privacy is a full-time, continuous program with no scheduled break." The program can also be completed full- or part-time (laddered).
+- Departments: Computer Science; Faculty of Graduate Studies; Mathematics and Statistics; Faculty of Science.
+- Contact: prograd.science@ucalgary.ca
+
+Source: https://calendar.ucalgary.ca/programs/MISPMISP/program-details-krhha (checked 2026-11-27)
+
+- "In addition to Faculty of Graduate Studies requirements, the Faculty of Science requires students to complete 30 units."
+- The calendar page shows five unnamed course sets and one elective set (codes not shown on the page). One substitution is allowed: normally one course, but with Program Director permission another course may be taken instead.
+- Students must seek approval from the Academic Coordinator to withdraw from, or drop, courses.
+- Registration in courses extra-to-program requires approval from the Program Director.
+
+### Courses (verified individual course pages)
+Sources: https://calendar.ucalgary.ca/courses/1641391, /1641401, /1652461, /1652481, /1652451, /1641451 (checked 2026-11-27)
+
+| Code | Title | Units | Official description | Prerequisite |
+| --- | --- | --- | --- | --- |
+| ISEC 601 | Applied Cryptography | 3 | The basics of cryptographic algorithms and protocols including encryption and authentication algorithms and key establishment protocols. Security evaluation in computational and information theoretic settings, and attacks on cryptographic applications and systems. | Admission to the Graduate Certificate in Network Security, the Graduate Certificate in Data Privacy, or the Master of Information Security and Privacy. |
+| ISEC 603 | Network Security | 3 | Reviews cryptographic methods and protocols used to secure networks; network security protocols and architecture; web, internet and wireless security; intrusion detection and prevention tools; privacy-enhancing systems; applying artificial intelligence and data analytics; virtualizing network systems. (Paraphrase of the official text; exact wording not captured.) | Admission to the Graduate Certificate in Network Security or the Master of Information Security and Privacy. |
+| ISEC 643 | Policies, Standards and Programs | 3 | Development of security and privacy policies. Policy compliance and enforcement in various legislative frameworks. Policy considerations for social engineering and insider attacks. Information security and privacy standards. Security/privacy awareness and training programs. Development of Privacy Impact Assessments. | Admission to the Graduate Certificate in Network Security, Software Security, Data Privacy, or the Master of Information Security and Privacy. |
+| ISEC 651 | Topics in Security and Privacy | 3 | Advanced topics in information security and privacy. (Formerly ISEC 613.) May be repeated for credit. | Same as ISEC 643. |
+| ISEC 681 | Information Security and Privacy Capstone | 6 | Integration of knowledge and skills by identifying and/or formulating an information security and privacy problem, and devising a solution informed by the latest research in computer science and information security and privacy. The final product of the capstone project will include a substantive, well-researched and professional document, and a presentation of findings. | Admission to the Master of Information Security and Privacy and consent of the Department. |
+| ISEC 691 | Information Security and Privacy Internship | 6 | Information security and privacy internship at a business or organization. | Admission to the Master of Information Security and Privacy and consent of the Department. |
+
+- Credit for ISEC 681 and ISEC 691 is not allowed together (one of the two only) (search summary of the calendar; not seen on the course pages).
+- The other courses of the Network Security, Data Privacy and Software Security certificates (codes, titles, descriptions): Not verified. The calendar certificate pages show no course list (Data Privacy certificate page: https://calendar.ucalgary.ca/programs/DPGCERT/program-details-krhha says four required courses, 12 units, expected four months, maximum two years).
+- Term-by-term plan: Not verified (not published).
+
+### Admission requirements
+Sources: https://science.ucalgary.ca/future-students/professional-programs/application-information and the Grad Studies page above (checked 2026-11-27)
+
+- Minimum admission GPA of 3.00 on a four-point scale, or equivalent, calculated on the last 60 units (20 half-course equivalents) of the 4-year bachelor's degree. Graduate degree GPAs are excluded. (Grad Studies page words it as last two years of full-time study, at least 10 full-course equivalents or 60 units.)
+- Completion of the listed undergraduate prerequisites with at least a "B" grade or equivalent: computer programming (e.g., CPSC 233); algorithms and data structures (e.g., CPSC 331); either operating systems (e.g., CPSC 457) or computer networks (e.g., CPSC 441).
+- Four-year undergraduate degree from a recognized institution.
+- Documents: all unofficial transcripts and degrees for all post-secondary education with the grade scale of each institution; Proof of Prerequisite Completion form; GPA Calculation Worksheet.
+- Not required: work samples, reference letters, test scores (Grad Studies page).
+- English: the requirement may be waived if you hold a degree from an institution that instructs in English (rules under calendar "G.A.1 Graduate Qualifications"). Scores are in the English section above (IELTS 7.0 overall, 6.5 each band).
+- How to apply (international): select "Science Professional Programs: Master of Information Security and Privacy - Direct Entry". Domestic applicants apply to "Science Professional Programs: Network Security - Graduate Certificate" (laddered).
+
+### Deadlines and intake
+Source: https://science.ucalgary.ca/future-students/professional-programs/application-information (checked 2026-11-27)
+
+| Item | Date |
+| --- | --- |
+| Intake | Fall (Fall 2027) |
+| Applications open | September |
+| International deadline | March 1 |
+| Domestic deadline | May 1 |
+| Iranian applicants | Until December 1 (Grad Studies page) |
+
+### Tuition and fees
+Source: https://calendar.ucalgary.ca/pages/416de8d4b1f340f6bbf17cb8cf6817d5 (figures carried from the Cost section, checked 2026-11-22; not re-opened on 2026-11-27). Application page: "Tuition is assessed per course." Fee details are on the Faculty of Graduate Studies website.
+
+- International tuition per 3-unit course: CAD 5,046.54 (≈ BDT 447,600); capstone/internship rate per 3 units: CAD 2,034.42 (≈ BDT 180,400). Estimated total tuition, whole program (about 12 months): about CAD 44,441 (≈ BDT 3,941,500). Mandatory fees: Not verified.
+
+### Career and immigration
+- ISC2 International Academic Partner (CISSP pathway). Graduates may pursue technology, business start-ups, computer science research, government, and IT roles (Grad Studies page). Employment statistics: Not verified.
+- Co-op: none. Optional competitive internship (ISEC 691).
+- PGWP and DLI: see Section 8 above.
+
+### Contact
+Source: https://science.ucalgary.ca/information-security/contacts (checked 2026-11-27)
+
+- Email: prograd.science@ucalgary.ca. Phone: 403.220.3680.
+- Current students: Science B (SB) 149, Science Student Centre, 2500 University Drive NW, Calgary, AB, T2N 1N4.
+- Hours: Mon, Tue, Thu, Fri 9:00am to 4:00pm; Wed 10:00am to 4:00pm. Future students can book a virtual appointment with a recruitment advisor.
+
+### Not verified
+- Other certificate courses, per-term plan, mandatory fees, seat deposit, FAQ, employment rate, exact ISEC 603 wording.
+
+## Sources
+
+- https://science.ucalgary.ca/information-security (checked 2026-11-27)
+- https://grad.ucalgary.ca/future-students/explore-programs/information-security-and-privacy-misp-course (checked 2026-11-27)
+- https://calendar.ucalgary.ca/programs/MISPMISP and /program-details-krhha (checked 2026-11-27)
+- https://calendar.ucalgary.ca/courses/1641391, 1641401, 1652461, 1652481, 1652451 (checked 2026-11-27)
+- https://science.ucalgary.ca/future-students/professional-programs/application-information (checked 2026-11-27)
+- https://science.ucalgary.ca/information-security/contacts (checked 2026-11-27)
+- https://wise.com/gb/currency-converter/cad-to-bdt-rate?amount=1 (checked 2026-11-27)
+- Other sources as listed in sections 1 to 8 above (checked 2026-11-22 to 2026-11-25)
