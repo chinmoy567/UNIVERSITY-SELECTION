@@ -28,48 +28,41 @@ Then I looked at IELTS (7.0+ is a risk), thesis (skip), and cost.
 
 ---
 
-## Tier A: Best match (no percentage rule published, no math rule found)
+## Full ranking (two separate percentage checks)
 
-| Rank | University | Program | Prov. | Result | Percentage rule vs my 66% / 68% | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
+**Check 1 = 4-year bachelor's overall (I have 66%).** **Check 2 = last 2 years (I have 68%).**
+
+| Symbol | Meaning |
+|---|---|
+| ❌ Fail | University publishes a percent above mine |
+| ⚠️ Borderline | Rule is GPA 3.0 (about "B", roughly 70%). My GPA is 3.34 overall and about 3.47 in the last 4 semesters, but a percent conversion of 68% could fall just under B |
+| ❓ Not published | University gives no number. Email them |
+
+| Rank | University | Program | Check 1: overall rule (me 66%) | Check 2: last-2-years rule (me 68%) | Other blocker | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Saint Mary's University | MSc Computing and Data Analytics | NS | **Maybe** | None published. Site says "check country-specific GPA". Technical interview | 6.5 / 6.0 | May 1, 2027 | **CAD 43,368** (4 terms, my estimate) ≈ BDT 3,816,000 |
-| 2 | Memorial University (MUN) | MASc Software Engineering | NL | **Maybe** | "Second class" only. No number. Not First Class, so I probably count as second class | 6.5 | Apr 1 | **CAD 29,948** ≈ BDT 2,635,000 |
-| 3 | University of Calgary | MEng Software | AB | **Maybe** | 3.0/4.0 in last 2 years. No percent published. My last 4 semesters are 3.47. Risk: my CSE degree must count as "engineering" | 6.5 / 6.0 | Apr 1 | **CAD 41,487 to 53,933** (10 to 13 courses, tuition only) ≈ BDT 3,651,000 to 4,746,000 |
-| 4 | Memorial University (MUN) | MASc Computer Engineering | NL | **Maybe** | "Second class" only. Risk: wants an engineering degree | 6.5 | Apr 1 | **CAD 29,948** ≈ BDT 2,635,000 |
+| 1 | Saint Mary's | MSc Computing & Data Analytics | ❓ Not published | ❓ Not published | Technical interview | 6.5/6.0 | May 1, 2027 | CAD 43,368 ≈ BDT 3,816,000 |
+| 2 | MUN | MASc Software Eng. | ❓ "Second class" (no number) | ❓ Not published | None found | 6.5 | Apr 1 | CAD 29,948 ≈ BDT 2,635,000 |
+| 3 | UCalgary | MEng Software | ❓ Not published | 3.0/4.0 → my GPA 3.47 ✅ (as GPA). Percent not published | CSE must count as "engineering" | 6.5/6.0 | Apr 1 | CAD 41,487–53,933 ≈ BDT 3,651,000–4,746,000 |
+| 4 | MUN | MASc Computer Eng. | ❓ "Second class" (no number) | ❓ Not published | Wants engineering degree | 6.5 | Apr 1 | CAD 29,948 ≈ BDT 2,635,000 |
+| 5 | Dalhousie | Master of Digital Innovation (MDI) | ❓ Not published | 3.0 (B) in last 60 credits ⚠️ borderline vs 68% | IELTS 7.0 | 7.0 | Apr 1 | About CAD 39,151 ≈ BDT 3,445,000 |
+| 6 | UCalgary | Info Security & Privacy (MISP) | ❓ Not published | 3.0/4.0 in last 60 units ⚠️ borderline | IELTS 7.0 / 6.5 each band | 7.0/6.5 | Mar 1, 2027 | CAD 44,441 ≈ BDT 3,911,000 |
+| 7 | Dalhousie | Applied CS (MACSc) | 3.0 (4.3 scale) in technical courses ⚠️ borderline | Screens last 2 years ⚠️ | Interview. IELTS 7.0 | 7.0 | Apr 1 | About CAD 17,938 ≈ BDT 1,579,000 |
+| 8 | UAlberta | MEng Electrical & Computer Eng. | ❓ Not published | 3.0/4.0 in last 60 units ⚠️ borderline | Very competitive (FAQ says 3.7–3.8) | 7.0/6.0 | Apr 7 | CAD 22,932–25,411 ≈ BDT 2,018,000–2,236,000 |
+| 9 | MUN | Master of Data Science | ❓ "Second class" (no number) | ❓ Not published | **Math:** multivariate calculus (my Calculus C+) | 6.5 | Jan 15 | CAD 26,936 (1 yr) ≈ BDT 2,370,000 |
+| 10 | UWinnipeg | MSc Applied CS & Society | 3.0 on 4.5 scale (≈67%) ⚠️ borderline | ❓ Not published | **Math:** 3.0 pooled in computing+math+stats (mine 2.75–2.92) | 6.5 | Feb 1 | About CAD 40,333 ≈ BDT 3,549,000 |
+| 11 | UNB | Master of Applied Cybersecurity | "B average"; First/Upper-Second if classed ⚠️ I am not First Class | ❓ Not published | Strict background list | 7.0 | Feb 28 | CAD 30,740 ≈ BDT 2,705,000 |
+| 12 | UNB | Master of CS by Coursework | B or B+ (pages conflict); First/Upper-Second if classed ⚠️ | ❓ Not published | IELTS 7.0, 7.0 in writing | 7.0 | Feb 28 | CAD 18,740+ ≈ BDT 1,649,000+ |
+| 13 | StFX | Applied CS (MACS) | **70%** ❌ Fail | ❓ Not published | Official page blocked; ask macs@stfx.ca | 6.5/6.0 | May 1 | CAD 40,176 ≈ BDT 3,535,000 |
+| 14 | Cape Breton | AI & Business Analytics (MAIBA) | ❓ Not published | **3.0 = 73–76%** in last 60 credits ❌ Fail | Stats rule OK (B+) | 6.5/6.0 | May 15, 2027 | CAD 35,195 ≈ BDT 3,097,000 |
+| 15 | Acadia | MSc CS (course/project) | ❓ Not published | **70% (B-)** in last 2 years/major courses ❌ Fail | 9 courses at B- incl. Calculus I (mine C+) | 7.0/6.5 | Apr 1 | CAD 39,814 ≈ BDT 3,504,000 |
+| 16 | MUN | MSc CS, course route | **75%** ❌ Fail | ❓ Not published | Only dept head can waive | 6.5 | Dec 1 | CAD 15,600+ ≈ BDT 1,373,000+ |
+| 17 | MUN | Master of AI | **75% / Upper Second** ❌ Fail | ❓ Not published | Needs vector calculus | 6.5 | Dec 1 | CAD 29,948 ≈ BDT 2,635,000 |
+| 18 | UCalgary | Data Science & Analytics (MDSA) | ❓ Not published | 3.0/4.0 in last 2 years ⚠️ | **Math:** Calculus & Lin. Algebra need B (mine C+) ❌ Fail | 7.0/6.5 | Mar 1, 2027 | CAD 47,453 ≈ BDT 4,176,000 |
+| 19 | Regina | MEng Software Systems (Project) | **70%** ❌ Fail | Exception: **75%** in last 2 years ❌ Fail | — | 6.5/6.0 | Jan 31 | CAD 26,935 ≈ BDT 2,370,000 |
+| 20 | Regina | MSc CS, course-based | **70% overall, 75% CS** ❌ Fail | ❓ Not published | Admission suspended | 6.5 | Feb 15 | CAD 26,171 ≈ BDT 2,303,000 |
+| 21 | Regina | MSc CS, project route | **70% overall, 75% CS** ❌ Fail | ❓ Not published | Suspended. Needs a supervisor | 6.5 | Feb 15 | CAD 19,406 ≈ BDT 1,708,000 |
 
-## Tier B: GPA rule of 3.0 ("B"). Borderline, or other risk
-
-3.0 on a 4.0 scale is about 70% (B). My 3.34 GPA is above 3.0. But if the university converts my 68% last-2-years as a percentage, I may fall just under B. They do not publish the conversion for BAIUST.
-
-| Rank | University | Program | Prov. | Result | Percentage / GPA rule vs my profile | Other risk | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
-|---|---|---|---|---|---|---|---|---|---|
-| 5 | Dalhousie University | Master of Digital Innovation (MDI) | NS | Maybe | 3.0 (B) in last 60 credits. No math rule | IELTS 7.0 | 7.0 | Apr 1 | **About CAD 39,151** (16 months, my arithmetic) ≈ BDT 3,445,000 |
-| 6 | University of Calgary | Information Security and Privacy (MISP) | AB | Maybe | 3.0/4.0 in last 60 units. No math rule | IELTS 7.0 and 6.5 each band | 7.0 / 6.5 | Mar 1, 2027 | **CAD 44,441** (tuition only) ≈ BDT 3,911,000 |
-| 7 | Dalhousie University | Master of Applied CS (MACSc) | NS | Maybe | 3.0 (Dal 4.3 scale) in technical courses. Screens last 2 years. Dal's 4.3 scale makes 3.0 harder | Interview. IELTS 7.0 | 7.0 | Apr 1 | **About CAD 17,938** (my arithmetic; may miss an international fee) ≈ BDT 1,579,000 |
-| 8 | University of Alberta | MEng Electrical and Computer Eng. | AB | Maybe | 3.0/4.0 in last 60 units. One FAQ reportedly says 3.7–3.8 | Very competitive. IELTS 7.0 | 7.0 / 6.0 | Apr 7 | **CAD 22,932 to 25,411** (my arithmetic) ≈ BDT 2,018,000 to 2,236,000 |
-| 9 | Memorial University (MUN) | Master of Data Science (MDSc) | NL | Risky | "Second class" only | **Math:** needs multivariate calculus knowledge. My Calculus is C+ | 6.5 | Jan 15 | **CAD 26,936** (1 year only) ≈ BDT 2,370,000 |
-| 10 | University of Winnipeg | MSc Applied CS and Society | MB | Risky | GPA 3.0 on a 4.5 scale (program page) vs 3.0/4.0 (Bangladesh page). 3.0 on 4.5 is about 67% | **Math:** 3.0 pooled in computing + math + stats. My math alone is 2.75–2.92 | 6.5 | Feb 1 | **About CAD 40,333** (2 years) ≈ BDT 3,549,000 |
-| 11 | UNB | Master of Applied Cybersecurity (MACSec) | NB | Leaning No | "B average". If my degree has a class, UNB asks for First or Upper-Second. I am not First Class | Strict background course list. IELTS 7.0 | 7.0 | Feb 28 | **CAD 30,740** ≈ BDT 2,705,000 |
-| 12 | UNB | Master of CS by Coursework (MCSC) | NB | Leaning No | B on CS page, B+ on Grad Studies page. First or Upper-Second class if classed | IELTS 7.0 and 7.0 in writing | 7.0 | Feb 28 | **CAD 18,740+** (10 courses, tuition only) ≈ BDT 1,649,000+ |
-
-## Tier C: Published percentage is above mine (I fail on paper)
-
-| Rank | University | Program | Prov. | Result | Percentage rule vs my 66% / 68% | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
-|---|---|---|---|---|---|---|---|---|
-| 13 | St. Francis Xavier (StFX) | Master of Applied CS (MACS) | NS | **No on paper** | **70% average.** I am 66%. Official page blocked in my checks. Ask `macs@stfx.ca` how BAIUST converts. Paid co-op | 6.5 / 6.0 | May 1 | **CAD 40,176** (2 x 20,088.10) ≈ BDT 3,535,000 |
-| 14 | Cape Breton University | MAI and Business Analytics (MAIBA) | NS | **No on paper** | **3.0 = 73–76% in last 60 credits.** I am 68% in the last 2 years. Stats rule is OK (my Stats is B+) | 6.5 / 6.0 | May 15, 2027 | **CAD 35,195** ≈ BDT 3,097,000 |
-| 15 | Acadia University | MSc CS (course or project) | NS | **No** | **70% (B-) in last 2 years / major courses.** Also needs 9 courses at B- or better incl. Calculus I (mine is C+) | 7.0 / 6.5 | Apr 1 (rolling) | **CAD 39,814** (2-year route) ≈ BDT 3,504,000 |
-| 16 | Memorial University (MUN) | MSc CS, course route | NL | **No** | **75% overall.** Only the department head can waive | 6.5 | Dec 1 | **CAD 15,600+** (tuition only) ≈ BDT 1,373,000+ |
-| 17 | Memorial University (MUN) | Master of Artificial Intelligence | NL | **No** | **75% / Upper Second.** Also needs vector calculus | 6.5 | Dec 1 | **CAD 29,948** ≈ BDT 2,635,000 |
-
-## Tier D: Percentage fail plus another blocker
-
-| Rank | University | Program | Prov. | Result | Why | Deadline | Total cost, whole program (CAD → BDT) |
-|---|---|---|---|---|---|---|---|
-| 18 | University of Calgary | Data Science and Analytics (MDSA) | AB | **No** | Calculus and Linear Algebra need B. Mine are C+. Also IELTS 7.0 / 6.5 | Mar 1, 2027 | **CAD 47,453** ≈ BDT 4,176,000 |
-| 19 | University of Regina | MEng Software Systems (Project) | SK | **No** | **70% overall.** Exception only with 75%+ in last 2 years. I have 68% | Jan 31 | **CAD 26,935** ≈ BDT 2,370,000 |
-| 20 | University of Regina | MSc CS, course-based | SK | **No** | **70% overall and 75% in CS.** Admission suspended | Feb 15 | **CAD 26,171** ≈ BDT 2,303,000 |
-| 21 | University of Regina | MSc CS, project route | SK | **No** | **70% overall and 75% in CS.** Suspended. Needs a supervisor | Feb 15 | **CAD 19,406** ≈ BDT 1,708,000 |
+Tiers: **1–4** best (no percent rule, no math rule). **5–12** borderline GPA 3.0 or other risk. **13–17** published percent above mine. **18–21** percent fail plus another blocker.
 
 ---
 
