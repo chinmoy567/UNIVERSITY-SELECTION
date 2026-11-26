@@ -143,3 +143,103 @@ Last checked: 2026-11-22
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check (2026-11-27): NO thesis. Calendar 16.2 requires courses plus "DSCI 6690 and DSCI 695A/B and a final project report." Course-based. OK for this project.
+Exchange rate used: 1 CAD = about 88 BDT (third-party converters on 2026-11-27 ranged 85.9 to 90.3; no official rate; approximate).
+Note: the fetch tool returned summaries of some pages, so wording below is close to official but not always word for word.
+
+### Program overview
+Source: https://www.mun.ca/become/graduate/programs-and-courses/data-science/ (checked 2026-11-27)
+
+- The Master of Data Science (MDSc) is a one-year, course-based program offered jointly by the Departments of Mathematics and Statistics and Computer Science, St. John's campus.
+- Covers predictive modelling, machine learning, artificial intelligence, data visualization and big data mining.
+- Degree: MDSc. Duration: one year for full-time students.
+- Structure (program page): "ten courses, plus a case study series and a capstone project".
+- Admission: bachelor's degree with minimum second-class standing; at least one college-level course or equivalent knowledge in multivariate calculus, statistical inference, and programming in a high-level language (R, Python, C, C++, Java).
+- Admitted students must complete three online, non-credit propaedeutic courses before the first semester (enrolment is conditional on this).
+- Application deadline: January 15 for Fall admission.
+- Contact: no named contact on page; "Request More Information" form. Program email from earlier notes: datascience@mun.ca.
+
+### Regulations: Program of Study (calendar 16.2)
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/16/2 (checked 2026-11-27)
+
+Minimum requirements for the Degree of Master of Data Science:
+1. The graduate courses DSCI 6601, DSCI 6602, DSCI 6607, DSCI 6619, DSCI 6659, plus two additional 3-credit hour courses from the Data Science Elective Courses list or approved courses from other academic units.
+2. DSCI 6690 and DSCI 695A/B and a final project report. "The report must demonstrate a satisfactory general mastery of data science knowledge."
+
+Section 16.3 Evaluation: Not verified (text not read).
+
+### Admission (program site)
+Source: https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/admission/ (checked 2026-11-27)
+
+- "Admission will be competitive." The Chair of the Programme, with the Graduate Studies committees of Computer Science and Mathematics and Statistics, oversees admission. Open to applicants from a wide range of undergraduate backgrounds.
+- Minimum: second-class four-year bachelor's degree in a relevant area, plus the General Regulations in Section 4 of the School of Graduate Studies calendar.
+- Evidence of at least one college-level course, or equivalent knowledge, in multivariate calculus, statistical inference, and programming in a high-level language such as R, Python, C, C++, Java, or Lisp.
+- English proficiency: Subsection 4.1.5 of the calendar (scores in section 4 above).
+- Program: 21 credit hours of courses, a case study series, and a capstone project. Full-time.
+- Numeric GPA or percentage, Bangladesh-specific rules: Not verified.
+
+### Program of Study and term plan
+Source: https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/program-of-study/ (checked 2026-11-27)
+
+| Term | Courses |
+| --- | --- |
+| Fall | DSCI 6619 Regression models; DSCI 6601 Practical machine learning; DSCI 6607 Programmatic data analysis using R and Python; DSCI 6690 Data science case study series. Also register for SUBJ 9000. |
+| Winter | DSCI 6659 Statistical exploration of data; DSCI 6602 Deep learning and artificial intelligence; DSCI 695A Capstone project; Elective 1 and possibly Elective 2 |
+| Spring | DSCI 695B Capstone project; Elective 2 if not previously completed |
+
+### Course list (calendar 16.4)
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/16/4 (checked 2026-11-27)
+
+16.4.1 Data Science Required Courses
+
+| Code | Title | Credit hours |
+| --- | --- | --- |
+| DSCI 5001 | Statistical Inference for Data Science (propaedeutic) - inactive course | Not verified |
+| DSCI 5002 | Basics of Python and R (propaedeutic) - inactive course | Not verified |
+| DSCI 5003 | Linear Algebra for Regression Analysis (propaedeutic) - inactive course | Not verified |
+| DSCI 6601 | Practical Machine Learning | Not verified |
+| DSCI 6602 | Deep Learning and Artificial Intelligence | Not verified |
+| DSCI 6607 | Programmatic Data Analysis Using Python and R | Not verified |
+| DSCI 6619 | Regression Models (cross listed with STAT 6519) | Not verified |
+| DSCI 6659 | Statistical Exploration of Data (cross listed with STAT 6559) | Not verified |
+| DSCI 6690 | Data Science Case Study Series | 2 |
+| DSCI 695A/B | Capstone Project | 2 |
+
+Course descriptions and prerequisites: Not verified (the calendar section lists only codes and titles; descriptions are on separate course pages not read).
+
+16.4.2 Data Science Elective Courses
+- Business: BUSI 8025 Information Systems; BUSI 9021 Data Management; BUSI 9022 Information Systems Analysis and Design; BUSI 9912 Probabilistic Models (inactive).
+- Computer Science: COMP 6907 Data Mining Techniques and Methodology; COMP 6908 Database Technology and Applications; COMP 6910 Services Computing, Semantic Web and Cloud Computing; COMP 6917 Complex Networks; COMP 6934 Introduction to Data Visualization.
+- Data Science: DSCI 6650 Reinforcement Learning.
+- Mathematics: MATH 6100 Dynamical Systems; MATH 6201 Numerical Methods for Time-Dependent Differential Equations; MATH 6202 Nonlinear and Linear Optimisation; MATH 6204 Iterative Methods in Numerical Linear Algebra; MATH 6210 Numerical Solutions of Differential Equations; MATH 6351 Advanced Linear Algebra.
+- Medicine: MED 6260 Applied Data Analysis for Clinical Epidemiology; MED 6278 Advanced Biostatistics for Health Research.
+- Scientific Computing: CMSC 6950 Computer Based Tools and Applications.
+- Statistics: STAT 6503 Stochastic Processes; STAT 6505 Survival Analysis; STAT 6530 Longitudinal Data Analysis; STAT 6545 Computational Statistics; STAT 6561 Categorical Data Analysis; STAT 6563 Sampling Theory; STAT 6564 Experimental Designs; STAT 6571 Financial and Environmental Time Series; STAT 6573 Statistical Genetics.
+
+### Tuition and fees (international rates)
+Source: https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/expenses-and-fees/ (checked 2026-11-27)
+
+| Item | International | NL students | Other Canadian |
+| --- | --- | --- | --- |
+| Upon admission special fee (non-refundable seat deposit, credited against tuition and fees) | CAD 2,000 (≈ BDT 176,000) | CAD 950 | CAD 950 |
+| Tuition per semester | CAD 2,218 (≈ BDT 195,200) | CAD 1,313 | CAD 1,707 |
+| Special fee per semester (charged equally over three semesters) | CAD 6,761 (≈ BDT 595,000) | CAD 5,101 | CAD 5,101 |
+
+- This confirms the MDSc special fee for international students (earlier marked Unverified): CAD 6,761 per semester.
+- Per year (3 semesters, international): tuition CAD 6,654 (≈ BDT 585,600) + special fee CAD 20,283 (≈ BDT 1,785,000) = about CAD 26,937 (≈ BDT 2,370,500). The seat deposit is credited to this, not added.
+- Program page quotes international tuition "$1,074 to $2,218" per semester; the program expenses page gives 2,218 for this program. Board of Regents fees take precedence.
+- Co-op, MDSc-specific scholarships, FAQ: Not verified.
+
+### Sources
+- https://www.mun.ca/become/graduate/programs-and-courses/data-science/ (checked 2026-11-27)
+- https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/16/2 (checked 2026-11-27)
+- https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/16/4 (checked 2026-11-27)
+- https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/program-of-study/ (checked 2026-11-27)
+- https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/admission/ (checked 2026-11-27)
+- https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/expenses-and-fees/ (checked 2026-11-27)
+- Exchange rate (third-party, approximate): https://wise.com/us/currency-converter/cad-to-bdt-rate (2026-11-27)
