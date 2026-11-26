@@ -145,3 +145,112 @@ Winter start swaps the order. The page also shows a 5th term (2 COMP + 1 electiv
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Checked 2026-11-27. Rate used: 1 CAD = 87.97 BDT (Bangladesh Bank, 8 Nov 2026, from earlier note). Live search on 2026-11-27 showed 86 to 90 BDT per CAD on Wise and Revolut (third party). Fees are international rates.
+Note: the web tool could only return summaries, not word-for-word page text. Course credit hours and full course descriptions: **Not verified**.
+
+### Thesis check
+Verdict: course route is OK. The calendar has two options: Option 1 (thesis) and Option 2 (course-based). Only Option 2 is kept here. The thesis route is skipped.
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/32/9/ (checked 2026-11-27)
+
+### Program page (course route)
+Source: https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/ (checked 2026-11-27)
+
+- 4 semesters (16 months), start in September or January.
+- Expected: Bachelor's in Computer Science or a related field, such as Computer Engineering or Information Technology.
+- At least 10 courses, at least 7 in Computer Science. The other 3 may be electives in CS or related disciplines approved by the Graduate Studies Committee.
+
+| Term | Start in Fall | Start in Winter |
+| --- | --- | --- |
+| Sep-Dec | 2 COMP courses | 3 COMP courses |
+| Jan-Apr | 3 COMP courses | 2 COMP courses |
+| May-Aug | 2 elective courses | 2 elective courses |
+| Sep-Dec | 2 COMP and 1 elective | 3 COMP courses |
+| Jan-Apr | 2 COMP and 1 elective | 2 COMP and 1 elective |
+
+- Co-op: after three semesters, some students may enrol in work term courses. Full-time, paid, 1 or 2 semesters (4 or 8 months), one employer. Limited, competitive, selective. A work term normally extends the program by one semester.
+- Funding: no financial aid for course-based students; they must support themselves.
+
+### Graduate calendar 32.9 (Computer Science)
+Source: https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/32/9/ (checked 2026-11-27)
+
+- Admission (32.9.1): Bachelor's with major in Computer Science or Computer Engineering, minimum 75% overall average and/or Upper Second Class standing. Head of Department may waive in special circumstances. International applicants encouraged to submit GRE.
+- Option 2 (course-based): at least 30 credit hours, at least 21 in Computer Science. The remaining 9 may be approved related CS courses or other courses approved by the Graduate Studies Committee.
+- Full-time students expected to finish in 2 years, part-time in 4. Each work term adds one semester.
+- Minimum 65% in each program course. Two courses below 65% (or one failed repeated course) means withdrawal.
+- Route change allowed once, after 12 credit hours.
+- Co-op work terms COMP 611W and 612W: competitive; 12 credit hours completed before and 3 remaining after.
+
+### Course list (calendar 32.9.4)
+Credit hours and descriptions: Not verified.
+
+| Code | Title | Status |
+| --- | --- | --- |
+| COMP 611W | Work Term I | |
+| COMP 612W | Work Term II | |
+| COMP 690A/B | Research Methods in Computer Science | thesis route |
+| COMP 6758-6769 | Special Topics in Computer Applications | |
+| COMP 6770-6790 | Special Topics in Computer Science | |
+| COMP 6901 | Applied Algorithms | |
+| COMP 6902 | Computational Complexity | |
+| COMP 6903 | Concurrent Computing | |
+| COMP 6904 | Advanced Computer Architecture | inactive |
+| COMP 6905 | Software Engineering | |
+| COMP 6906 | Numerical Methods | inactive |
+| COMP 6907 | Data Mining Techniques and Methodologies | |
+| COMP 6908 | Database Technology and Applications | |
+| COMP 6909 | Fundamentals of Computer Graphics | |
+| COMP 6910 | Services Computing, Semantic Web and Cloud Computing | |
+| COMP 6911 | Bio-inspired Computing | inactive |
+| COMP 6912 | Autonomous Robotics | |
+| COMP 6913 | Bioinformatics | inactive |
+| COMP 6914 | 3D Modelling and Rendering | inactive |
+| COMP 6915 | Machine Learning | |
+| COMP 6916 | Security and Privacy | |
+| COMP 6918 | Digital Image Processing | inactive |
+| COMP 6921 | Syntax and Semantics of Programming Languages | inactive |
+| COMP 6922 | Compiling Methods | inactive |
+| COMP 6924 | Formal Grammars, Automata and Languages | inactive |
+| COMP 6925 | Advanced Operating Systems | inactive |
+| COMP 6926 | Performance Evaluation of Computer Systems | inactive |
+| COMP 6928 | Knowledge-Based Systems | |
+| COMP 6929 | Advanced Computational Geometry | inactive |
+| COMP 6930 | Theory of Databases | inactive |
+| COMP 6931 | Matrix Computations and Applications | inactive |
+| COMP 6932 | Matrix Computations in Control | inactive |
+| COMP 6933 | Nonlinear and Linear Optimization | inactive |
+| COMP 6934 | Introduction to Data Visualization | |
+| COMP 6980 | Algorithmic Techniques in Artificial Intelligence | |
+| COMP 6981 | Data Preparation Techniques | |
+| COMP 6982 | Computer Vision | |
+| COMP 6983 | Advanced Interaction Techniques | |
+| COMP 6984 | Future Networks and Applications of Machine Learning | |
+| COMP 6985-6998 | Special Topics in Computer Science | |
+| COMP 6999 | Master's Project I | Not verified whether allowed in course route (calendar excludes 6999/7000 from thesis-route counting) |
+| COMP 7000 | Master's Project II | same |
+
+### Deadlines and intakes (MSc course, code MS/COMP/COUR)
+Source: https://www.mun.ca/computerscience/graduate-students/info-for-applicants/ (checked 2026-11-27, page updated Feb 13, 2026)
+
+| Start | Initial target date | Extended |
+| --- | --- | --- |
+| Fall (September) | December 1 | Dec 2 to March 15 (fewer seats) |
+| Winter (January) | April 1 | Apr 2 to July 15 (fewer seats) |
+
+Evaluation starts soon after the target date; offers usually in 1 to 2 months. International students may not have time to get a study permit. Required documents are not listed on this page.
+
+### Fees, English, contacts
+All fee, English-test and contact details are in sections 4, 5 and 9 above (not re-opened on 2026-11-27, so still from the 2026-11-22 check). Not verified in this pass.
+
+## Sources
+
+| Page | Link | Date checked |
+| --- | --- | --- |
+| Program page | https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/ | 2026-11-27 |
+| Calendar 32.9 | https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/32/9/ | 2026-11-27 |
+| Info for applicants | https://www.mun.ca/computerscience/graduate-students/info-for-applicants/ | 2026-11-27 |
+| Exchange rate (Bangladesh Bank) | https://www.bb.org.bd/econdata/exchange_rate/exchange_rate_08_11_2026.pdf | 2026-11-08 |
