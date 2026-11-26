@@ -136,3 +136,90 @@ Last checked: 2026-11-22
 | Your math | Calculus I C+, Linear Algebra C+, Diff. Eq. B-, Probability & Stats B+, Discrete B, Numerical B-. |
 | CGPA used | CGPA 3.34 (portal shows 3.29 now; capstone 6 credits A+ will be added) |
 | Source | Official program, calendar and FAQ pages. Full list in `Canada - Am I Eligible.md`, Section 5. |
+
+---
+
+## Full Official Program Information
+
+Thesis check (2026-11-27): MACSec is a one-year course-based program with a capstone project (CS6495). No thesis or research supervisor is required. Note: the fetch tool returned page summaries, so wording below is quoted where quote text was returned and marked "(page summary)" where it is paraphrased.
+
+Exchange rate used: CAD 1 = BDT 86.40 (Revolut converter snapshot, https://www.revolut.com/en-US/currency-converter/convert-cad-to-bdt-exchange-rate/, checked 2026-11-27; page shows no timestamp; other sites show 86 to 90). All fees below are international rates.
+
+### Program overview (page summary)
+The Master of Applied Cybersecurity (MACSec) is a one-year graduate program offered by the Faculty of Computer Science and the Canadian Institute for Cybersecurity (CIC) at UNB Fredericton. It runs over three semesters (Fall, Winter, Summer). Topics: Principles of Data Communications and Networks Modelling; Cryptanalysis and database security; Fundamentals of information assurance; Foundations of privacy; Network security; Software security; Digital forensics elective and capstone project.
+Contacts: cic@unb.ca, csgrad@unb.ca
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/macsec/index.html (checked 2026-11-27)
+
+### Program structure
+| Term | Courses |
+| --- | --- |
+| Fall/Winter | CS2413 Fundamentals of Information Security (only if the prerequisite is missing); CS6865; CS6411; CS6355; CS6415; CS6413; CS6417; one course from CS6075, CS6585, CS6735, TME3423, TME6386, MBA6606 |
+| Summer | CS6419 Digital Forensics; CS6495 Capstone Project |
+
+The program page gives credits only for the capstone (6 credits). Conflict: the graduate calendar lists CS6495 as 3 ch. The program page is program-specific; the calendar is the formal course record. Verify with the university.
+
+Source: https://www.unb.ca/fredericton/cs/grad/masters/macsec/index.html (checked 2026-11-27)
+
+### Course descriptions (Graduate Calendar)
+| Code | Title | Credit hours | Prerequisites |
+| --- | --- | --- | --- |
+| CS6865 | Principles of Data Communications and Networks Modelling | 3 ch | courses in net-centric computing, computer organization, and high-level programming |
+| CS6411 | Fundamental of Information Assurance | 3 ch | none listed |
+| CS6355 | Cryptanalysis and Database Security | 3 ch | none listed |
+| CS6415 | Network Security | 3 ch | none listed |
+| CS6413 | Foundations of Privacy | 3 ch | none listed |
+| CS6417 | Software Security | 3 | INFO2403 and CS2043, or approval of the instructor |
+| CS6419 | Digital Forensics | 3 | INFO2403 or approval of the instructor |
+| CS6495 | Cybersecurity Capstone Project | 3 (calendar) / 6 (program page) | CS4415/6415, CS4419/6419 |
+
+- CS6865: "This course covers advanced concepts of design of data communications systems: architecture, media, communication channel, routing, protocols, protocol architecture and focusses on modelling and performance analysis. Includes introduction to network simulation."
+- CS6411: "This course gives an introduction into information assurance, describes the vulnerabilities of IT infrastructures," then (page summary) covers risk management, security policies and awareness programs, legal and ethical issues, IT security auditing, encryption and decryption, trusted operating systems, database and network security, and security administration.
+- CS6355: "This course is a practical survey of the principles and practice of information security. Topics include conventional encryption, asymmetric and symmetric cryptology, digital signatures, key exchange, authentication, viruses, worms, electronic mail security, network management security, the common criteria, and threat risk management."
+- CS6415: "This course examines advanced topics in network security, including: security risks and threats, security mechanisms across OSI model layers. Students will study the analysis of systems for vulnerabilities, the implementation of security procedures and the monitoring of systems for security breaches. Wireless network security will also be introduced."
+- CS6413: "covers diverse topics on privacy preservation including basic cryptographic techniques for privacy." Then (page summary) homomorphic encryption, database and big data privacy, cloud, crowdsourcing, healthcare, vehicular networks, social networks, location privacy; privacy law and regulation; emphasis on "both theoretical aspects and practical applications of privacy enhancing techniques."
+- CS6417: "This course sits at the intersection of computer security and software engineering. It is designed to give students practical experience with building a software system and securing it. It covers tools, guidelines, rules, principles, and other resources for addressing security issues in every phase of the software development life cycle (SDLC). Students will engage in a significant group-programming project to develop a novel piece of software. Emphasis will be placed on the correctness and robustness of software, and on security as part of the software engineering process."
+- CS6419: "This course introduces digital forensics notions and methods. Students will gain a basic understanding and legal awareness of computer security and forensics, techniques used in the evidentiary process, various methodologies intrinsic to computer forensics with emphasis on computer incident response, and IT systems protection."
+- CS6495: "This capstone project course provides students with an opportunity to apply the knowledge and skills acquired from the cybersecurity program coursework to a project involving a real-world industrial application. During the project, students engage in the entire process of solving a real-world cybersecurity project, from defining a realistic cybersecurity problem to applying suitable methodology for the design, development, and evaluation of an appropriate solution to the problem. Students will write a final report on their project, structured as a typical research paper."
+- CS2413, CS6075, CS6585, CS6735, TME3423, TME6386, MBA6606: titles (except CS2413 as named on the program page), descriptions and credits Not verified (CS2413 calendar URL returned 404; electives not opened).
+
+Source: https://www.unb.ca/academics/calendar/graduate/current/courses-/fredericton-courses/computer-science-courses/ (pages cs-6865, cs-6411, cs-6355, cs-6415, cs-6413, cs-6417, cs-6419, cs-6495) (checked 2026-11-27)
+
+### Admission requirements (MCS coursework and MACSec)
+- An undergraduate degree in computer science or a related field such as engineering or science.
+- A minimum GPA of B for the MCS by coursework and MACSec programs. MCS by thesis or report normally requires B+.
+- If the degree has a class classification, a first-class or second-class upper degree is required. How UNB maps Bangladesh classes and CGPA 3.34: Not verified.
+- A formal background in software engineering, data structures, operating systems, algorithms, and computer architecture or machine-level programming. Professional experience does not count toward minimum requirements.
+- English proficiency is required for international applicants whose mother tongue is not English; it will not be waived and the final Certificate of Acceptance is not issued until it is met.
+- GRE not required; may be requested for applicants with non-Canadian backgrounds that are hard to assess (suggested 600 Quantitative and 3.5 Analytical Writing), sent directly by the testing agency.
+- Applications are reviewed only when complete and the application fee is paid. International applicants outside Canada should apply at least six months ahead. Admission is competitive and may be unconditional, conditional or probationary. Admission does not include financial assistance.
+- Documents, SOP and reference letters for MACSec: see sections above; the MACSec page itself: Not verified.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html (checked 2026-11-27)
+
+### Deadlines and intakes (September intake)
+| Date | Event |
+| --- | --- |
+| Dec. 15 | Early application deadline |
+| Jan. 15 | Application deadline, extended to Feb. 28 |
+| Mar. 31 | Decisions on applications completed by Jan. 15 |
+
+MACSec appears only in the September intake (the January intake lists MCS, MCSC, PhD only). Year of dates is not stated on the page.
+
+Source: https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html (checked 2026-11-27)
+
+### Tuition and fees (international, 2026-27)
+From the earlier check of the official fee PDF (not re-opened on 2026-11-27): program fee CAD 28,335.00 (≈ BDT 2,448,144) for three terms; total with all fees CAD 30,740.25 (≈ BDT 2,655,958). Per term: Fall and Winter CAD 11,334.00 (≈ BDT 979,258) each; Summer CAD 5,667.00 (≈ BDT 489,629). Application fee CAD 125 (≈ BDT 10,800). The full breakdown is in section 5 above.
+
+Source: https://unb.ca/finance/_assets/documents/financial-services/fredericton-tuition/grad/all-other/fred_gr_cybersecurity.pdf (earlier check 2026-11-22)
+
+### Not verified
+Total program credits; electives and CS2413 descriptions; co-op (earlier notes: none); scholarships; employment outcomes; FAQ.
+
+## Sources
+- https://www.unb.ca/fredericton/cs/grad/masters/macsec/index.html (checked 2026-11-27)
+- https://www.unb.ca/fredericton/cs/grad/admissionrequirements.html (checked 2026-11-27)
+- https://www.unb.ca/academics/calendar/graduate/current/courses-/fredericton-courses/computer-science-courses/ (checked 2026-11-27)
+- https://unb.ca/finance/_assets/documents/financial-services/fredericton-tuition/grad/all-other/fred_gr_cybersecurity.pdf (2026-11-22)
+- https://www.revolut.com/en-US/currency-converter/convert-cad-to-bdt-exchange-rate/ (2026-11-27)
+
