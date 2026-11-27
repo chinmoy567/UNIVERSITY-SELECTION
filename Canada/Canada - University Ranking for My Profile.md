@@ -40,14 +40,11 @@ Then I looked at IELTS (7.0+ is a risk), thesis (skip), and cost.
 
 | Rank | University | Program | Check 1: overall rule (me 66%) | Check 2: last-2-years rule (me 68%) | Other blocker | IELTS | Deadline (intl) | Total cost, whole program (CAD → BDT) |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Saint Mary's | MSc Computing & Data Analytics | ❓ Not published | ❓ Not published | Technical interview | 6.5/6.0 | May 1, 2027 | CAD 43,368 ≈ BDT 3,816,000 |
-| 2 | MUN | MASc Software Eng. | ❓ "Second class" (no number) | ❓ Not published | None found | 6.5 | Apr 1 | CAD 29,948 ≈ BDT 2,635,000 |
-| 3 | UCalgary | MEng Software | ❓ Not published | 3.0/4.0 → my GPA 3.47 ✅ (as GPA). Percent not published | CSE must count as "engineering" | 6.5/6.0 | Apr 1 | CAD 41,487–53,933 ≈ BDT 3,651,000–4,746,000 |
-| 4 | MUN | MASc Computer Eng. | ❓ "Second class" (no number) | ❓ Not published | Wants engineering degree | 6.5 | Apr 1 | CAD 29,948 ≈ BDT 2,635,000 |
-| 5 | Dalhousie | Master of Digital Innovation (MDI) | ❓ Not published | 3.0 (B) in last 60 credits ⚠️ borderline vs 68% | IELTS 7.0 | 7.0 | Apr 1 | About CAD 39,151 ≈ BDT 3,445,000 |
-| 6 | UCalgary | Info Security & Privacy (MISP) | ❓ Not published | 3.0/4.0 in last 60 units ⚠️ borderline | IELTS 7.0 / 6.5 each band | 7.0/6.5 | Mar 1, 2027 | CAD 44,441 ≈ BDT 3,911,000 |
-| 7 | Dalhousie | Applied CS (MACSc) | 3.0 (4.3 scale) in technical courses ⚠️ borderline | Screens last 2 years ⚠️ | Interview. IELTS 7.0 | 7.0 | Apr 1 | About CAD 17,938 ≈ BDT 1,579,000 |
-| 8 | UAlberta | MEng Electrical & Computer Eng. | ❓ Not published | 3.0/4.0 in last 60 units ⚠️ borderline | Very competitive (FAQ says 3.7–3.8) | 7.0/6.0 | Apr 7 | CAD 22,932–25,411 ≈ BDT 2,018,000–2,236,000 |
+| 4 | Saint Mary's | MSc Computing & Data Analytics | ❓ Not published | ❓ Not published | Technical interview | 6.5/6.0 | May 1, 2027 | CAD 43,368 ≈ BDT 3,816,000 |
+| 5 | MUN | MASc Software Eng. | ❓ "Second class" (no number) | ❓ Not published | None found | 6.5 | Apr 1 | CAD 29,948 ≈ BDT 2,635,000 |
+| 6 | Dalhousie | Master of Digital Innovation (MDI) | ❓ Not published | 3.0 (B) in last 60 credits ⚠️ borderline vs 68% | IELTS 7.0 | 7.0 | Apr 1 | About CAD 39,151 ≈ BDT 3,445,000 |
+| 7 | UCalgary | Info Security & Privacy (MISP) | ❓ Not published | 3.0/4.0 in last 60 units ⚠️ borderline | IELTS 7.0 / 6.5 each band | 7.0/6.5 | Mar 1, 2027 | CAD 44,441 ≈ BDT 3,911,000 |
+| 8 | Dalhousie | Applied CS (MACSc) | 3.0 (4.3 scale) in technical courses ⚠️ borderline | Screens last 2 years ⚠️ | Interview. IELTS 7.0 | 7.0 | Apr 1 | About CAD 17,938 ≈ BDT 1,579,000 |
 | 9 | MUN | Master of Data Science | ❓ "Second class" (no number) | ❓ Not published | **Math:** multivariate calculus (my Calculus C+) | 6.5 | Jan 15 | CAD 26,936 (1 yr) ≈ BDT 2,370,000 |
 | 10 | UWinnipeg | MSc Applied CS & Society | 3.0 on 4.5 scale (≈67%) ⚠️ borderline | ❓ Not published | **Math:** 3.0 pooled in computing+math+stats (mine 2.75–2.92) | 6.5 | Feb 1 | About CAD 40,333 ≈ BDT 3,549,000 |
 | 11 | UNB | Master of Applied Cybersecurity | "B average"; First/Upper-Second if classed ⚠️ I am not First Class | ❓ Not published | Strict background list | 7.0 | Feb 28 | CAD 30,740 ≈ BDT 2,705,000 |
@@ -62,7 +59,7 @@ Then I looked at IELTS (7.0+ is a risk), thesis (skip), and cost.
 | 20 | Regina | MSc CS, course-based | **70% overall, 75% CS** ❌ Fail | ❓ Not published | Admission suspended | 6.5 | Feb 15 | CAD 26,171 ≈ BDT 2,303,000 |
 | 21 | Regina | MSc CS, project route | **70% overall, 75% CS** ❌ Fail | ❓ Not published | Suspended. Needs a supervisor | 6.5 | Feb 15 | CAD 19,406 ≈ BDT 1,708,000 |
 
-Tiers: **1–4** best (no percent rule, no math rule). **5–12** borderline GPA 3.0 or other risk. **13–17** published percent above mine. **18–21** percent fail plus another blocker.
+Tiers: **1–2** best (no percent rule, no math rule). **3–9** borderline GPA 3.0 or other risk. **10–14** published percent above mine. **15–18** percent fail plus another blocker.
 
 ---
 
@@ -72,7 +69,6 @@ Tiers: **1–4** best (no percent rule, no math rule). **5–12** borderline GPA
 |---|---|---|
 | **1st** | Saint Mary's MSc Computing and Data Analytics | No percentage rule, no math rule published. IELTS 6.5 fits my estimate. Paid work |
 | **2nd** | MUN MASc Software Engineering | "Second class" only. No math rule. IELTS 6.5. Lower cost |
-| Backup | UCalgary MEng Software | Last-2-years rule is 3.0 and I have about 3.47. Check the "engineering degree" question first |
 
 **Do not spend money on Tier C and D.** They publish a percentage that I do not meet.
 
